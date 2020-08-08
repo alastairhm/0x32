@@ -1,0 +1,4 @@
+baseURL = "http://0x32.uk/"
+languageCode = "en-us"
+title = "0x32++"
+theme = "ananke"

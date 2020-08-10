@@ -42,3 +42,4 @@ notifications:
     email: true
 ```
 
+![Travis CI](/travisci.jpg)

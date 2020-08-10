@@ -14,10 +14,10 @@ install:
   - sudo dpkg -i hugo_0.74.3_Linux-64bit.deb
 before_script:
   - python --version
-  - sudo pip install s3cmd
+  - sudo pip3 install s3cmd
 script:
   - hugo
 after_success:
-  - s3cmd sync --delete-removed --no-preserve --access_key=$ACCESS_KEY_ID --secret_key=$SECRET_ACCESS_KEY -r public/ s3://$BUCKET_NAME
+  - s3cmd sync -v --delete-removed --no-preserve --access_key=$ACCESS_KEY_ID --secret_key=$SECRET_ACCESS_KEY -r public/ s3://$BUCKET_NAME
 notifications:
     email: true

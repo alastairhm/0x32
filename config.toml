@@ -2,3 +2,23 @@ baseURL = "http://0x32.uk/"
 languageCode = "en-us"
 title = "0x32++"
 theme = "ananke"
+
+SectionPagesMenu = "main"
+Paginate = 10
+enableRobotsTxt = true
+
+ [params]
+   favicon = ""
+   site_logo = ""
+   description = "Views from the wrong side of 0x32"
+   facebook = ""
+   twitter = "https://twitter.com/alastair_hm"
+   instagram = "https://www.instagram.com/alastair_hm/"
+   youtube = ""
+   github = "https://github.com/alastairhm/"
+   gitlab = ""
+   linkedin = "https://www.linkedin.com/in/alastair-montgomery-8b169b14/"
+   mastodon = "https://mastodon.me.uk/@Alastair"
+   slack = ""
+   stackoverflow = "https://stackoverflow.com/users/96534/alastair-montgomery"
+   rss = "index.xml"

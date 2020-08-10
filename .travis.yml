@@ -1,5 +1,5 @@
 # Auto deploy repo from Github to Amazon S3 bucket via Travis CI
-# * Set env vars for ACCESS_KEY_ID, BUCKET_NAME and SECRET_ACCESS_KEY on Travis 
+# * Set env vars for ACCESS_KEY_ID, BUCKET_NAME and SECRET_ACCESS_KEY on Travis
 # * Update `bucket.name` in `sync` command
 # * Assumes your `publishDir` is the default (`public`) - if not update `sync` command
 
@@ -10,15 +10,17 @@ addons:
   apt:
     packages:
     - libcurl4-openssl-dev # required to avoid SSL errors
-install: go get -v github.com/spf13/hugo
+install:
+  - mkdir $HOME/src
+  - cd $HOME/src
+  - git clone clone https://github.com/gohugoio/hugo.git
+  - cd hugo
+  - go install
 before_script:
-  - ruby --version
-  - gem install html-proofer
   - python --version
   - sudo pip install s3cmd
 script:
   - hugo
-  - htmlproofer public/ 
 after_success:
   - s3cmd sync --delete-removed --no-preserve --access_key=$ACCESS_KEY_ID --secret_key=$SECRET_ACCESS_KEY -r public/ s3://$BUCKET_NAME
 notifications:

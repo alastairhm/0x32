@@ -2,6 +2,8 @@
 title: "My First Post"
 date: 2020-08-08T15:42:18+01:00
 draft: false
+tags: ['thoughts']
+categories: ['General']
 ---
 
 ## My First Post

@@ -1,5 +1,7 @@
 ---
 title: "Automation"
+tags: ['tech','Travis CI','CI/CD']
+categories: ['Technical']
 date: 2020-08-10T11:00:49+01:00
 draft: false
 ---

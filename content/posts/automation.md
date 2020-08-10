@@ -1,3 +1,20 @@
+---
+title: "Automation"
+date: 2020-08-10T11:00:49+01:00
+draft: false
+---
+
+## Automate publishing
+
+To make the publishing of new content easily I am using Travis CI to publish changes.
+
+I did try installing Hugo from source but this took longer and was producing errors so it was easier to download the binary.
+
+Using this as the Travis CI pipline yaml.
+
+### Travis CI Pipeline
+
+```yaml
 # Auto deploy repo from Github to Amazon S3 bucket via Travis CI
 # * Set env vars for ACCESS_KEY_ID, BUCKET_NAME and SECRET_ACCESS_KEY on Travis
 # * Update `bucket.name` in `sync` command
@@ -21,3 +38,5 @@ after_success:
   - s3cmd sync -v --delete-removed --no-preserve --access_key=$ACCESS_KEY_ID --secret_key=$SECRET_ACCESS_KEY -r public/ s3://$BUCKET_NAME
 notifications:
     email: true
+```
+

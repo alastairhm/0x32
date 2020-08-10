@@ -21,4 +21,4 @@ enableRobotsTxt = true
    mastodon = "https://mastodon.me.uk/@Alastair"
    slack = ""
    stackoverflow = "https://stackoverflow.com/users/96534/alastair-montgomery"
-   rss = "index.xml"
+   rss = "http://0x32.uk/index.xml"

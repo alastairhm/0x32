@@ -4,6 +4,7 @@ date: 2020-08-11T09:01:22+01:00
 draft: false
 tags: ['art','vector','doodle']
 categories: ['Creative']
+featured_image: "/inkscape-logo.svg"
 ---
 
 Rediscoverying [Inkscape](https://inkscape.org/) vector drawing application after a few years, its even better than before.

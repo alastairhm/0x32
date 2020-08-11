@@ -4,6 +4,7 @@ tags: ['tech','android','git']
 categories: ['Technical']
 date: 2020-08-10T15:07:46+01:00
 draft: false
+featured_image: "/Android_Logo.jpg"
 ---
 
 Trying to think of a way to be able to post content from my Android devices (phone/ Fire Tablet).

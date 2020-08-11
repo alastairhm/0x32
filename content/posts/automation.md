@@ -8,7 +8,7 @@ draft: false
 
 ## Automate publishing
 
-![Process Flow](/mobileflow.png)
+![Process Flow](mobileflow.png)
 
 To make the publishing of new content easily I am using Travis CI to publish changes.
 
@@ -44,4 +44,4 @@ notifications:
     email: true
 ```
 
-![Travis CI](/travisci.jpg)
+![Travis CI](travisci.jpg)

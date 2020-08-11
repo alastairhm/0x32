@@ -23,7 +23,7 @@ disqusShortname = "0x32"
    slack = ""
    stackoverflow = "https://stackoverflow.com/users/96534/alastair-montgomery"
    rss = "http://0x32.uk/index.xml"
-   featured_image = "/Electron.jpg"
+   featured_image = "Electron.jpg"
 
 [taxonomies]
   category = "categories"

@@ -8,6 +8,8 @@ draft: false
 
 ## Automate publishing
 
+![Process Flow](/mobileflow.png)
+
 To make the publishing of new content easily I am using Travis CI to publish changes.
 
 I did try installing Hugo from source but this took longer and was producing errors so it was easier to download the binary.

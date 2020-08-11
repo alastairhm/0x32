@@ -1,7 +1,8 @@
 ---
 tags: ['tech','markdown','android']
+categories: ['Technical']
 created: '2020-08-10'
-title: 'Markor'
+title: 'Markor Android App'
 date: 2020-08-10T22:16:46+01:00
 ---
 
@@ -11,4 +12,4 @@ Found this useful Android Mark down application.
 
 It's on FDroid so it's easy to install o on my kindle as well.
 
-Then use Github website to upload the new file to Hugo repo.
+Then use Github website to upload the new file to my Hugo blog repo.

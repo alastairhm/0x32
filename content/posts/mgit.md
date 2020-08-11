@@ -4,6 +4,7 @@ tags: ['tech','android','git']
 categories: ['Technical']
 date: 2020-08-10T16:32:55+01:00
 draft: false
+featured_image: "/logo-git.png"
 ---
 
 Found [mGit App](https://github.com/maks/MGit) which looks like it would do the job of repo management on Android.

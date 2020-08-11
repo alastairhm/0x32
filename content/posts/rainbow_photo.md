@@ -2,7 +2,7 @@
 title: "Rainbow Photo"
 date: 2020-08-10T14:19:06+01:00
 draft: false
-tags: ['photo']
+tags: ['photo','art']
 categories: ['Creative']
 ---
 

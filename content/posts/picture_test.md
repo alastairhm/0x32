@@ -2,7 +2,7 @@
 title: "Picture test"
 date: 2020-08-10T11:46:43+01:00
 draft: False
-tags: ['photo']
+tags: ['photo','art']
 categories: ['Creative']
 ---
 

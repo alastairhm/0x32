@@ -4,6 +4,7 @@ categories: ['Technical']
 created: '2020-08-10'
 title: 'Markor Android App'
 date: 2020-08-10T22:16:46+01:00
+featured_image: "/Android_Logo.jpg"
 ---
 
 Found this useful Android Mark down application.

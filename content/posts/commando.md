@@ -1,7 +1,7 @@
 ---
 title: "Retro Gaming Commando"
 date: 2020-08-12T08:57:44+01:00
-draft: true
+draft: false
 tags: ['tech','retro','gaming','8bit','video']
 categories: ['Retro']
 featured_image: "https://i.imgur.com/6jGqWG9.jpeg"

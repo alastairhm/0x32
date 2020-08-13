@@ -14,6 +14,6 @@ This style of game is one of my favorites, loved Boulder Dash and Repton.
 {{< lbry "https://lbry.tv/$/embed/8bit-nibble-the-pit-new-commodore-plus-4/2059e72eb0251e8a354e20834b0c9ee58f0e46e9" >}}
 
 
-[Video Source Retro Collection](lbry://@retrorecollections#a/8bit-nibble-the-pit-new-commodore-plus-4#2)
+[Video Source Retro Collection](https://lbry.tv/@retrorecollections:a)
 
 [The Pit Download](http://plus4world.powweb.com/software/The_Pit)

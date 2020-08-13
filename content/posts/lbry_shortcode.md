@@ -4,6 +4,7 @@ date: 2020-08-13T13:50:32+01:00
 draft: false
 categories: ['Technical']
 tags: ['tech','Hugo','blog','dev']
+featured_image: "/hugo-logo.png"
 ---
 
 One thing I like about Hugo is how easy it is to expand its functionality with your own code.

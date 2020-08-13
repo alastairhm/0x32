@@ -2,7 +2,7 @@
 title: "The Pit New Retro Game"
 date: 2020-08-13T09:08:22+01:00
 draft: false
-tags: ['tech','retro','gaming','8bit','video']
+tags: ['tech','retro','gaming','8bit','video','lbry.tv']
 categories: ['Retro']
 featured_image: "/invader.jpg"
 ---

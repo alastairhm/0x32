@@ -2,7 +2,7 @@
 title: "The Pit New Retro Game"
 date: 2020-08-13T09:08:22+01:00
 draft: false
-tags: ['tech','retro','gaming','8bit','video','lbry.tv']
+tags: ['tech','retro','gaming','8bit','video','lbry']
 categories: ['Retro']
 featured_image: "/invader.jpg"
 ---
@@ -17,3 +17,5 @@ This style of game is one of my favorites, loved Boulder Dash and Repton.
 [Video Source Retro Collection](https://lbry.tv/@retrorecollections:a)
 
 [The Pit Download](http://plus4world.powweb.com/software/The_Pit)
+
+[Play Online](http://plus4world.powweb.com/play/the_pit)

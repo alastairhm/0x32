@@ -3,7 +3,7 @@ title: "Hugo Lbry Shortcode"
 date: 2020-08-13T13:50:32+01:00
 draft: false
 categories: ['Technical']
-tags: ['tech','Hugo','blog','dev']
+tags: ['tech','Hugo','blog','dev','lbry']
 featured_image: "/hugo-logo.png"
 ---
 

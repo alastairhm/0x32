@@ -3,3 +3,5 @@ title: "Articles"
 date: 2020-08-10T11:46:43+01:00
 ---
 Musings of an aging computer nerd hitting 0x32
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L622OXB)

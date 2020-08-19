@@ -1,5 +1,5 @@
 ---
-title: "Acornmod"
+title: "Acorn Electron Sound Mod"
 date: 2020-08-19T08:31:48+01:00
 draft: false
 categories: ['Geek']

@@ -11,6 +11,8 @@ I made the switch from Bash shell to the [FISH shell](https://fishshell.com/) a 
 
 Customization and auto-complete features was the killer features for me.
 
+Jump to the 20 minute mark for the shell discussion if you want.
+
 {{< lbry "https://lbry.tv/$/embed/destination-linux-188-bash-vs-zsh-vs/b8144d453646ba32a0b21b16586705315e077d68" >}}
 
 [Video Source Destination Linux](https://lbry.tv/@destinationlinux:9)

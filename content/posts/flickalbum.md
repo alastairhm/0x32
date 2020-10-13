@@ -25,3 +25,7 @@ width="800" height="600"
 alt="{{ index .Params 0 }}">
 </a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ```
+
+First parameter is the album title.
+Second parameter is the album URL.
+Third parameter is a URL to an image to use for the album.

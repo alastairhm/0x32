@@ -11,6 +11,6 @@ Inktober 2021 52 Week 1, Fresh
 
 
 {{< flickr "Fresh"
-           "Inktober 2021 52 Frewsh"
+           "Inktober 2021 52 Fresh"
            "https://www.flickr.com/photos/doodle_m/50804779301"
            "https://live.staticflickr.com/65535/50804779301_3e7878e0d6_c.jpg" >}}

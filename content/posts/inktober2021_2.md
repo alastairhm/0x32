@@ -10,8 +10,8 @@ featured_image: "https://live.staticflickr.com/65535/50835073263_049e473acc_z.jp
 Inktober 2021 52 Week 2, Home
 
 
-{{< flickr "Fresh"
-           "Inktober 2021 52 Fresh"
+{{< flickr "Home"
+           "Inktober 2021 52 Home"
            "https://www.flickr.com/photos/doodle_m/50835073263"
            "https://live.staticflickr.com/65535/50835073263_049e473acc_c.jpg" >}}
 

@@ -10,7 +10,7 @@ featured_image: "https://live.staticflickr.com/65535/50842301548_2fb8bd627b_z.jp
 Inktober 2021 52 Week 3, Reflection
 
 
-{{< flickr "Fresh"
-           "Inktober 2021 52 Fresh"
+{{< flickr "Reflections"
+           "Inktober 2021 52 Reflections"
            "https://www.flickr.com/photos/doodle_m/50842301548"
            "https://live.staticflickr.com/65535/50842301548_2fb8bd627b_c.jpg" >}}

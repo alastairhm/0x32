@@ -7,7 +7,7 @@ categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/50942702168_61c94261de_c.jpg"
 ---
 
-Inktober 2021 52 Week 6, Dragonfly
+Inktober 2021 52 Week 7, Dragonfly
 
 {{< flickr "Dragonfly"
            "Inktober 2021 52 Dragonfly"

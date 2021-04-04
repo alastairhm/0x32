@@ -1,5 +1,5 @@
 ---
-title: "Inktober 53 2021 Week 13"
+title: "Inktober 52 2021 Week 13"
 date: 2021-04-01T13:42:12Z
 draft: false
 tags: ['doodle','inktober','art','blog','hugo']

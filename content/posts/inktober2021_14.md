@@ -1,7 +1,6 @@
 ---
-title: "Inktober 53 2021 Week 14"
-date: 2021-04-03T13:42:12Z
-draft: false
+title: "Inktober 52 2021 Week 14"
+date: 2021-04-04T14:24:14+01:00
 tags: ['doodle','inktober','art','blog','hugo']
 categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/51090722990_1f46e53cc5_b.jpg"

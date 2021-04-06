@@ -1,4 +1,4 @@
-baseURL = "http://blog.0x32.co.uk/"
+baseURL = "https://blog.0x32.co.uk/"
 languageCode = "en-us"
 title = "0x32++"
 theme = "ananke"
@@ -22,7 +22,7 @@ disqusShortname = "0x32"
    mastodon = "https://mastodon.me.uk/@Alastair"
    slack = ""
    stackoverflow = "https://stackoverflow.com/users/96534/alastair-montgomery"
-   rss = "http://blog.0x32.co.uk/index.xml"
+   rss = "https://blog.0x32.co.uk/index.xml"
    featured_image = "Electron.jpg"
 
 [taxonomies]

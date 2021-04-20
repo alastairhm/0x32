@@ -1,6 +1,7 @@
 ---
 title: "Inktober 52 2021 Week 15"
 date: 2021-04-20T14:49:40+01:00
+draft: false
 tags: ['doodle','inktober','art','blog','hugo']
 categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/51108210580_c5cc77554c_b.jpg"

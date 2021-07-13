@@ -13,5 +13,3 @@ Inktober 2021 52 Week 15, Star
            "Inktober 2021 52 Star"
            "https://www.flickr.com/photos/doodle_m/51108210580"
            "https://live.staticflickr.com/65535/51108210580_c5cc77554c_b.jpg" >}}
-
-

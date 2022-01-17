@@ -10,6 +10,6 @@ categories: ['work']
 
 Doesn't time fly, been at my new job with the DWP six months now.
 
-Still enjoying it, learning new tools and techinques as they say everyday is a school day.
+Still enjoying it, learning new tools (Nomad, Pact, etc) and techinques as they say everyday is a school day.
 
 I a major part of it is the team I joined, most welcoming and helpful bunch, looking forward to the next six months.

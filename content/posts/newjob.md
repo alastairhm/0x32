@@ -2,6 +2,8 @@
 title: "New Job"
 date: 2021-07-13T08:22:55+01:00
 draft: false
+tags: ['job']
+categories: ['work']
 ---
 
 # New Job

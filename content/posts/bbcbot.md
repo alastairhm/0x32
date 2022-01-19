@@ -1,6 +1,6 @@
 ---
 title: "BBC Twitter Bot Fun"
-date: 2022-01-019T12:08:20+01:00
+date: 2022-01-19T13:48:47Z
 draft: false
 tags: ['tech','retro','basic','8bit','video','lbry']
 categories: ['Retro']

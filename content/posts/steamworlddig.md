@@ -13,6 +13,8 @@ It was released in 2013, so old now but still a good play.
 
 {{< youtube OPeZyhYXmAc >}}
 
+{{< youtube YOzFUMdun3c >}}
+
 ## Links
 
 [Game Wiki](https://steamworld.fandom.com/wiki/SteamWorld_Dig)

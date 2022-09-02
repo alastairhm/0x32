@@ -1,6 +1,6 @@
 ---
 title: "Search from the command line"
-date: 2022-07-17T10:35:23+01:00
+date: 2022-09-02T10:05:23+01:00
 draft: false
 tags: ['programming','devops','python']
 categories: ['Geek','Programming']

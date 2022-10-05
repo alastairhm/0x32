@@ -1,0 +1,7 @@
+tasks:
+  - init: hugo install
+    command: brew install hugo
+ports:
+  - port: 8000
+    onOpen: open-preview
+        

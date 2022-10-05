@@ -7,7 +7,7 @@ categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/52399850791_76d970d8b3_w.jpg"
 ---
 
-nktober 2022 2, Scurry
+Inktober 2022 2, Scurry
 
 
 {{< flickr "Scurry"

@@ -10,7 +10,7 @@ featured_image: "https://live.staticflickr.com/65535/52394752819_c1e406d655_c.jp
 Walk to the office last Thursday morning in Leeds.
 
 {{< flickr "Leeds"
-           "Leeds Morning Walk  "
+           "Leeds Morning Walk"
            "https://www.flickr.com/photos/doodle_m/52394752819"
            "https://live.staticflickr.com/65535/52394752819_c1e406d655_c.jpg" >}}
 

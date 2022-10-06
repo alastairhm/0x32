@@ -7,7 +7,7 @@ categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/52406763568_faf7485f7d_c.jpg"
 ---
 
-Inktober 2022 3, Scallop
+Inktober 2022 4, Scallop
 
 
 {{< flickr "Scallop"

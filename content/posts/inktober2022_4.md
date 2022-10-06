@@ -4,7 +4,7 @@ date: 2022-10-05T14:41:17Z
 draft: false
 tags: ['doodle','inktober','art','blog','hugo']
 categories: ['Creative']
-featured_image: "https://live.staticflickr.com/65535/52399850791_76d970d8b3_w.jpg"
+featured_image: "https://live.staticflickr.com/65535/52406763568_faf7485f7d_c.jpg"
 ---
 
 Inktober 2022 3, Scallop

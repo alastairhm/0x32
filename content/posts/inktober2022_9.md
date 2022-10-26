@@ -1,7 +1,7 @@
 ---
 title: "Inktober 2022 9"
 date: 2022-10-12T12:29:06Z
-ddraft: false
+draft: false
 tags: ['doodle','inktober','art','blog','hugo']
 categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/52415107019_e988a65d2b_c.jpg"

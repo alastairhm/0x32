@@ -1,8 +1,9 @@
 ---
 title: "Rasberry Pi Pico W OLED"
 date: 2023-01-10T13:38:21Z
-draft: falsetags: ['tech','code','electronics','pico','raspberrypi','python']
-categories : ['Geek','Python','RaspberryPi']
+draft: false
+tags: ['tech','code','electronics','pico','raspberrypi','python']
+categories: ['Geek','Python','RaspberryPi']
 featured_image: "raspberry-pi-logo.jpg"
 ---
 

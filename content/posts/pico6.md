@@ -1,5 +1,5 @@
 ---
-title: "Pico6"
+title: "DHT11 Sensor in Micropython"
 date: 2023-01-23T16:39:29Z
 draft: false
 tags: ['tech','code','electronics','pico','raspberrypi','python']

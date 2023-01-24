@@ -18,5 +18,5 @@ This version has just three pins VCC, GND and data, so easy to connect and use w
 {{< flickr "DHT11 Module"
            "DHT11 Module"
            "https://www.flickr.com/photos/doodle_m/52644001692"
-           ""https://live.staticflickr.com/65535/52644001692_37acf2e91a_c.jpg >}}
+           "https://live.staticflickr.com/65535/52644001692_37acf2e91a_c.jpg">}}
 

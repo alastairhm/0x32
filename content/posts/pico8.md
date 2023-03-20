@@ -1,5 +1,5 @@
 ---
-title: "TFT Display ST7735"
+title: "TFT Display ST7735 MicroPython"
 date: 2023-02-17T16:31:44Z
 draft: false
 tags: ['tech','code','electronics','pico','raspberrypi','python']
@@ -9,7 +9,10 @@ featured_image: "https://live.staticflickr.com/65535/52644510266_a694023ca0_z.jp
 
 I got a cheap SPI TFT ST7735 Display module with SD Card reader off ebay, it had an unusual number of pins on the back.
 
-![Pinout(https://live.staticflickr.com/65535/52700051851_da6a2aab59_c.jpg "Pinout on board")]
+{{< flickr "Numbers"
+           "Numbers"
+           "https://www.flickr.com/photos/doodle_m/52700051851"
+           "https://live.staticflickr.com/65535/52700051851_da6a2aab59_c.jpg">}}
 
 It took a while searching about on the internet and some head scratching to find a library and work out what connected to what on the Pico.
 

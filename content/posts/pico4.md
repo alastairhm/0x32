@@ -7,7 +7,7 @@ categories: ['Geek','Python','RaspberryPi']
 featured_image: "raspberry-pi-logo.jpg"
 ---
 
-Stumbled accross a Python script to run a Mandelbrot set in ASCII in Python so I thought I would see how it ran on the RaspberryPi Pico.
+Stumbled across a Python script to run a Mandelbrot set in ASCII in Python so I thought I would see how it ran on the RaspberryPi Pico.
 
 After tweaking it slightly from the [source](http://warp.povusers.org/MandScripts/python.html) it ended up like this [mandelbrot.py](https://github.com/alastairhm/pico_w/blob/main/mandelbrot.py)
 

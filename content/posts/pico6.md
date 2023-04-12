@@ -7,7 +7,7 @@ categories: ['Geek','Python','RaspberryPi']
 featured_image: "https://live.staticflickr.com/65535/52644510266_a694023ca0_z.jpg"
 ---
 
-Just a short bit of code to test a DHT11 temperture and humidity sensor module.
+Just a short bit of code to test a DHT11 temperature and humidity sensor module.
 
 This version has just three pins VCC, GND and data, so easy to connect and use with the DHT library.
 

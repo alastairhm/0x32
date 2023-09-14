@@ -3,6 +3,7 @@ title: "Blacksmith2023"
 date: 2023-09-14T11:13:11+01:00
 draft: false
 categories: ['Creative','blacksmith']
+tags: ['iron','blacksmith','art','blog']
 featured_image: "https://live.staticflickr.com/65535/53176556222_815f46c1cd_c.jpg"
 ---
 

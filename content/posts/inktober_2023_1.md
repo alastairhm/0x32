@@ -12,6 +12,6 @@ Inktober 2023 1, Dream
 
 {{< flickr "Dream"
            "Inktober 2023 1 Dream"
-           "https://www.flickr.com/photos/doodle_m/53224222164"
+           "https://www.flickr.com/photos/doodle_m/53226160440"
            "https://live.staticflickr.com/65535/53226160440_2fc9b82172_c.jpg" >}}
 

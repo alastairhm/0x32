@@ -7,7 +7,7 @@ categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/53228584720_20fa188e25_c.jpg"
 ---
 
-Inktober 2023 1, Dream
+Inktober 2023 2, Spiders
 
 
 {{< flickr "Spiders"

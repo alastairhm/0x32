@@ -14,5 +14,4 @@ Inktober 2023 3, Path
            "Inktober 2023 3 Path"
            "https://www.flickr.com/photos/doodle_m/53231033828"
            "https://live.staticflickr.com/65535/53231033828_8c381f70ab_c.jpg" >}}
----
 

@@ -1,8 +1,6 @@
 ---
 title: "Inktober 2023 16"
 date: 2023-10-20T11:44:18+01:00
-draft: true
----
 draft: false
 tags: ['doodle','inktober','art','blog','hugo']
 categories: ['Creative']

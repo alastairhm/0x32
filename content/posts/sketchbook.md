@@ -8,6 +8,7 @@ featured_image: "https://live.staticflickr.com/65535/54114683391_9809310cc0_c.jp
 ---
 Sketchbook Album
 
+Trying to keep the Inktober mojo going.
 
 {{< flickralbum "Sketchbook"
            "https://www.flickr.com/photos/doodle_m/albums/72177720321895399/"

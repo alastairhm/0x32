@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@master
       
       - name: Build and deploy
-        uses: AlbertMorenoDEV/deploy-hugo-to-s3-action@v0.0.5
+        uses: AlbertMorenoDEV/deploy-hugo-to-s3-action@v0.0.9
         with:
           hugo-version: 0.138.0
           config: path/config.toml

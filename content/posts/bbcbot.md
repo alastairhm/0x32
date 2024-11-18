@@ -9,10 +9,10 @@ featured_image: "/invader.jpg"
 
 More fun playing with BBC Twitter Bot.
 
-{{< tweet 1483777514967343106 >}}
+https://tco/ks0jhudxdM
 
-{{< tweet 1483742596551880704 >}}
+https://t.co/xBabCMPWCX
 
-{{< tweet 1483750394652151812 >}}
+https://tco/jVpUMLBa8D
 
-{{< tweet 1483772993062985734 >}}
+https://tco/Rt3DOf1FOh

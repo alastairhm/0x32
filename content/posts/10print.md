@@ -16,4 +16,4 @@ BBC Micro take on [C64 10 Print](https://10print.org/) one line random pattern g
 RUN
 ```
 
-{{< tweet 1301899318203383811 >}}
+[Twitter Post](https://t.co/xQag2GKwx0)

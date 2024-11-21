@@ -1,6 +1,7 @@
 ---
 title: "Articles"
 date: 2020-08-10T11:46:43+01:00
+featured_image : "Electron.jpg"
 ---
 Musings of an aging computer nerd hitting 0x32
 

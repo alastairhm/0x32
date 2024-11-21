@@ -1,6 +1,7 @@
 ---
 title: "0x32++"
 date: 2020-08-10T11:46:43+01:00
+featured_image : "Electron.jpg"
 ---
 Musings of an aging computer nerd hitting 0x32.
 
@@ -9,4 +10,3 @@ Musings of an aging computer nerd hitting 0x32.
 [Zazzle Shop Prints, Tshirts and mugs](https://www.zazzle.co.uk/store/doodle_m)
 
 (c) Alastair Montgomery
-

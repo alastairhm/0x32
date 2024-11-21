@@ -4,25 +4,50 @@ title = "0x32++"
 theme = ["ananke"]
 
 SectionPagesMenu = "main"
-Paginate = 10
 enableRobotsTxt = true
 disqusShortname = "0x32"
+
+[pagination]
+pagerSize = 10
 
  [params]
    favicon = ""
    site_logo = ""
    description = "Views from the wrong side of 0x32"
-   facebook = ""
-   instagram = "https://www.instagram.com/alastair_hm/"
-   youtube = "https://www.youtube.com/channel/UCZ9xgE64VDn6RB0mTPqsbPA"
-   github = "https://github.com/alastairhm/"
-   gitlab = "https://gitlab.com/alastairhm"
-   linkedin = "https://www.linkedin.com/in/alastair-montgomery-8b169b14/"
-   mastodon = "https://mastodon.me.uk/@Alastair"
-   slack = ""
-   stackoverflow = "https://stackoverflow.com/users/96534/alastair-montgomery"
    rss = "https://blog.0x32.co.uk/index.xml"
    featured_image = "Electron.jpg"
+
+[params.ananke.social.share]
+networks = [
+  "bluesky",
+  "x-twitter",
+  "facebook",
+  "pinterest",
+  "reddit",
+  "email"
+]
+
+[params.ananke.social.follow]
+networks = [
+  "bluesky",
+  "instagram",
+  "github",
+  "mastodon",
+  "rss"
+]
+
+[params.ananke.social.bluesky]
+username = "alastair-hm.bsky.social"
+
+[params.ananke.social.instagram]
+username = "alastair_hm"
+
+[params.ananke.social.github]
+username = "alastairhm"
+
+[params.ananke.social.mastodon]
+username = "@alastair_hm@mastodon.social"
+profilelink = "https://mastodon.social/@alastair_hm"
 
 [taxonomies]
   category = "categories"

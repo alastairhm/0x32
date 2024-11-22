@@ -2,6 +2,7 @@
 title: "Links"
 date: 2020-08-19T16:44:18+01:00
 draft: false
+featured_image : "Electron.jpg"
 ---
 
 ## Links to my other pages

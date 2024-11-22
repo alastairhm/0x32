@@ -8,6 +8,10 @@ draft: false
 
 [Flickr](https://www.flickr.com/photos/doodle_m/)
 
+[Inktober 2024 Album](https://flic.kr/s/aHBqjBKLem)
+
+[Inktober 2023 Album](https://flic.kr/s/aHBqjATdKZ)
+
 [Inktober 2022 Album](https://flic.kr/s/aHBqjA9Cw3)
 
 [Inktober 2021 Album](https://flic.kr/s/aHsmTt1C65)

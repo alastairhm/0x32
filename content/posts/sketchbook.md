@@ -2,7 +2,7 @@
 title: "Sketchbook Album"
 date: 2024-11-17T18:52:55Z
 draft: false
-tags: ['photo','art','blog','hugo']
+tags: ['photo','art','blog','hugo','sketch','sketchbook']
 categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/54114683391_9809310cc0_c.jpg"
 ---

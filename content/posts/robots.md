@@ -11,7 +11,7 @@ Some robot sketches I've been working on in my sketchbook.
 
 {{< flickr "Robot Sketch"
            "Robot Sketch"
-           "https://www.flickr.com/photos/doodle_m/54133560265"
+           "https://www.flickr.com/photos/doodle_m/54227074549"
            "https://live.staticflickr.com/65535/54227074549_b27519abe9_c.jpg" >}}
 
 {{< flickr "Robot Sketch"

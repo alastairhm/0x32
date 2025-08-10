@@ -1,6 +1,6 @@
 ---
 title: "Stickers"
-date: 2025-08-10T13:45`42Z
+date: 2025-08-10T13:45:42Z
 draft: false
 tags: ['photo','art','blog','hugo','sketch','sketchbook']
 categories: ['Creative']

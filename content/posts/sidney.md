@@ -1,5 +1,5 @@
 ---
-title: "Sidney to Warm"
+title: "Sidney too Warm"
 date: 2025-08-12
 draft: false
 tags: ['photo','art','blog','hugo']

@@ -1,0 +1,302 @@
+---
+title: "N8N replacing Google Alerts"
+date: 2025-08-20T15:51:49+01:00
+draft: false
+tags: ['tech','linux','automation','homelab']
+featured_image: 'n8n-logo.png'
+---
+
+# N8N Self hosted Google Alerts Replacement
+
+I've been using Google alerts to get emails of news about various topics for a while.
+As I'm reducing my Google footprint this was one of the things I had trouble replacing, until now.
+
+Using Brave Search API node in N8N I can now search for news on a topic and format it into a email digest.
+
+![n8n example](https://live.staticflickr.com/65535/54732229962_c01c65a08c_c.jpg "n8n email")
+![n8n example](https://live.staticflickr.com/65535/54732229967_1e4d34f339_c.jpg "n8n email")
+
+
+
+Saved Workflow in Jason format.
+```json
+{
+  "name": "News Linux",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -720,
+        -512
+      ],
+      "id": "7212e809-52c8-4735-8f19-d4aa19683a68",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "operation": "news",
+        "query": "Linux"
+      },
+      "type": "@brave/n8n-nodes-brave-search.braveSearch",
+      "typeVersion": 1,
+      "position": [
+        -384,
+        -416
+      ],
+      "id": "6ab247af-af8a-432e-ae34-9917b23fd9d0",
+      "name": "Brave Search",
+      "credentials": {
+        "braveSearchApi": {
+          "id": "XXXXXXXXXXXXXXXX",
+          "name": "Brave Search account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "results",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        -176,
+        -416
+      ],
+      "id": "f4e7bc17-6a98-42e6-910e-f7d19055d18e",
+      "name": "Split Out"
+    },
+    {
+      "parameters": {
+        "sortFieldsUi": {
+          "sortField": [
+            {
+              "fieldName": "page_age",
+              "order": "descending"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.sort",
+      "typeVersion": 1,
+      "position": [
+        32,
+        -416
+      ],
+      "id": "fd9b152b-c7de-4d8e-b5ad-16d6d77d78e7",
+      "name": "Sort"
+    },
+    {
+      "parameters": {
+        "maxItems": 8
+      },
+      "type": "n8n-nodes-base.limit",
+      "typeVersion": 1,
+      "position": [
+        240,
+        -416
+      ],
+      "id": "956732f6-d87a-4410-85c0-cf9505e8c4b3",
+      "name": "Limit"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 12
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        -720,
+        -336
+      ],
+      "id": "a236d29a-e63b-4c1e-ac51-5a600e5a506c",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "fromEmail": "mail@acme.com",
+        "toEmail": "news@example.com",
+        "subject": "=Linux News {{new Date().toString()}}",
+        "html": "={{ $json.htmlBody }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 2.1,
+      "position": [
+        32,
+        -208
+      ],
+      "id": "c04f175d-9067-439c-afac-c851ce38511f",
+      "name": "Send email",
+      "webhookId": "db692627-5fbe-498e-b682-eb7a7e2673b9",
+      "credentials": {
+        "smtp": {
+          "id": "XXXXXXXXXXXXXXXX",
+          "name": "SMTP account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fieldsToAggregate": {
+          "fieldToAggregate": [
+            {
+              "fieldToAggregate": "title"
+            },
+            {
+              "fieldToAggregate": "url"
+            },
+            {
+              "fieldToAggregate": "description"
+            },
+            {
+              "fieldToAggregate": "thumbnail.src"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.aggregate",
+      "typeVersion": 1,
+      "position": [
+        -368,
+        -208
+      ],
+      "id": "f17aff24-944e-472e-83a4-73226902df12",
+      "name": "Aggregate"
+    },
+    {
+      "parameters": {
+        "jsCode": "const titles = items[0].json.title;\nconst urls = items[0].json.url;\nconst desc = items[0].json.description;\nconst thumb = items[0].json.src;\n\nlet html = `<html><body>`;\nhtml += `<h2>📰 Linux News Digest</h2>`;\nhtml += `<ul style=\"font-family: Arial, sans-serif;\">`;\n\nfor (let i = 0; i < titles.length; i++) {\n  html += `<li><a href=\"${urls[i]}\" target=\"_blank\" style=\"text-decoration: none; color: #1a0dab;\">${titles[i]}</a> ${desc[i]}<br><img src=\"${thumb[i]}\" alt=\"${titles[i]}\"></li>`;\n}\n\nhtml += `</ul>`;\nhtml += `<p style=\"font-size: 0.9em; color: #555;\">Generated by n8n</p>`;\nhtml += `</body></html>`;\n\nreturn [{ json: { htmlBody: html } }];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -176,
+        -208
+      ],
+      "id": "e13c5a72-8bfd-468f-ae74-0b847762c8f2",
+      "name": "Code"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Brave Search",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Brave Search": {
+      "main": [
+        [
+          {
+            "node": "Split Out",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Out": {
+      "main": [
+        [
+          {
+            "node": "Sort",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Sort": {
+      "main": [
+        [
+          {
+            "node": "Limit",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Limit": {
+      "main": [
+        [
+          {
+            "node": "Aggregate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Brave Search",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send email": {
+      "main": [
+        []
+      ]
+    },
+    "Aggregate": {
+      "main": [
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "Send email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "da6b2bc9-4a22-4da5-9a2b-2ee3c18ee775",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "a4427ecb6475f5fa34f790cc55b2880f9e875806d268f2b029fbec671befbd59"
+  },
+  "id": "99ina9nS3K9NIYAC",
+  "tags": []
+}
+
+```
+
+

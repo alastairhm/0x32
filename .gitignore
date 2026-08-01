@@ -3,3 +3,7 @@ public/*
 .hugo_build.lock
 
 .history
+
+# Claude Code
+.claude/
+CLAUDE.local.md

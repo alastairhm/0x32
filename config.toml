@@ -49,6 +49,9 @@ username = "alastairhm"
 username = "@alastair_hm@mastodon.social"
 profilelink = "https://mastodon.social/@alastair_hm"
 
+[params.ananke.social.rss]
+profilelink = "https://blog.0x32.co.uk/index.xml"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

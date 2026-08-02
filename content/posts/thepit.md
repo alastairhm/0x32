@@ -16,6 +16,6 @@ This style of game is one of my favorites, loved Boulder Dash and Repton.
 
 [Video Source Retro Collection](https://lbry.tv/@retrorecollections:a)
 
-[The Pit Download](http://plus4world.powweb.com/software/The_Pit)
+[The Pit Download](https://web.archive.org/web/20260305064809/http://plus4world.powweb.com/software/The_Pit)
 
-[Play Online](http://plus4world.powweb.com/play/the_pit)
+[Play Online](https://web.archive.org/web/20210422064903/http://plus4world.powweb.com/play/the_pit)

@@ -16,6 +16,7 @@ pagerSize = 10
    description = "Views from the wrong side of 0x32"
    rss = "https://blog.0x32.co.uk/index.xml"
    featured_image = "Electron.jpg"
+   goatcounter = "0x32"
 
 [params.ananke.social.share]
 networks = [

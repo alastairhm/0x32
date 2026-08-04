@@ -4,6 +4,7 @@ date: 2026-08-04T18:00:00+01:00
 draft: false
 tags: ['tech','ai','claude','gemini','antigravity','cli','vibe-coding']
 categories: ['Technical']
+featured_image: "/antigravity-logo.png"
 
 ---
 

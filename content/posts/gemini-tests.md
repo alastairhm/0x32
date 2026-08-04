@@ -9,7 +9,7 @@ categories: ['Technical']
 
 # Taking Antigravity for a spin
 
-Been using Claude Code as my daily driver for a while now, so when Google's Antigravity CLI showed up I figured it was worth a proper look rather than just reading the launch blog post. Ran it side by side with Claude Code on the same kind of day-to-day work — repo exploration, small fixes, the usual — to see how the two actually compare in practice rather than on paper.
+Been using Claude Code as my daily driver for a few days now, so when Google's Antigravity CLI showed up I figured it was worth a proper look rather than just reading the launch blog post. Ran it side by side with Claude Code on the same kind of day-to-day work — repo exploration, small fixes, the usual — to see how the two actually compare in practice rather than on paper.
 
 First impression: the feature set overlaps a lot more than I expected. Tool use, file editing, running shell commands, planning steps before touching code — it's clearly playing in the same space as Claude Code, and for the most part it gets the job done.
 

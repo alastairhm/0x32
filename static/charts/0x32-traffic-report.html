@@ -1,0 +1,604 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>0x32 Traffic Report</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page-bg:        #eef1f5;
+    --surface:        #ffffff;
+    --surface-2:      #f5f7fa;
+    --ink:            #11141a;
+    --ink-secondary:  #4a5568;
+    --muted:          #7a8394;
+    --border:         rgba(17,20,26,0.09);
+    --grid:           #e3e7ec;
+    --accent:         #2a78d6;
+    --accent-wash:    rgba(42,120,214,0.10);
+    --accent-wash-2:  rgba(42,120,214,0.18);
+    --context:        #c7ccd4;
+    --context-ink:    #5b6472;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --page-bg:        #0b0d11;
+      --surface:        #14171d;
+      --surface-2:      #1a1e25;
+      --ink:            #f2f4f8;
+      --ink-secondary:  #aab3c0;
+      --muted:          #838c99;
+      --border:         rgba(255,255,255,0.09);
+      --grid:           #262b33;
+      --accent:         #4a90f0;
+      --accent-wash:    rgba(74,144,240,0.14);
+      --accent-wash-2:  rgba(74,144,240,0.24);
+      --context:        #383f4a;
+      --context-ink:    #9aa3b0;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page-bg:        #0b0d11;
+    --surface:        #14171d;
+    --surface-2:      #1a1e25;
+    --ink:            #f2f4f8;
+    --ink-secondary:  #aab3c0;
+    --muted:          #838c99;
+    --border:         rgba(255,255,255,0.09);
+    --grid:           #262b33;
+    --accent:         #4a90f0;
+    --accent-wash:    rgba(74,144,240,0.14);
+    --accent-wash-2:  rgba(74,144,240,0.24);
+    --context:        #383f4a;
+    --context-ink:    #9aa3b0;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page-bg);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .mono {
+    font-family: ui-monospace, "Cascadia Code", "SF Mono", Consolas, monospace;
+  }
+  .wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 56px 24px 80px;
+  }
+
+  /* ---- header ---- */
+  header {
+    position: relative;
+    padding: 36px 32px;
+    border-radius: 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    overflow: hidden;
+    margin-bottom: 32px;
+  }
+  header::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(var(--grid) 1px, transparent 1px);
+    background-size: 18px 18px;
+    -webkit-mask-image: linear-gradient(to right, black, transparent 65%);
+            mask-image: linear-gradient(to right, black, transparent 65%);
+    opacity: 0.7;
+    pointer-events: none;
+  }
+  .eyebrow {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 14px;
+  }
+  .eyebrow .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-wash);
+  }
+  h1 {
+    position: relative;
+    margin: 0 0 10px;
+    font-size: clamp(28px, 4vw, 38px);
+    line-height: 1.12;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+  }
+  header p.dek {
+    position: relative;
+    margin: 0;
+    max-width: 60ch;
+    color: var(--ink-secondary);
+    font-size: 15.5px;
+    line-height: 1.6;
+  }
+  header .range {
+    position: relative;
+    margin-top: 18px;
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    font-size: 12.5px;
+    color: var(--muted);
+  }
+  header .range b { color: var(--ink-secondary); font-weight: 600; }
+
+  /* ---- kpi row ---- */
+  .kpis {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 28px;
+  }
+  .kpi {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px 18px 16px;
+  }
+  .kpi .label {
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  .kpi .value {
+    font-size: 30px;
+    font-weight: 650;
+    letter-spacing: -0.01em;
+    line-height: 1;
+  }
+  .kpi .sub {
+    margin-top: 6px;
+    font-size: 12px;
+    color: var(--ink-secondary);
+  }
+
+  /* ---- card ---- */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 24px 24px 20px;
+    margin-bottom: 20px;
+  }
+  .card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+  }
+  .card-head h2 {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 650;
+  }
+  .card-head .note {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  /* ---- bar chart (vertical, daily) ---- */
+  .daily {
+    display: flex;
+    align-items: flex-end;
+    gap: 6px;
+    height: 150px;
+    padding-top: 22px;
+    border-bottom: 1px solid var(--grid);
+    position: relative;
+  }
+  .daily .col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+  }
+  .daily .bar {
+    width: 100%;
+    max-width: 28px;
+    background: var(--accent);
+    border-radius: 4px 4px 0 0;
+    position: relative;
+    transition: filter 0.12s ease;
+    min-height: 3px;
+  }
+  .daily .bar.zero {
+    background: var(--grid);
+    min-height: 2px;
+  }
+  .daily .col:hover .bar:not(.zero) { filter: brightness(0.88); }
+  .daily .val {
+    position: absolute;
+    top: -20px;
+    font-size: 11px;
+    font-weight: 650;
+    color: var(--ink-secondary);
+    font-variant-numeric: tabular-nums;
+    opacity: 0;
+    transition: opacity 0.12s ease;
+  }
+  .daily .col:hover .val,
+  .daily .col.peak .val { opacity: 1; }
+  .daily .xaxis {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .daily .xaxis span {
+    flex: 1;
+    text-align: center;
+    font-size: 10px;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .tooltip {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--ink);
+    color: var(--page-bg);
+    font-size: 11.5px;
+    padding: 6px 9px;
+    border-radius: 6px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.12s ease;
+    z-index: 5;
+    font-variant-numeric: tabular-nums;
+  }
+  .daily .col:hover .tooltip { opacity: 1; }
+
+  /* ---- horizontal bar rows ---- */
+  .hbars { display: flex; flex-direction: column; gap: 10px; }
+  .hbar-row {
+    display: grid;
+    grid-template-columns: 128px 1fr 34px;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+  }
+  .hbar-row .rlabel {
+    font-size: 12.5px;
+    color: var(--ink-secondary);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .hbar-track {
+    height: 20px;
+    background: var(--surface-2);
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hbar-fill {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 4px;
+    transition: filter 0.12s ease;
+  }
+  .hbar-row:hover .hbar-fill { filter: brightness(0.9); }
+  .hbar-row .rval {
+    font-size: 12.5px;
+    font-weight: 650;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+  }
+  .hbar-row .rtooltip {
+    position: absolute;
+    left: 128px;
+    top: -32px;
+    background: var(--ink);
+    color: var(--page-bg);
+    font-size: 11px;
+    padding: 5px 8px;
+    border-radius: 6px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.12s ease;
+    white-space: nowrap;
+    z-index: 5;
+  }
+  .hbar-row:hover .rtooltip { opacity: 1; }
+
+  /* ---- emphasis (locations) ---- */
+  .emph-bar {
+    display: flex;
+    height: 34px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .emph-seg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12.5px;
+    font-weight: 650;
+    font-variant-numeric: tabular-nums;
+    position: relative;
+    transition: filter 0.12s ease;
+  }
+  .emph-seg:hover { filter: brightness(0.94); }
+  .emph-seg.context {
+    background: var(--context);
+    color: var(--context-ink);
+  }
+  .emph-seg.story {
+    background: var(--accent);
+    color: #ffffff;
+  }
+  .emph-legend {
+    display: flex;
+    gap: 22px;
+    margin-top: 12px;
+    font-size: 12px;
+    color: var(--ink-secondary);
+    flex-wrap: wrap;
+  }
+  .emph-legend .key {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .emph-legend .swatch {
+    width: 10px; height: 10px; border-radius: 3px;
+  }
+  .swatch.story { background: var(--accent); }
+  .swatch.context { background: var(--context); }
+  .emph-detail {
+    margin-top: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .emph-detail .chip {
+    font-size: 11.5px;
+    padding: 5px 10px;
+    border-radius: 999px;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    color: var(--ink-secondary);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---- callout ---- */
+  .callout {
+    background: var(--accent-wash);
+    border: 1px solid var(--accent-wash-2);
+    border-radius: 14px;
+    padding: 22px 24px;
+    margin-top: 8px;
+  }
+  .callout .label {
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .callout p {
+    margin: 0;
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--ink);
+    max-width: 68ch;
+  }
+  .callout p + p { margin-top: 10px; }
+
+  footer {
+    margin-top: 28px;
+    padding-top: 18px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    font-size: 11.5px;
+    color: var(--muted);
+  }
+
+  @media (max-width: 640px) {
+    .kpis { grid-template-columns: repeat(2, 1fr); }
+    .grid-2 { grid-template-columns: 1fr; }
+    .hbar-row { grid-template-columns: 90px 1fr 30px; }
+    header { padding: 28px 20px; }
+    .wrap { padding: 32px 16px 60px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow mono"><span class="dot"></span>goatcounter &middot; blog.0x32.co.uk</p>
+    <h1>Two weeks of readers</h1>
+    <p class="dek">The first traffic export since GoatCounter went live on the blog — every pageview, referrer, and location logged between 2 and 15 August, broken down below.</p>
+    <div class="range mono">
+      <span><b>02&ndash;15 Aug 2026</b> tracking window</span>
+      <span><b>36</b> raw pageviews</span>
+      <span><b>16</b> pages touched</span>
+    </div>
+  </header>
+
+  <div class="kpis">
+    <div class="kpi">
+      <div class="label">Pageviews</div>
+      <div class="value">36</div>
+      <div class="sub">across 14 days</div>
+    </div>
+    <div class="kpi">
+      <div class="label">Busiest day</div>
+      <div class="value">16</div>
+      <div class="sub">Mon 3 Aug</div>
+    </div>
+    <div class="kpi">
+      <div class="label">External referrals</div>
+      <div class="value">5</div>
+      <div class="sub">Google + GitHub</div>
+    </div>
+    <div class="kpi">
+      <div class="label">Likely real visitors</div>
+      <div class="value">&asymp;9</div>
+      <div class="sub">non&ndash;GB hits</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-head">
+      <h2>Pageviews per day</h2>
+      <span class="note mono">2&ndash;15 Aug</span>
+    </div>
+    <div class="daily" id="daily"></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-head">
+        <h2>Top pages</h2>
+        <span class="note mono">by hits</span>
+      </div>
+      <div class="hbars" id="pages"></div>
+    </div>
+    <div class="card">
+      <div class="card-head">
+        <h2>Referrers</h2>
+        <span class="note mono">by hits</span>
+      </div>
+      <div class="hbars" id="refs"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-head">
+      <h2>Where hits came from</h2>
+      <span class="note mono">by location</span>
+    </div>
+    <div class="emph-bar" id="emph"></div>
+    <div class="emph-legend">
+      <span class="key"><span class="swatch story"></span>Outside the UK &mdash; likely real visitors</span>
+      <span class="key"><span class="swatch context"></span>United Kingdom &mdash; mostly your own checks</span>
+    </div>
+    <div class="emph-detail">
+      <span class="chip">🇮🇳 India &middot; 2</span>
+      <span class="chip">🇩🇪 Germany &middot; 2</span>
+      <span class="chip">🇺🇸 US&ndash;VA &middot; 1</span>
+      <span class="chip">🇺🇸 US &middot; 1</span>
+      <span class="chip">🇺🇸 US&ndash;IL &middot; 1</span>
+      <span class="chip">🇺🇸 US&ndash;CO &middot; 1</span>
+      <span class="chip">🇺🇸 US&ndash;NY &middot; 1</span>
+    </div>
+  </div>
+
+  <div class="callout">
+    <div class="label mono">Bottom line</div>
+    <p>27 of the 36 hits are from Great Britain on Firefox&nbsp;153 / Windows&nbsp;10 &mdash; almost certainly your own visits while checking the site, not distinct readers. The genuinely external-looking traffic is closer to <b>8&ndash;10 people</b>, arriving mostly direct or via the <span class="mono">micropython-st7735</span> GitHub repo, with one organic Google hit.</p>
+    <p>Early days, but the signal is real: people <em>are</em> finding posts through the GitHub link and search. Worth another export in a few weeks once there's more to trend against.</p>
+  </div>
+
+  <footer>
+    <span class="mono">source: goatcounter-export-0x32-20260815T165405Z.zip</span>
+    <span class="mono">generated 15 Aug 2026</span>
+  </footer>
+
+</div>
+
+<script>
+  const daily = [
+    ["02", 1], ["03", 16], ["04", 0], ["05", 10], ["06", 0],
+    ["07", 1], ["08", 2], ["09", 0], ["10", 3], ["11", 0],
+    ["12", 1], ["13", 0], ["14", 1], ["15", 1]
+  ];
+  const maxDaily = Math.max(...daily.map(d => d[1]));
+  const dailyEl = document.getElementById("daily");
+  daily.forEach(([day, count]) => {
+    const col = document.createElement("div");
+    col.className = "col" + (count === maxDaily && count > 0 ? " peak" : "");
+    const h = count === 0 ? 2 : Math.max(6, Math.round((count / maxDaily) * 118));
+    col.innerHTML =
+      '<div class="tooltip">' + count + (count === 1 ? " hit" : " hits") + ' &middot; ' + day + ' Aug</div>' +
+      '<span class="val">' + count + '</span>' +
+      '<div class="bar' + (count === 0 ? " zero" : "") + '" style="height:' + h + 'px"></div>';
+    dailyEl.appendChild(col);
+  });
+  const xaxis = document.createElement("div");
+  xaxis.className = "xaxis";
+  daily.forEach(([day]) => {
+    const s = document.createElement("span");
+    s.textContent = day;
+    xaxis.appendChild(s);
+  });
+  dailyEl.after(xaxis);
+
+  function renderHBars(containerId, rows) {
+    const el = document.getElementById(containerId);
+    const max = Math.max(...rows.map(r => r[1]));
+    rows.forEach(([label, count, detail]) => {
+      const row = document.createElement("div");
+      row.className = "hbar-row";
+      const pct = Math.max(4, Math.round((count / max) * 100));
+      row.innerHTML =
+        '<div class="rlabel mono" title="' + label + '">' + label + '</div>' +
+        '<div class="hbar-track"><div class="hbar-fill" style="width:' + pct + '%"></div></div>' +
+        '<div class="rval">' + count + '</div>' +
+        '<div class="rtooltip">' + (detail || label) + ' &middot; ' + count + ' hits</div>';
+      el.appendChild(row);
+    });
+  }
+
+  renderHBars("pages", [
+    ["/", 13, "Homepage"],
+    ["/posts/pico8", 5, "TFT Display ST7735 MicroPython"],
+    ["/posts", 4, "Articles index"],
+    ["/posts/fractalpy", 2, "Vibe Coding fractalPy with Claude"],
+    ["12 other posts", 12, "1 view each"]
+  ]);
+
+  renderHBars("refs", [
+    ["Internal nav", 15, "Clicks within blog.0x32.co.uk"],
+    ["Direct / none", 16, "No referrer sent"],
+    ["GitHub", 4, "micropython-st7735 repo"],
+    ["Google", 1, "Organic search"]
+  ].sort((a, b) => b[1] - a[1]));
+
+  const gbCount = 27, otherCount = 9, total = gbCount + otherCount;
+  const emph = document.getElementById("emph");
+  emph.innerHTML =
+    '<div class="emph-seg context" style="width:' + (gbCount / total * 100) + '%" title="United Kingdom, 27 hits">GB &middot; 27</div>' +
+    '<div class="emph-seg story" style="width:' + (otherCount / total * 100) + '%" title="Outside the UK, 9 hits">Other &middot; 9</div>';
+</script>
+</body>
+</html>

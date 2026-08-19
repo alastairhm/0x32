@@ -4,7 +4,7 @@ date: 2026-08-21T08:00:00+01:00
 draft: false
 tags: ['retro','gaming','doom','web','github']
 categories: ['Retro']
-featured_image: "/invader.jpg"
+featured_image: "https://upload.wikimedia.org/wikipedia/en/2/29/Doom_II_-_Hell_on_Earth_Coverart.png"
 ---
 
 [doomheaven.uk](https://doomheaven.uk) is moving house.

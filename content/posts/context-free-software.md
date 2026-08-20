@@ -2,7 +2,7 @@
 title: "Context Free Software"
 date: 2008-04-08T12:28:00+01:00
 draft: true
-tags: ["blogger-import", "software"]
+tags: ["blogger-import", "fractal", "software"]
 categories: ['Creative']
 ---
 

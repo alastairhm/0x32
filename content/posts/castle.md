@@ -2,7 +2,7 @@
 title: "castle"
 date: 2016-08-15T12:36:00+01:00
 draft: true
-tags: ["blogger-import", "castle", "fractal-image", "ifttt"]
+tags: ["blogger-import", "castle", "fractal", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

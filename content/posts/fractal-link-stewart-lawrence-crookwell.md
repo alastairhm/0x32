@@ -2,7 +2,7 @@
 title: "Fractal Link, Stewart Lawrence Crookwell"
 date: 2008-04-07T11:45:00+01:00
 draft: true
-tags: ["blogger-import", "links"]
+tags: ["blogger-import", "fractal", "links"]
 categories: ['Creative']
 ---
 

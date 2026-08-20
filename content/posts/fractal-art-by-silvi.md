@@ -2,7 +2,7 @@
 title: "Fractal Art by Silvi"
 date: 2016-05-10T21:45:00+01:00
 draft: true
-tags: ["blogger-import", "fractal-art-by-silvi", "fractal-image", "ifttt"]
+tags: ["blogger-import", "fractal", "fractal-art-by-silvi", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

@@ -2,7 +2,7 @@
 title: "Endlos, free fractal program"
 date: 2008-03-27T13:45:00+00:00
 draft: true
-tags: ["blogger-import", "software"]
+tags: ["blogger-import", "fractal", "software"]
 categories: ['Creative']
 ---
 

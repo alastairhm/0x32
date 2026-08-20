@@ -2,7 +2,7 @@
 title: "From Crystals to Spirals"
 date: 2009-11-24T12:43:00+00:00
 draft: true
-tags: ["blogger-import", "context-free", "fractal-images"]
+tags: ["blogger-import", "context-free", "fractal", "fractal-images"]
 categories: ['Creative']
 ---
 

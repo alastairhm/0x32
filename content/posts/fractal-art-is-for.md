@@ -2,7 +2,7 @@
 title: "Fractal art is a for"
 date: 2014-05-29T14:35:00+01:00
 draft: true
-tags: ["blogger-import", "fractal-image", "fractals", "ifttt"]
+tags: ["blogger-import", "fractal", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---
 

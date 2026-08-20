@@ -2,7 +2,7 @@
 title: "Context free tree edit"
 date: 2009-11-19T12:21:00+00:00
 draft: true
-tags: ["blogger-import", "context-free", "fractal-images"]
+tags: ["blogger-import", "context-free", "fractal", "fractal-images"]
 categories: ['Creative']
 ---
 

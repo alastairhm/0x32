@@ -2,7 +2,7 @@
 title: "Color Inspired WINT"
 date: 2016-05-11T08:50:00+01:00
 draft: true
-tags: ["blogger-import", "color-inspired-wint", "fractal-image", "ifttt"]
+tags: ["blogger-import", "color-inspired-wint", "fractal", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

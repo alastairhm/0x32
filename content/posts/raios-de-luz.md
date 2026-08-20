@@ -2,7 +2,7 @@
 title: "RAIOS DE LUZ"
 date: 2016-12-20T22:41:00+00:00
 draft: true
-tags: ["blogger-import", "fractal-image", "ifttt", "raios-de-luz"]
+tags: ["blogger-import", "fractal", "fractal-image", "ifttt", "raios-de-luz"]
 categories: ['Creative']
 ---
 

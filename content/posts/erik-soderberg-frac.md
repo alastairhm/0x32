@@ -2,7 +2,7 @@
 title: "Erik Söderberg, Frac"
 date: 2016-05-04T11:18:00+01:00
 draft: true
-tags: ["blogger-import", "fractal-image", "fractals", "ifttt"]
+tags: ["blogger-import", "fractal", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---
 

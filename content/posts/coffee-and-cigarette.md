@@ -2,7 +2,7 @@
 title: "coffee and cigarette"
 date: 2017-10-19T21:37:00+01:00
 draft: true
-tags: ["blogger-import", "coffee-and-cigarette", "fractal-image", "ifttt"]
+tags: ["blogger-import", "coffee-and-cigarette", "fractal", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

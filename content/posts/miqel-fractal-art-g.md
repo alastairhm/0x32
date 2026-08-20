@@ -2,7 +2,7 @@
 title: "Miqel: Fractal Art G"
 date: 2016-05-10T21:45:00+01:00
 draft: true
-tags: ["blogger-import", "fractal-image", "ifttt", "miqel-fractal-art-g"]
+tags: ["blogger-import", "fractal", "fractal-image", "ifttt", "miqel-fractal-art-g"]
 categories: ['Creative']
 ---
 

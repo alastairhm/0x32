@@ -2,7 +2,7 @@
 title: "\"Mandelbulb,\" a 3D Mandlebrot Construct, Discovered"
 date: 2009-11-18T07:00:00+00:00
 draft: true
-tags: ["blogger-import", "links"]
+tags: ["blogger-import", "fractal", "links"]
 categories: ['Creative']
 ---
 

@@ -2,7 +2,7 @@
 title: "Mandelbrot7"
 date: 2009-05-19T16:46:00+01:00
 draft: true
-tags: ["blogger-import", "fractal-images", "gnofract-4d"]
+tags: ["blogger-import", "fractal", "fractal-images", "gnofract-4d"]
 categories: ['Creative']
 ---
 

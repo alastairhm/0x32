@@ -2,7 +2,7 @@
 title: "http://rubies.work/0"
 date: 2016-05-04T12:34:00+01:00
 draft: true
-tags: ["blogger-import", "fractal-image", "http-rubies-work-0", "ifttt"]
+tags: ["blogger-import", "fractal", "fractal-image", "http-rubies-work-0", "ifttt"]
 categories: ['Creative']
 ---
 

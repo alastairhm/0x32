@@ -2,7 +2,7 @@
 title: "Alice Kelley's Fract"
 date: 2016-05-31T22:16:00+01:00
 draft: true
-tags: ["alice-kelley-s-fract", "blogger-import", "fractal-image", "ifttt"]
+tags: ["alice-kelley-s-fract", "blogger-import", "fractal", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

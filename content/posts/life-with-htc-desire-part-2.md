@@ -1,0 +1,9 @@
+---
+title: "Life with an HTC Desire part 2"
+date: 2010-05-04T10:26:00+01:00
+draft: true
+tags: ["android", "blog-import", "geek", "htc-desire", "phone"]
+categories: ['Geek']
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnJDRD1GzWxnpGVSLtwLPMHlVRRjGVwT8K2zO8t31qnGkGY-6W6TmqlX6lor1DE7nUr7UfFvK1DdT63ir67GGCD1Xhh40tHS_dXe9PtX3y_5Pvr2ZShbI6e_nL0o6GU4SNQNOtNzmPBSY/s1600/DSC_0796.jpg"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 132px; height: 200px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnJDRD1GzWxnpGVSLtwLPMHlVRRjGVwT8K2zO8t31qnGkGY-6W6TmqlX6lor1DE7nUr7UfFvK1DdT63ir67GGCD1Xhh40tHS_dXe9PtX3y_5Pvr2ZShbI6e_nL0o6GU4SNQNOtNzmPBSY/s200/DSC_0796.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5469648941439339826" /></a><div>Time rolls on and I'm getting used to finding my way around my HTC Desire.</div><div><br /></div><div>I'm still trying out lots of apps, for this site<a href="http://www.appbrain.com/"> http://www.appbrain.com</a> which helps you keep track of the apps you've got on your phone. You download an app for your phone and it syncs your apps to the website, suggests other apps you might like etc. Useful so far.</div><br /><br />Here is what I've got on my phone at the moment<br /><div id="applist408" class="appbrain-applist"><a href="http://www.appbrain.com/user/alastair/apps-on-the-phone" style="font-size: 11px; color: #555; font-family: Arial, sans-serif;">alastair's Android apps on AppBrain</a></div> <script type="text/javascript" language="javascript" src="http://www.appbrain.com/api/api.nocache.js"></script><br /><br /><a href="http://meekgonkey.blogspot.com/">Doodle's Geek Monkey</a> by <a href="http://twitter.com/alastair_hm">Alastair Montgomery</a>

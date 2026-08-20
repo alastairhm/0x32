@@ -1,0 +1,9 @@
+---
+title: "Nibbo Search"
+date: 2009-07-03T10:30:00+01:00
+draft: true
+tags: ["blog-import", "geek", "link", "web"]
+categories: ['Geek']
+---
+
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/doodle_m/3683401401/" title="photo sharing"><img src="http://farm4.static.flickr.com/3629/3683401401_78207e5ee3_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br /><span style=" margin-top: 0px;font-size:0.9em;"><a href="http://www.flickr.com/photos/doodle_m/3683401401/">Nibbo Search</a><br />Originally uploaded by <a href="http://www.flickr.com/people/doodle_m/">Alastair Montgomery</a></span></div><p>Been testing a new search engine <a href="http://www.nibbo.com/">http://www.nibbo.com/</a> so far I like it.</p><p>Its really a nice front end on existing search engines so you can search a number of things at the same time.<br /></p><p>From the site,<br /></p><em>About Nibbo<br /><br />We believe that there's a lot of room for improvement in web searching, and we wanted to do something about it. This is the reason why Nibbo was born: to offer an improved way to find whatever you're looking for.<br /><br />While other search engines offer only one type of search at a time, Nibbo will show a preview of multiple search types in an unobstrusive way, and provide information like the number of results that are to be expected for the different engines. The type and order of those previews is completely configurable, as well as the default search settings.<br /><br />Plus, for authenticated users, we offer the option to create custom search engines by just providing a list of keywords or website addresses. Right now it's not possible to share those engines among users, but we're planning to add this feature in the near future.<br /><br />Nibbo is powered by Google App Engine, Google AJAX search, Google CSE, and Amazon CloudFront.</em>

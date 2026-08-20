@@ -1,7 +1,7 @@
 ---
 title: "Picture : Para glider"
 date: 2008-10-31T13:54:00+00:00
-draft: true
+draft: false
 tags: ["beach", "blog-import", "landscape", "photography", "picture", "sport", "turkey"]
 categories: ['Creative']
 ---

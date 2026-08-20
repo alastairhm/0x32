@@ -1,7 +1,7 @@
 ---
 title: "Skyline to be removed #leeds #demolition"
 date: 2016-08-24T07:37:00+00:00
-draft: true
+draft: false
 tags: ["be", "blog-import", "demolition", "flickr", "ifttt", "instagram", "leeds", "photography", "removed", "skyline"]
 categories: ['Creative']
 ---

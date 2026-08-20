@@ -1,7 +1,7 @@
 ---
 title: "Good work out tonight #benchpress #deadlift #powerlifting"
 date: 2016-10-14T20:39:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "deadlift", "flickr", "good", "ifttt", "instagram", "out", "photography", "powerlifting", "tonight", "work"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Monday's #squat session #powerlifting #gymaddict"
 date: 2016-11-30T08:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "gymaddict", "ifttt", "instagram", "mondays", "photography", "powerlifting", "session", "squat"]
 categories: ['Creative']
 ---

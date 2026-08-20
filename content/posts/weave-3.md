@@ -1,7 +1,7 @@
 ---
 title: "Weave 3"
 date: 2020-09-04T14:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "geek", "generative", "generativeart", "ifttt", "photography", "processing"]
 categories: ['Creative']
 ---

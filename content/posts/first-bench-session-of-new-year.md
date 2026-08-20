@@ -1,7 +1,7 @@
 ---
 title: "First bench session of the new year #powerlifting #benchpress"
 date: 2017-01-04T22:13:00+00:00
-draft: true
+draft: false
 tags: ["bench", "benchpress", "blog-import", "first", "flickr", "ifttt", "instagram", "new", "photography", "powerlifting", "session", "year"]
 categories: ['Creative']
 ---

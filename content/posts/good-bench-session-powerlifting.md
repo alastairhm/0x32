@@ -1,7 +1,7 @@
 ---
 title: "Good bench session #powerlifting"
 date: 2016-02-03T19:09:00+00:00
-draft: true
+draft: false
 tags: ["bench", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "India Trip Slideshow"
 date: 2010-11-23T12:52:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "india", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

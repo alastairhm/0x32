@@ -1,7 +1,7 @@
 ---
 title: "Picture : Corbridge Town Hall"
 date: 2008-11-24T12:25:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "man-made", "photography", "picture", "uk"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Good #squat session, first time lifting 190kg since the competition last December. #powerlifting"
 date: 2017-05-15T19:05:00+00:00
-draft: true
+draft: false
 tags: ["190kg", "blog-import", "competition", "december", "first", "flickr", "good", "ifttt", "instagram", "last", "lifting", "photography", "powerlifting", "session", "since", "squat", "time"]
 categories: ['Creative']
 ---

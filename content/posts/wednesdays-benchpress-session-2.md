@@ -1,7 +1,7 @@
 ---
 title: "Wednesday's #benchpress session #powerlifting"
 date: 2016-11-11T18:18:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "wednesdays"]
 categories: ['Creative']
 ---

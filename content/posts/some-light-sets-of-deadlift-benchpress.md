@@ -1,7 +1,7 @@
 ---
 title: "Some light sets of #deadlift #benchpress and #squat to ease my back into action #powerlifting #absolutefitness #roadto600"
 date: 2017-09-27T22:25:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "action", "back", "benchpress", "blog-import", "deadlift", "ease", "flickr", "ifttt", "instagram", "light", "photography", "powerlifting", "roadto600", "sets", "some", "squat"]
 categories: ['Creative']
 ---

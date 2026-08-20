@@ -1,7 +1,7 @@
 ---
 title: "Bench press session tonight new 2 rep max #powerlifting"
 date: 2016-02-10T21:53:00+00:00
-draft: true
+draft: false
 tags: ["2", "bench", "blog-import", "flickr", "ifttt", "instagram", "max", "new", "photography", "powerlifting", "press", "rep", "session", "tonight"]
 categories: ['Creative']
 ---

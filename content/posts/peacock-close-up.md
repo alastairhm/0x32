@@ -1,7 +1,7 @@
 ---
 title: "Peacock Close Up"
 date: 2016-05-24T20:10:00+00:00
-draft: true
+draft: false
 tags: ["bird", "blog-import", "feather", "flickr", "ifttt", "peacock", "photography"]
 categories: ['Creative']
 ---

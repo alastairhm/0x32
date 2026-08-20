@@ -1,7 +1,7 @@
 ---
 title: "Picture : Chicago Mirror Ball 3"
 date: 2007-02-14T15:34:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

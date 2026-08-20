@@ -1,7 +1,7 @@
 ---
 title: "Xaos Fractal 2013-10-17"
 date: 2013-10-19T10:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "fractal", "ifttt", "mandelbrot", "photography", "vision-night-0661", "vision-text-0878"]
 categories: ['Creative']
 ---

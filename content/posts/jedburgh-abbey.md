@@ -1,7 +1,7 @@
 ---
 title: "Jedburgh Abbey"
 date: 2019-09-19T14:12:00+00:00
-draft: true
+draft: false
 tags: ["abbey", "blog-import", "flickr", "ifttt", "instagram", "jedburgh", "photography"]
 categories: ['Creative']
 ---

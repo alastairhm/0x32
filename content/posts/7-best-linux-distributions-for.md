@@ -1,7 +1,7 @@
 ---
 title: "7 Best Linux Distributions for Multimedia Enthusiasts"
 date: 2008-08-13T07:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "links", "photography", "software"]
 categories: ['Creative']
 ---

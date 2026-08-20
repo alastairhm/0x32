@@ -1,7 +1,7 @@
 ---
 title: "Monday night's #squat session good reps at 180kg #powerlifting"
 date: 2018-03-28T07:06:00+00:00
-draft: true
+draft: false
 tags: ["180kg", "blog-import", "flickr", "good", "ifttt", "instagram", "monday", "nights", "photography", "powerlifting", "reps", "session", "squat"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Getting in Close"
 date: 2009-10-02T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "macro", "nikon-d50", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "#PB tonight 5 reps @ 110kg #benchpress #powerlifting"
 date: 2016-11-16T19:25:00+00:00
-draft: true
+draft: false
 tags: ["110kg", "5", "benchpress", "blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "reps", "tonight"]
 categories: ['Creative']
 ---

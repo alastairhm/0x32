@@ -1,7 +1,7 @@
 ---
 title: "Some good triceps work #powerlifting"
 date: 2016-12-21T20:42:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "some", "triceps", "work"]
 categories: ['Creative']
 ---

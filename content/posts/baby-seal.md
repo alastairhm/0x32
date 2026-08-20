@@ -1,7 +1,7 @@
 ---
 title: "Baby Seal"
 date: 2014-04-26T12:56:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

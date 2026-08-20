@@ -1,7 +1,7 @@
 ---
 title: "Three reps at 210kg on the #deadlift another PB #powerlifting"
 date: 2016-02-26T19:38:00+00:00
-draft: true
+draft: false
 tags: ["210kg", "another", "blog-import", "deadlift", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "reps", "three"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "York University Pictures"
 date: 2009-10-30T07:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "nikon-d50", "photography", "picture", "uk"]
 categories: ['Creative']
 ---

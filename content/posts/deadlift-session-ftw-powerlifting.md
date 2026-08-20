@@ -1,7 +1,7 @@
 ---
 title: "#Deadlift session ftw #powerlifting #powerlifting. Good training session, all the guys lifted well."
 date: 2017-04-21T22:19:00+00:00
-draft: true
+draft: false
 tags: ["all", "blog-import", "deadlift", "flickr", "ftw", "good", "guys", "ifttt", "instagram", "lifted", "photography", "powerlifting", "session", "training", "well"]
 categories: ['Creative']
 ---

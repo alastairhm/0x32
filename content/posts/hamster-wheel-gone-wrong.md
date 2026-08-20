@@ -1,7 +1,7 @@
 ---
 title: "Hamster Wheel Gone Wrong"
 date: 2006-08-15T14:22:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

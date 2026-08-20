@@ -1,7 +1,7 @@
 ---
 title: "Chicago Bean Postcard"
 date: 2007-06-26T12:34:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture", "shop"]
 categories: ['Creative']
 ---

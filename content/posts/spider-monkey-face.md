@@ -1,7 +1,7 @@
 ---
 title: "Spider monkey face"
 date: 2011-09-02T04:00:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "nature", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

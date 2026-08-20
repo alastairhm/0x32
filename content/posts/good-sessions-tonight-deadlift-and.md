@@ -1,7 +1,7 @@
 ---
 title: "Good sessions tonight #deadlift and #benchpress. Was on a good day with bench, everything seemed to fly up. #powerlifting"
 date: 2017-04-12T18:03:00+00:00
-draft: true
+draft: false
 tags: ["bench", "benchpress", "blog-import", "day", "deadlift", "everything", "flickr", "fly", "good", "ifttt", "instagram", "photography", "powerlifting", "seemed", "sessions", "tonight", "up", "was", "with"]
 categories: ['Creative']
 ---

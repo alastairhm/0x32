@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #shrugs and #deadlift sessions #powerlifting"
 date: 2017-01-13T22:01:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "photography", "powerlifting", "sessions", "shrugs", "tonights"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "New #squat #PB 202.5kg (446 lbs) #powerlifting."
 date: 2017-05-22T20:41:00+00:00
-draft: true
+draft: false
 tags: ["2025kg", "446", "blog-import", "flickr", "ifttt", "instagram", "lbs", "new", "pb", "photography", "powerlifting", "squat"]
 categories: ['Creative']
 ---

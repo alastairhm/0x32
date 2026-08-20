@@ -1,7 +1,7 @@
 ---
 title: "Bempton Cliffs"
 date: 2017-06-26T17:10:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

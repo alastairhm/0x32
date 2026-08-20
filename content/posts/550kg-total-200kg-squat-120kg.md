@@ -1,7 +1,7 @@
 ---
 title: "550kg total, 200kg #squat, 120kg #benchpress, 230kg #deadlift well chuffed"
 date: 2016-12-11T13:40:00+00:00
-draft: true
+draft: false
 tags: ["120kg", "200kg", "230kg", "550kg", "benchpress", "blog-import", "chuffed", "deadlift", "flickr", "ifttt", "instagram", "photography", "squat", "total", "well"]
 categories: ['Creative']
 ---

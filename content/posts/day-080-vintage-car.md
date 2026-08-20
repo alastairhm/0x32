@@ -1,7 +1,7 @@
 ---
 title: "Day 080 Vintage Car"
 date: 2013-06-16T19:52:00+00:00
-draft: true
+draft: false
 tags: ["1940s", "1940sday", "365", "blog-import", "flickr", "gardens", "harrogate", "ifttt", "photography", "valley"]
 categories: ['Creative']
 ---

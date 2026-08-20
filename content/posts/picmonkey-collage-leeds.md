@@ -1,7 +1,7 @@
 ---
 title: "PicMonkey Collage Leeds"
 date: 2014-03-06T22:49:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "leeds", "photography", "tumblr"]
 categories: ['Creative']
 ---

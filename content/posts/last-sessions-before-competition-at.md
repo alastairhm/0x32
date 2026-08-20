@@ -1,7 +1,7 @@
 ---
 title: "Last sessions before the competition at the weekend, just rest and food now. #powerlifting #squats #benchpress #absolutefitness #ynepf #6daystogo"
 date: 2017-08-14T19:53:00+00:00
-draft: true
+draft: false
 tags: ["6daystogo", "absolutefitness", "before", "benchpress", "blog-import", "competition", "flickr", "food", "ifttt", "instagram", "just", "last", "now", "photography", "powerlifting", "rest", "sessions", "squats", "weekend", "ynepf"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 076, going down"
 date: 2013-06-12T18:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "New squat personal best yesterday 2 reps at 190kg #PB #POWERLIFTING"
 date: 2016-05-24T12:20:00+00:00
-draft: true
+draft: false
 tags: ["190kg", "2", "best", "blog-import", "flickr", "ifttt", "instagram", "new", "pb", "personal", "photography", "powerlifting", "reps", "squat", "yesterday"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sabayon 14.01"
 date: 2014-02-17T13:49:00+00:00
-draft: true
+draft: false
 tags: ["1401", "blog-import", "flickr", "geek", "ifttt", "linux", "photography", "sabayon", "screenshot", "virtualbox"]
 categories: ['Creative']
 ---

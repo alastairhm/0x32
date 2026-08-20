@@ -1,7 +1,7 @@
 ---
 title: "Picture : Chicago Condo"
 date: 2007-02-22T12:19:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Picture : Duct Work"
 date: 2006-10-24T14:27:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "man-made", "photography", "picture", "uk"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hot and sweaty #deadlift session #powerlifting"
 date: 2017-07-06T22:34:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "hot", "ifttt", "instagram", "photography", "powerlifting", "session", "sweaty"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 28 Tired"
 date: 2009-12-04T11:49:00+00:00
-draft: true
+draft: false
 tags: ["365days", "blog-import", "lg-renoir", "photography", "self-portrait"]
 categories: ['Creative']
 ---

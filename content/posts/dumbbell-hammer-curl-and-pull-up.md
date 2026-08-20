@@ -1,7 +1,7 @@
 ---
 title: "Dumbbell hammer curl and pull up assistance exercises #powerlifting"
 date: 2016-12-02T20:21:00+00:00
-draft: true
+draft: false
 tags: ["assistance", "blog-import", "curl", "dumbbell", "exercises", "flickr", "hammer", "ifttt", "instagram", "photography", "powerlifting", "pull", "up"]
 categories: ['Creative']
 ---

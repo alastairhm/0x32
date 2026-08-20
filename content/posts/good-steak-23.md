@@ -1,7 +1,7 @@
 ---
 title: "Good steak"
 date: 2018-04-23T18:43:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "good", "ifttt", "instagram", "photography", "steak"]
 categories: ['Creative']
 ---

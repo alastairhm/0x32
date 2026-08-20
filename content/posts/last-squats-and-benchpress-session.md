@@ -1,7 +1,7 @@
 ---
 title: "Last #squats and #benchpress session before weekend #GBPF Masters #powerlifting competition."
 date: 2016-03-14T20:18:00+00:00
-draft: true
+draft: false
 tags: ["before", "benchpress", "blog-import", "competition", "flickr", "gbpf", "ifttt", "instagram", "last", "masters", "photography", "powerlifting", "session", "squats", "weekend"]
 categories: ['Creative']
 ---

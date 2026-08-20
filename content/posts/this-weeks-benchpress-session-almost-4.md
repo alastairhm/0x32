@@ -1,7 +1,7 @@
 ---
 title: "This weeks #benchpress session, almost 4 reps at 110kg #powerlifting"
 date: 2016-08-26T18:46:00+00:00
-draft: true
+draft: false
 tags: ["110kg", "4", "almost", "benchpress", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "reps", "session", "this", "weeks"]
 categories: ['Creative']
 ---

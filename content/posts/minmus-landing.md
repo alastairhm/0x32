@@ -1,7 +1,7 @@
 ---
 title: "Minmus landing"
 date: 2014-07-29T20:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "games", "ifttt", "kerbal", "kerbalspaceprogram", "ksp", "minmus", "photography", "program", "screenshot", "space"]
 categories: ['Creative']
 ---

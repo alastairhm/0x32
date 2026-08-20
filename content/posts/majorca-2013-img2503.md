@@ -1,7 +1,7 @@
 ---
 title: "Majorca 2013 IMG_2503"
 date: 2013-09-30T15:38:00+00:00
-draft: true
+draft: false
 tags: ["2013", "blog-import", "flickr", "ifttt", "majorca", "mallorca", "photography"]
 categories: ['Creative']
 ---

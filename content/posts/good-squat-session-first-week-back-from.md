@@ -1,7 +1,7 @@
 ---
 title: "Good #squat session first week back from cold. #powerlifting"
 date: 2015-09-21T18:05:00+00:00
-draft: true
+draft: false
 tags: ["back", "blog-import", "cold", "first", "flickr", "from", "good", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "week"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "8/52 Tweet Deck Overload"
 date: 2009-10-08T10:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "lg-renoir", "photography", "photomanipulation", "photoshop", "the-52-project"]
 categories: ['Creative']
 ---

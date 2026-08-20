@@ -21,14 +21,14 @@ Before this blog, and running alongside it for years without me really thinking 
 
 [Geek Monkey](https://meekgonkey.blogspot.com/) was more of a linkblog — Linux distros, Raspberry Pi and Arduino projects, browser oddities, a lot of "10 free things you should bookmark" roundups, much of it reposted via feed aggregators from sites that don't exist anymore.
 
-218 posts came out of the export. This time I ran a full link-rot check across all 2,205 outbound links first: 54% were dead, almost all of it dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, a defunct ad service called Pheedo, Yahoo Pipes). Three posts had no surviving links at all and got dropped; the other 101 kept their content with a note added up top flagging what's broken and why. **215 posts are queued** — tagged `blogger-import` and `geek` — pending merge.
+218 posts came out of the export. This time I ran a full link-rot check across all 2,205 outbound links first: 54% were dead, almost all of it dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, a defunct ad service called Pheedo, Yahoo Pipes). Three posts had no surviving links at all and got dropped; the other 101 kept their content with a note added up top flagging what's broken and why. **215 are live now**, tagged `blog-import` and `geek`.
 
 ## Alastair's Doodles
 
 [Alastair's Doodles](https://doodlem.blogspot.com/) is the big one: mostly single-photo posts, a lot of them auto-reposted from Instagram and Flickr via IFTTT with nothing but a hashtag caption, spanning 2006 to 2020 — overlapping this blog's entire existence.
 
-2,383 posts came out of the export, roughly ten times either of the other two. **They're imported and staged**, tagged `blogger-import` and `photography`, but still sitting as drafts pending the same link-rot treatment Geek Monkey got — a lot of the images point at old `farmN.static.flickr.com` URLs that Flickr deprecated years ago, so I'd expect a similar hit rate before any of it goes live.
+2,383 posts came out of the export, roughly ten times either of the other two. The same link-rot check found 291 posts where every link was dead; 142 of those had no surviving content once the dead links, boilerplate, and auto-post captions were stripped out, so those got dropped. The other 149 fully-dead posts, plus 397 more with some (but not all) links dead, kept their content with the same broken-link note as Geek Monkey. **The remaining 2,241 are live now**, tagged `blog-import` and `photography`.
 
 ## So far
 
-Two blogs' worth of history folded in, a third queued up. It's a fun read back if you're into that sort of nostalgia — software I'd completely forgotten existed, a lot of enthusiasm for the maths of pretty pictures, and a reminder that this is at least the fourth blog I've run over the years. [0x32](/) is just the one that stuck, and now it gets to be all of them.
+Three blogs' worth of history folded in. It's a fun read back if you're into that sort of nostalgia — software I'd completely forgotten existed, a lot of enthusiasm for the maths of pretty pictures, and a reminder that this is at least the fourth blog I've run over the years. [0x32](/) is just the one that stuck, and now it gets to be all of them.

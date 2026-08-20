@@ -1,7 +1,7 @@
 ---
 title: "Picture : Saklikent gorge 1"
 date: 2008-11-28T13:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

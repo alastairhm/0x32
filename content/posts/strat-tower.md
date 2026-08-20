@@ -1,7 +1,7 @@
 ---
 title: "Strat tower"
 date: 2019-12-08T00:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "strat", "tower"]
 categories: ['Creative']
 ---

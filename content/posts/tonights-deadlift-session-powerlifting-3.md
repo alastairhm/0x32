@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #deadlift session #powerlifting #absolutefitness"
 date: 2018-11-02T21:08:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "deadlift", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "tonights"]
 categories: ['Creative']
 ---

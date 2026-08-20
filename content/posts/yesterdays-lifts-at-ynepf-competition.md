@@ -1,7 +1,7 @@
 ---
 title: "Yesterday's lifts at the #ynepf competition #powerlifting"
 date: 2016-07-04T14:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "competition", "flickr", "ifttt", "instagram", "lifts", "photography", "powerlifting", "yesterdays", "ynepf"]
 categories: ['Creative']
 ---

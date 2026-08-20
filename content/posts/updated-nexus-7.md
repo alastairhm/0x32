@@ -1,7 +1,7 @@
 ---
 title: "Updated the Nexus 7"
 date: 2014-10-30T20:41:00+00:00
-draft: true
+draft: false
 tags: ["7", "blog-import", "flickr", "ifttt", "instagram", "nexus", "photography", "updated"]
 categories: ['Creative']
 ---

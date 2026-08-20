@@ -1,7 +1,7 @@
 ---
 title: "Need to do more #vikingpress #powerlifting"
 date: 2016-11-30T20:11:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "do", "flickr", "ifttt", "instagram", "more", "need", "photography", "powerlifting", "vikingpress"]
 categories: ['Creative']
 ---

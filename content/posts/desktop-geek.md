@@ -1,7 +1,7 @@
 ---
 title: "Desktop #Geek"
 date: 2016-08-24T11:32:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "desktop", "flickr", "geek", "ifttt", "instagram", "photography", "prisma"]
 categories: ['Creative']
 ---

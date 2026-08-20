@@ -1,7 +1,7 @@
 ---
 title: "Press pause #benchpress session #powerlifting"
 date: 2016-10-07T18:48:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "pause", "photography", "powerlifting", "press", "session"]
 categories: ['Creative']
 ---

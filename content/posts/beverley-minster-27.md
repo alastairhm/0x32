@@ -1,7 +1,7 @@
 ---
 title: "Beverley minster"
 date: 2017-06-27T17:55:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

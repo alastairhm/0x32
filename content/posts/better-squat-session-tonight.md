@@ -1,7 +1,7 @@
 ---
 title: "Better #squat session tonight #powerlifting #absolutefitness"
 date: 2018-01-29T21:20:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "better", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "tonight"]
 categories: ['Creative']
 ---

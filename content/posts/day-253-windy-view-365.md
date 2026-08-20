@@ -1,7 +1,7 @@
 ---
 title: "Day 253 windy view #365"
 date: 2013-12-05T14:07:00+00:00
-draft: true
+draft: false
 tags: ["253", "365", "blog-import", "day", "flickr", "ifttt", "instagram", "photography", "view", "windy"]
 categories: ['Creative']
 ---

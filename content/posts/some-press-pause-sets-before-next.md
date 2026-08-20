@@ -1,7 +1,7 @@
 ---
 title: "Some press pause sets before next month's competition #benchpress #powerlifting"
 date: 2016-06-22T17:48:00+00:00
-draft: true
+draft: false
 tags: ["before", "benchpress", "blog-import", "competition", "flickr", "ifttt", "instagram", "months", "next", "pause", "photography", "powerlifting", "press", "sets", "some"]
 categories: ['Creative']
 ---

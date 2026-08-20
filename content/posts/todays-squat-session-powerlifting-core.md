@@ -1,7 +1,7 @@
 ---
 title: "Today's #squat session #powerlifting core muscles took a battering."
 date: 2016-04-18T20:11:00+00:00
-draft: true
+draft: false
 tags: ["battering", "blog-import", "core", "flickr", "ifttt", "instagram", "muscles", "photography", "powerlifting", "session", "squat", "todays", "took"]
 categories: ['Creative']
 ---

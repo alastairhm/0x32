@@ -1,7 +1,7 @@
 ---
 title: "Friday #coffee treat"
 date: 2014-06-20T12:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "coffee", "flickr", "friday", "ifttt", "instagram", "photography", "treat", "tumblr"]
 categories: ['Creative']
 ---

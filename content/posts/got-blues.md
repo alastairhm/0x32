@@ -1,7 +1,7 @@
 ---
 title: "Got the blues"
 date: 2009-01-13T10:09:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "lg-renoir", "photography", "picture"]
 categories: ['Creative']
 ---

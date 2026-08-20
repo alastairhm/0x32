@@ -1,7 +1,7 @@
 ---
 title: "3 x 180kg squat tonight #PB #powerlifting"
 date: 2015-11-09T19:17:00+00:00
-draft: true
+draft: false
 tags: ["180kg", "3", "blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "squat", "tonight", "x"]
 categories: ['Creative']
 ---

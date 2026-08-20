@@ -1,7 +1,7 @@
 ---
 title: "Like this blog?"
 date: 2013-11-29T16:08:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Inbox"
 date: 2009-01-15T14:32:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "computer", "email", "lg-renoir", "photography", "picture"]
 categories: ['Creative']
 ---

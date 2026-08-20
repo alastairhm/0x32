@@ -1,7 +1,7 @@
 ---
 title: "Crystal ball view #glass #glassballphotography"
 date: 2020-06-20T12:37:00+00:00
-draft: true
+draft: false
 tags: ["ball", "blog-import", "crystal", "flickr", "glass", "glassballphotography", "ifttt", "instagram", "photography", "view"]
 categories: ['Creative']
 ---

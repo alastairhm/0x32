@@ -1,7 +1,7 @@
 ---
 title: "Picture : Black Swan"
 date: 2007-07-26T09:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Picture : Waterfall Close Up"
 date: 2008-12-01T12:54:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture", "turkey", "waterscape"]
 categories: ['Creative']
 ---

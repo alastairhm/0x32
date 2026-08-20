@@ -1,7 +1,7 @@
 ---
 title: "Great #benchpress #PB tonight, 3 press pause reps at 110kg. That's my opener sorted 😁 #powerlifting"
 date: 2016-03-09T20:41:00+00:00
-draft: true
+draft: false
 tags: ["110kg", "3", "benchpress", "blog-import", "flickr", "great", "ifttt", "instagram", "opener", "pause", "pb", "photography", "powerlifting", "press", "reps", "sorted", "thats", "tonight"]
 categories: ['Creative']
 ---

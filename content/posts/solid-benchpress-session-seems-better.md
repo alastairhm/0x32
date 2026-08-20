@@ -1,7 +1,7 @@
 ---
 title: "Solid #benchpress session, seems better after deadlifting #powerlifting #absolutefitness #roadto600"
 date: 2017-10-04T18:47:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "after", "benchpress", "better", "blog-import", "deadlifting", "flickr", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "seems", "session", "solid"]
 categories: ['Creative']
 ---

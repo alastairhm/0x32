@@ -1,7 +1,7 @@
 ---
 title: "New day, new office"
 date: 2018-05-14T10:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "day", "flickr", "ifttt", "instagram", "new", "office", "photography"]
 categories: ['Creative']
 ---

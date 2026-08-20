@@ -1,7 +1,7 @@
 ---
 title: "Talentless Hack"
 date: 2008-11-19T13:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "links", "other-peoples-work", "photography"]
 categories: ['Creative']
 ---

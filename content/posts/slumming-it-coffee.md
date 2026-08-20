@@ -1,7 +1,7 @@
 ---
 title: "Slumming it #coffee"
 date: 2017-03-15T08:56:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "coffee", "flickr", "ifttt", "instagram", "it", "photography", "slumming"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nexus 5 screenshot"
 date: 2014-07-24T10:19:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "flickr", "ifttt", "nexus5", "nova", "novalauncher", "photography", "screenshot", "tumblr"]
 categories: ['Creative']
 ---

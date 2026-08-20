@@ -1,7 +1,7 @@
 ---
 title: "Before and After"
 date: 2008-04-18T07:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "castle", "man-made", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Good #bench session tonight #powerlifting, 4 sets of reps @ 100kg"
 date: 2016-07-27T18:43:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "4", "bench", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "reps", "session", "sets", "tonight"]
 categories: ['Creative']
 ---

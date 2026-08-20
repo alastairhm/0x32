@@ -1,7 +1,7 @@
 ---
 title: "New #squat #PB tonight 220kg #powerlifting"
 date: 2017-12-04T21:02:00+00:00
-draft: true
+draft: false
 tags: ["220kg", "blog-import", "flickr", "ifttt", "instagram", "new", "pb", "photography", "powerlifting", "squat", "tonight"]
 categories: ['Creative']
 ---

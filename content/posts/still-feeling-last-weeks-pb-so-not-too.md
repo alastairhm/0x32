@@ -1,7 +1,7 @@
 ---
 title: "Still feeling last week's PB so not too heavy today #deadlift #powerlifting"
 date: 2018-03-30T07:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "feeling", "flickr", "heavy", "ifttt", "instagram", "last", "pb", "photography", "powerlifting", "still", "today", "too", "weeks"]
 categories: ['Creative']
 ---

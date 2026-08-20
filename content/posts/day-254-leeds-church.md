@@ -1,7 +1,7 @@
 ---
 title: "Day 254 Leeds church"
 date: 2013-12-06T11:43:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "church", "flickr", "google", "ifttt", "leeds", "nexus5", "photo", "photography", "photosphere", "sphere"]
 categories: ['Creative']
 ---

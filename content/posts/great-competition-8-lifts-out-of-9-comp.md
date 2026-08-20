@@ -1,7 +1,7 @@
 ---
 title: "Great competition, 8 lifts out of 9. Comp #PB in both #squat and #deadlift #powerlifting #ynepf #absolutefitness"
 date: 2017-08-20T17:47:00+00:00
-draft: true
+draft: false
 tags: ["8", "9", "absolutefitness", "blog-import", "both", "comp", "competition", "deadlift", "flickr", "great", "ifttt", "instagram", "lifts", "out", "pb", "photography", "powerlifting", "squat", "ynepf"]
 categories: ['Creative']
 ---

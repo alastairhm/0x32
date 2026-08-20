@@ -1,7 +1,7 @@
 ---
 title: "Picture : Cloudscape 2"
 date: 2007-06-06T12:43:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

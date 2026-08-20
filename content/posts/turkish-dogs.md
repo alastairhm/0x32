@@ -1,7 +1,7 @@
 ---
 title: "Turkish Dogs"
 date: 2008-10-30T11:11:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

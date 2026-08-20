@@ -1,7 +1,7 @@
 ---
 title: "Ripon waste ground"
 date: 2014-08-30T13:06:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ground", "ifttt", "instagram", "photography", "ripon", "waste"]
 categories: ['Creative']
 ---

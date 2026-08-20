@@ -1,7 +1,7 @@
 ---
 title: "10 years of snoozing #dog #bestfriend"
 date: 2016-10-14T20:39:00+00:00
-draft: true
+draft: false
 tags: ["10", "bestfriend", "blog-import", "dog", "flickr", "ifttt", "instagram", "photography", "snoozing", "years"]
 categories: ['Creative']
 ---

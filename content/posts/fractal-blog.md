@@ -1,7 +1,7 @@
 ---
 title: "Fractal Blog"
 date: 2008-03-27T08:46:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "fractal", "links", "photography", "picture"]
 categories: ['Creative']
 ---

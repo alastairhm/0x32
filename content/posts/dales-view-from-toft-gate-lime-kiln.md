@@ -1,7 +1,7 @@
 ---
 title: "Dales View from Toft Gate Lime Kiln"
 date: 2010-08-04T12:55:00+00:00
-draft: true
+draft: false
 tags: ["abandoned", "blog-import", "flickr", "industrial", "landscape", "man-made", "nikon-d50", "photography", "uk"]
 categories: ['Creative']
 ---

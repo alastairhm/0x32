@@ -1,7 +1,7 @@
 ---
 title: "Good rep #PB tonight on the #benchpress 10x100kg #powerlifting #absolutefitness #roadto600"
 date: 2017-12-01T20:22:00+00:00
-draft: true
+draft: false
 tags: ["10x100kg", "absolutefitness", "benchpress", "blog-import", "flickr", "good", "ifttt", "instagram", "pb", "photography", "powerlifting", "rep", "roadto600", "tonight"]
 categories: ['Creative']
 ---

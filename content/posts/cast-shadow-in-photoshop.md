@@ -1,7 +1,7 @@
 ---
 title: "Cast Shadow in Photoshop"
 date: 2007-03-28T15:47:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "tutorial"]
 categories: ['Creative']
 ---

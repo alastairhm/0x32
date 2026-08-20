@@ -1,7 +1,7 @@
 ---
 title: "Reading list automation"
 date: 2017-08-02T11:06:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "evernote", "feedly", "feeds", "flickr", "geek", "ifttt", "photography"]
 categories: ['Creative']
 ---

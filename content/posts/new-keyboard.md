@@ -1,7 +1,7 @@
 ---
 title: "New keyboard"
 date: 2019-11-11T13:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "keyboard", "new", "photography"]
 categories: ['Creative']
 ---

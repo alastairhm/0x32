@@ -1,7 +1,7 @@
 ---
 title: "Main event rep #PB on #benchpress #powerlifting"
 date: 2016-12-21T20:42:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "event", "flickr", "ifttt", "instagram", "main", "pb", "photography", "powerlifting", "rep"]
 categories: ['Creative']
 ---

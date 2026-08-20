@@ -1,7 +1,7 @@
 ---
 title: "Office view Leeds"
 date: 2013-03-27T14:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "leeds", "photography"]
 categories: ['Creative']
 ---

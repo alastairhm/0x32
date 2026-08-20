@@ -1,7 +1,7 @@
 ---
 title: "After Tuesday's near miss in the car, got a dash-cam #roadwars"
 date: 2017-05-10T19:24:00+00:00
-draft: true
+draft: false
 tags: ["after", "blog-import", "car", "dashcam", "flickr", "got", "ifttt", "instagram", "miss", "near", "photography", "roadwars", "tuesdays"]
 categories: ['Creative']
 ---

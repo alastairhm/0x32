@@ -1,7 +1,7 @@
 ---
 title: "Just a light session due to cold #benchpress #powerlifting"
 date: 2017-03-16T08:56:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "cold", "due", "flickr", "ifttt", "instagram", "just", "light", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

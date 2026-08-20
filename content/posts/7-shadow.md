@@ -1,7 +1,7 @@
 ---
 title: "7. Shadow"
 date: 2020-04-08T09:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

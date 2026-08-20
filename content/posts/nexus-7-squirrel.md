@@ -1,7 +1,7 @@
 ---
 title: "Nexus 7 Squirrel"
 date: 2014-02-22T21:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "nexus7", "photography", "squirrel", "wallpaper"]
 categories: ['Creative']
 ---

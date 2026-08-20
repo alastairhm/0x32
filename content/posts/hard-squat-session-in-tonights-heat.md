@@ -1,7 +1,7 @@
 ---
 title: "Hard #squat session in tonight's heat, happy to get 3 reps at 190kg #powerlifting #absolutefitness"
 date: 2017-07-17T20:01:00+00:00
-draft: true
+draft: false
 tags: ["190kg", "3", "absolutefitness", "blog-import", "flickr", "get", "happy", "hard", "heat", "ifttt", "instagram", "photography", "powerlifting", "reps", "session", "squat", "tonights"]
 categories: ['Creative']
 ---

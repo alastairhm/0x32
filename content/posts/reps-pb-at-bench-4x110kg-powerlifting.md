@@ -1,7 +1,7 @@
 ---
 title: "Reps #PB at bench 4x110kg #powerlifting"
 date: 2016-05-04T20:12:00+00:00
-draft: true
+draft: false
 tags: ["4x110kg", "bench", "blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "reps"]
 categories: ['Creative']
 ---

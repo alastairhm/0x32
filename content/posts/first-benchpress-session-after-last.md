@@ -1,7 +1,7 @@
 ---
 title: "First #benchpress session after last week's competition, tricep still a bit stiff. #powerlifting"
 date: 2016-07-13T18:05:00+00:00
-draft: true
+draft: false
 tags: ["after", "benchpress", "bit", "blog-import", "competition", "first", "flickr", "ifttt", "instagram", "last", "photography", "powerlifting", "session", "stiff", "still", "tricep", "weeks"]
 categories: ['Creative']
 ---

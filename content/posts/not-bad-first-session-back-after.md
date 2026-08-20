@@ -1,7 +1,7 @@
 ---
 title: "Not bad first session back after competition #squats #benchpress #powerlifting #absolutefitness"
 date: 2017-08-30T10:50:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "after", "back", "bad", "benchpress", "blog-import", "competition", "first", "flickr", "ifttt", "instagram", "not", "photography", "powerlifting", "session", "squats"]
 categories: ['Creative']
 ---

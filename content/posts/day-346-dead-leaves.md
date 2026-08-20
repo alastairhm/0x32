@@ -1,7 +1,7 @@
 ---
 title: "Day 346 dead leaves"
 date: 2014-03-08T18:01:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "ifttt", "leaves", "photography"]
 categories: ['Creative']
 ---

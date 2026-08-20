@@ -1,7 +1,7 @@
 ---
 title: "Raspbmc"
 date: 2013-05-27T18:22:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "media", "photography", "raspberrypi", "raspbmc"]
 categories: ['Creative']
 ---

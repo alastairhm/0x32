@@ -1,7 +1,7 @@
 ---
 title: "First #deadlift session of the new year with some Dumbbell shrugs and upright barbell rows. #powerlifting"
 date: 2017-01-06T20:16:00+00:00
-draft: true
+draft: false
 tags: ["barbell", "blog-import", "deadlift", "dumbbell", "first", "flickr", "ifttt", "instagram", "new", "photography", "powerlifting", "rows", "session", "shrugs", "some", "upright", "with", "year"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Some strong press-pause #benchpress and a new #PB at 122.5kg (270lbs) well happy #powerlifting"
 date: 2016-08-31T18:52:00+00:00
-draft: true
+draft: false
 tags: ["1225kg", "270lbs", "benchpress", "blog-import", "flickr", "happy", "ifttt", "instagram", "new", "pb", "photography", "powerlifting", "presspause", "some", "strong", "well"]
 categories: ['Creative']
 ---

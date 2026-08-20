@@ -1,7 +1,7 @@
 ---
 title: "Last #squats session, feeling pumped up for the competition at the weekend #powerlifting"
 date: 2016-12-05T19:07:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "competition", "feeling", "flickr", "for", "ifttt", "instagram", "last", "photography", "powerlifting", "pumped", "session", "squats", "up", "weekend"]
 categories: ['Creative']
 ---

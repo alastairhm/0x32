@@ -1,7 +1,7 @@
 ---
 title: "VirtualBox_Sabayon_07_08_2020_09_35_09"
 date: 2020-08-07T09:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "linux", "photography", "sabayon"]
 categories: ['Creative']
 ---

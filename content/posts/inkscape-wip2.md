@@ -1,7 +1,7 @@
 ---
 title: "Inkscape WIP2"
 date: 2020-07-17T14:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "geek", "ifttt", "inkscape", "photography", "wip"]
 categories: ['Creative']
 ---

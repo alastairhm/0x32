@@ -1,7 +1,7 @@
 ---
 title: "Retro style wall art"
 date: 2015-12-17T10:04:00+00:00
-draft: true
+draft: false
 tags: ["art", "blog-import", "flickr", "ifttt", "instagram", "photography", "retro", "style", "wall"]
 categories: ['Creative']
 ---

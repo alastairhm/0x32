@@ -1,7 +1,7 @@
 ---
 title: "Some shoulder press to finish up #powerlifting #absolutefitness #roadto600"
 date: 2017-12-13T19:20:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "finish", "flickr", "ifttt", "instagram", "photography", "powerlifting", "press", "roadto600", "shoulder", "some", "up"]
 categories: ['Creative']
 ---

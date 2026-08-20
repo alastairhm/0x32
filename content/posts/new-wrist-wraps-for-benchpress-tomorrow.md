@@ -1,7 +1,7 @@
 ---
 title: "New wrist wraps for #benchpress tomorrow #powerlifting"
 date: 2017-03-07T18:26:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "for", "ifttt", "instagram", "new", "photography", "powerlifting", "tomorrow", "wraps", "wrist"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "#squats session last night, not on my game, manned up and did another set at 180kg after the fugly first one. #powerlifting"
 date: 2017-03-14T11:24:00+00:00
-draft: true
+draft: false
 tags: ["180kg", "after", "another", "blog-import", "did", "first", "flickr", "fugly", "game", "ifttt", "instagram", "last", "manned", "night", "one", "photography", "powerlifting", "session", "set", "squats", "up"]
 categories: ['Creative']
 ---

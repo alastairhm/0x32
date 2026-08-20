@@ -1,7 +1,7 @@
 ---
 title: "Day 069, mini black rhino"
 date: 2013-06-05T16:37:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "chesterzoo", "dropbox", "flickr", "ifttt", "photography", "rhino"]
 categories: ['Creative']
 ---

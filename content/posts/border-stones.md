@@ -1,7 +1,7 @@
 ---
 title: "Border stones"
 date: 2019-09-20T18:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "border", "flickr", "ifttt", "instagram", "photography", "stones"]
 categories: ['Creative']
 ---

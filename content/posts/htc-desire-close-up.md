@@ -1,7 +1,7 @@
 ---
 title: "HTC Desire Close Up"
 date: 2010-05-09T12:34:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "htc-desire", "macro", "man-made", "nikon-d50", "photography", "technology"]
 categories: ['Creative']
 ---

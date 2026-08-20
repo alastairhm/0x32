@@ -1,7 +1,7 @@
 ---
 title: "Three sets of three press-pause #benchpress at 110kg #powerlifting #gym"
 date: 2016-11-30T20:11:00+00:00
-draft: true
+draft: false
 tags: ["110kg", "benchpress", "blog-import", "flickr", "gym", "ifttt", "instagram", "photography", "powerlifting", "presspause", "sets", "three"]
 categories: ['Creative']
 ---

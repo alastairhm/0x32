@@ -1,7 +1,7 @@
 ---
 title: "Day 205 Headcase"
 date: 2013-10-18T12:55:00+00:00
-draft: true
+draft: false
 tags: ["365", "android", "blog-import", "case", "flickr", "ifttt", "nexus", "nexus7", "photography", "updates", "vision-face-099", "vision-people-099", "vision-text-0722"]
 categories: ['Creative']
 ---

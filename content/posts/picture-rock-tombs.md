@@ -1,7 +1,7 @@
 ---
 title: "Picture : Rock Tombs"
 date: 2008-10-29T12:16:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "man-made", "photography", "turkey"]
 categories: ['Creative']
 ---

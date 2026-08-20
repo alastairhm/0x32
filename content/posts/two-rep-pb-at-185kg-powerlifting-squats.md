@@ -1,7 +1,7 @@
 ---
 title: "Two rep #PB at 185kg #powerlifting #squats"
 date: 2016-04-25T17:42:00+00:00
-draft: true
+draft: false
 tags: ["185kg", "blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "rep", "squats", "two"]
 categories: ['Creative']
 ---

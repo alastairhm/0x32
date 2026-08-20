@@ -1,7 +1,7 @@
 ---
 title: "Working from home benefits #coffee #coffeeaddict"
 date: 2016-04-25T06:46:00+00:00
-draft: true
+draft: false
 tags: ["benefits", "blog-import", "coffee", "coffeeaddict", "flickr", "from", "home", "ifttt", "instagram", "photography", "working"]
 categories: ['Creative']
 ---

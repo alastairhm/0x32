@@ -1,7 +1,7 @@
 ---
 title: "Taste for feet"
 date: 2008-03-27T16:30:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "photography", "picture"]
 categories: ['Creative']
 ---

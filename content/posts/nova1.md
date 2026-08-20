@@ -1,7 +1,7 @@
 ---
 title: "nova_1"
 date: 2020-07-13T22:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "fractal", "ifttt", "photography"]
 categories: ['Creative']
 ---

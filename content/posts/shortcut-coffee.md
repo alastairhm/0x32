@@ -1,7 +1,7 @@
 ---
 title: "Shortcut #coffee"
 date: 2018-07-01T15:08:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "coffee", "flickr", "ifttt", "instagram", "photography", "shortcut"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "New book to read #book #reading"
 date: 2017-06-09T09:28:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "book", "flickr", "ifttt", "instagram", "new", "photography", "read", "reading"]
 categories: ['Creative']
 ---

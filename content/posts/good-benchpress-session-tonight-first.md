@@ -1,7 +1,7 @@
 ---
 title: "Good #benchpress session tonight first time at 120kg for a while #powerlifting"
 date: 2017-03-29T18:40:00+00:00
-draft: true
+draft: false
 tags: ["120kg", "benchpress", "blog-import", "first", "flickr", "for", "good", "ifttt", "instagram", "photography", "powerlifting", "session", "time", "tonight", "while"]
 categories: ['Creative']
 ---

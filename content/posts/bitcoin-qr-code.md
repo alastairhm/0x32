@@ -1,7 +1,7 @@
 ---
 title: "BitCoin QR Code"
 date: 2013-11-29T16:33:00+00:00
-draft: true
+draft: false
 tags: ["bitcoin", "blog-import", "flickr", "ifttt", "photography", "vision-text-0528"]
 categories: ['Creative']
 ---

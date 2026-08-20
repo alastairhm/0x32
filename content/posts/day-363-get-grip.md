@@ -1,7 +1,7 @@
 ---
 title: "Day 363 get a grip"
 date: 2014-03-25T19:43:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "gripmaster", "ifttt", "photography"]
 categories: ['Creative']
 ---

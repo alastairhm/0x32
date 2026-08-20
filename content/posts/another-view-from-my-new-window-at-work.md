@@ -1,7 +1,7 @@
 ---
 title: "Another view from my new window at work #leeds"
 date: 2016-08-09T12:47:00+00:00
-draft: true
+draft: false
 tags: ["another", "blog-import", "flickr", "from", "ifttt", "instagram", "leeds", "new", "photography", "view", "window", "work"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "New #spinner to add my collection"
 date: 2017-05-17T23:10:00+00:00
-draft: true
+draft: false
 tags: ["add", "blog-import", "collection", "flickr", "ifttt", "instagram", "new", "photography", "spinner"]
 categories: ['Creative']
 ---

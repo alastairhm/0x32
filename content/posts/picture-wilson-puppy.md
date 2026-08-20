@@ -1,7 +1,7 @@
 ---
 title: "Picture : Wilson the puppy"
 date: 2006-10-24T14:46:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog", "photography", "picture"]
 categories: ['Creative']
 ---

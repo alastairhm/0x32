@@ -1,7 +1,7 @@
 ---
 title: "Paper bark"
 date: 2015-05-19T21:11:00+00:00
-draft: true
+draft: false
 tags: ["bark", "blog-import", "flickr", "ifttt", "instagram", "paper", "photography"]
 categories: ['Creative']
 ---

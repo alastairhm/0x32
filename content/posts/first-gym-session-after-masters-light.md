@@ -1,7 +1,7 @@
 ---
 title: "First gym session after Masters, light squats and solid bench press reps #powerlifting"
 date: 2016-03-29T18:59:00+00:00
-draft: true
+draft: false
 tags: ["after", "bench", "blog-import", "first", "flickr", "gym", "ifttt", "instagram", "light", "masters", "photography", "powerlifting", "press", "reps", "session", "solid", "squats"]
 categories: ['Creative']
 ---

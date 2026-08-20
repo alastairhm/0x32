@@ -1,7 +1,7 @@
 ---
 title: "US Army Jeep Detail"
 date: 2011-07-13T13:22:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "photography", "photomanipulation", "retro", "transport", "uk"]
 categories: ['Creative']
 ---

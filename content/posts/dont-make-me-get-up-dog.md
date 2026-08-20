@@ -1,7 +1,7 @@
 ---
 title: "Don't make me get up. #dog"
 date: 2020-03-01T12:11:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

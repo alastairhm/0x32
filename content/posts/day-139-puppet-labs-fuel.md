@@ -1,7 +1,7 @@
 ---
 title: "Day 139 Puppet labs fuel"
 date: 2013-08-13T18:07:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "coffee", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography", "puppet"]
 categories: ['Creative']
 ---

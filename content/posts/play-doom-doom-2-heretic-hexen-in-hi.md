@@ -1,7 +1,7 @@
 ---
 title: "Play Doom, Doom 2, Heretic, Hexen in Hi-res on ANY computer."
 date: 2007-01-02T23:01:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "links", "photography"]
 categories: ['Creative']
 ---

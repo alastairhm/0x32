@@ -1,7 +1,7 @@
 ---
 title: "Mount Teide"
 date: 2015-03-12T15:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "mount", "photography", "teide", "tenerife", "volcano"]
 categories: ['Creative']
 ---

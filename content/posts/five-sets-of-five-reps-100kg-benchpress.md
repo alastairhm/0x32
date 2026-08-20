@@ -1,7 +1,7 @@
 ---
 title: "Five sets of five reps @ 100kg #benchpress #powerlifting"
 date: 2016-10-26T17:53:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "benchpress", "blog-import", "five", "flickr", "ifttt", "instagram", "photography", "powerlifting", "reps", "sets"]
 categories: ['Creative']
 ---

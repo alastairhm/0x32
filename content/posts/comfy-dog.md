@@ -1,7 +1,7 @@
 ---
 title: "Comfy #dog"
 date: 2017-03-12T17:49:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "comfy", "dog", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

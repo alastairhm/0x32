@@ -1,7 +1,7 @@
 ---
 title: "Picture : Snow in York"
 date: 2008-12-02T08:22:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "k800i", "photography", "picture", "uk", "weather"]
 categories: ['Creative']
 ---

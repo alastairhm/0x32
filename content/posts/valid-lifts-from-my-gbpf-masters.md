@@ -1,7 +1,7 @@
 ---
 title: "Valid lifts from my #GBPF Masters Classic at the weekend #powerlifting"
 date: 2016-03-22T08:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "classic", "flickr", "from", "gbpf", "ifttt", "instagram", "lifts", "masters", "photography", "powerlifting", "valid", "weekend"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 365 and exit"
 date: 2014-03-27T20:44:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "day", "exit", "flickr", "ifttt", "last", "photography"]
 categories: ['Creative']
 ---

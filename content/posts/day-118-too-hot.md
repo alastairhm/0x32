@@ -1,7 +1,7 @@
 ---
 title: "Day 118 Too hot"
 date: 2013-07-24T13:22:00+00:00
-draft: true
+draft: false
 tags: ["26", "365", "blog-import", "flickr", "galileo", "hot", "ifttt", "photography", "thermometer"]
 categories: ['Creative']
 ---

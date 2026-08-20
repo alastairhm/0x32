@@ -1,7 +1,7 @@
 ---
 title: "Great #deadlift session tonight, closing in on a new #PB #powerlifting #gymaddict"
 date: 2017-04-07T18:23:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "closing", "deadlift", "flickr", "great", "gymaddict", "ifttt", "instagram", "new", "pb", "photography", "powerlifting", "session", "tonight"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Old in Black"
 date: 2008-10-30T14:17:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "car", "other-peoples-work", "photography"]
 categories: ['Creative']
 ---

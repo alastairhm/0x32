@@ -1,7 +1,7 @@
 ---
 title: "View from my new desk position #leeds"
 date: 2016-08-08T08:27:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "desk", "flickr", "from", "ifttt", "instagram", "leeds", "new", "photography", "position", "view"]
 categories: ['Creative']
 ---

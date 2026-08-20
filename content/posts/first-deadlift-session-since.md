@@ -1,7 +1,7 @@
 ---
 title: "First #deadlift session since the competition, feeling good #powerlifting #absolutefitness #roadto600"
 date: 2017-09-08T18:02:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "competition", "deadlift", "feeling", "first", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "session", "since"]
 categories: ['Creative']
 ---

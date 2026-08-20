@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #squat session #powerlifting"
 date: 2016-06-13T18:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "tonights"]
 categories: ['Creative']
 ---

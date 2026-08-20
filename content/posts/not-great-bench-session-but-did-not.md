@@ -1,7 +1,7 @@
 ---
 title: "Not a great #bench session but did not feel 100% #powerlifting"
 date: 2017-02-15T19:56:00+00:00
-draft: true
+draft: false
 tags: ["100", "bench", "blog-import", "but", "did", "feel", "flickr", "great", "ifttt", "instagram", "not", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

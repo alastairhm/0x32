@@ -1,7 +1,7 @@
 ---
 title: "Armed with camera phone and dog"
 date: 2007-04-24T12:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

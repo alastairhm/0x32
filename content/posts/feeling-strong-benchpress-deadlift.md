@@ -1,7 +1,7 @@
 ---
 title: "Feeling strong #benchpress #deadlift #powerlifting #absolutefitness #roadto600"
 date: 2017-10-18T19:22:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "benchpress", "blog-import", "deadlift", "feeling", "flickr", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "strong"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dog doesn't understand WFH #dog #dogsofinstagram #wilsondog"
 date: 2018-08-28T11:33:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "doesnt", "dog", "dogsofinstagram", "flickr", "ifttt", "instagram", "photography", "understand", "wfh", "wilsondog"]
 categories: ['Creative']
 ---

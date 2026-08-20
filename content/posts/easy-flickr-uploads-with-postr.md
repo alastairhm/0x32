@@ -1,7 +1,7 @@
 ---
 title: "Easy flickr uploads with Postr"
 date: 2010-05-13T00:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "links", "linux", "photography", "software"]
 categories: ['Creative']
 ---

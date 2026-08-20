@@ -1,7 +1,7 @@
 ---
 title: "Wfh boredom #reflection"
 date: 2020-05-13T20:01:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "boredom", "flickr", "ifttt", "instagram", "photography", "reflection", "wfh"]
 categories: ['Creative']
 ---

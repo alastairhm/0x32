@@ -1,7 +1,7 @@
 ---
 title: "Rep #PB tonight 6x160kg #squats #powerlifting #gymaddict"
 date: 2017-04-24T18:59:00+00:00
-draft: true
+draft: false
 tags: ["6x160kg", "blog-import", "flickr", "gymaddict", "ifttt", "instagram", "pb", "photography", "powerlifting", "rep", "squats", "tonight"]
 categories: ['Creative']
 ---

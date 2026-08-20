@@ -1,7 +1,7 @@
 ---
 title: "Good session #PB with 2 reps at 120kg #benchpress and 5 reps at 180kg #squat #powerlifting #absolutefitness #roadto600"
 date: 2017-10-23T19:09:00+00:00
-draft: true
+draft: false
 tags: ["120kg", "180kg", "2", "5", "absolutefitness", "benchpress", "blog-import", "flickr", "good", "ifttt", "instagram", "pb", "photography", "powerlifting", "reps", "roadto600", "session", "squat", "with"]
 categories: ['Creative']
 ---

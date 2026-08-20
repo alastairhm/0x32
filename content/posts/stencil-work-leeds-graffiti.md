@@ -1,7 +1,7 @@
 ---
 title: "Stencil work #leeds #graffiti"
 date: 2016-08-23T17:47:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "graffiti", "ifttt", "instagram", "leeds", "photography", "stencil", "work"]
 categories: ['Creative']
 ---

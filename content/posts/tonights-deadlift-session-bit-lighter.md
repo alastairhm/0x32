@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #deadlift session, bit lighter than usual, no pain from my back which is good. #powerlifting"
 date: 2016-08-26T18:51:00+00:00
-draft: true
+draft: false
 tags: ["back", "bit", "blog-import", "deadlift", "flickr", "from", "good", "ifttt", "instagram", "is", "lighter", "no", "pain", "photography", "powerlifting", "session", "than", "tonights", "usual", "which"]
 categories: ['Creative']
 ---

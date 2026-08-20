@@ -1,7 +1,7 @@
 ---
 title: "Day 6, Trinity Leeds shopping centre"
 date: 2013-04-03T12:22:00+00:00
-draft: true
+draft: false
 tags: ["365", "android", "blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "leeds", "photography", "pixlomatic", "trinity"]
 categories: ['Creative']
 ---

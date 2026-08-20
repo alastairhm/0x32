@@ -1,7 +1,7 @@
 ---
 title: "Android-x86"
 date: 2014-02-17T10:31:00+00:00
-draft: true
+draft: false
 tags: ["and", "android", "androidx86", "blog-import", "flickr", "geek", "ifttt", "photography", "virtualbox"]
 categories: ['Creative']
 ---

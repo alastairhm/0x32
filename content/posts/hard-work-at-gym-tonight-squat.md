@@ -1,7 +1,7 @@
 ---
 title: "Hard work at the gym tonight #squat #powerlifting #absolutefitness #roadto600"
 date: 2017-09-11T18:20:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "flickr", "gym", "hard", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "squat", "tonight", "work"]
 categories: ['Creative']
 ---

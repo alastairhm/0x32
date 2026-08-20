@@ -1,7 +1,7 @@
 ---
 title: "Serious #benchpress session #powerlifting #absolutefitness #ynepf #18daystogo"
 date: 2017-08-02T18:56:00+00:00
-draft: true
+draft: false
 tags: ["18daystogo", "absolutefitness", "benchpress", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "serious", "session", "ynepf"]
 categories: ['Creative']
 ---

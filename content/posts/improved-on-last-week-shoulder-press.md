@@ -1,7 +1,7 @@
 ---
 title: "Improved on last week shoulder press #powerlifting"
 date: 2016-09-30T17:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "improved", "instagram", "last", "photography", "powerlifting", "press", "shoulder", "week"]
 categories: ['Creative']
 ---

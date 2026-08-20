@@ -1,7 +1,7 @@
 ---
 title: "Caesars place #reinvent #reinvent2019"
 date: 2019-12-04T19:54:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "caesars", "flickr", "ifttt", "instagram", "photography", "place", "reinvent", "reinvent2019"]
 categories: ['Creative']
 ---

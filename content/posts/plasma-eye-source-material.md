@@ -1,7 +1,7 @@
 ---
 title: "Plasma Eye Source Material"
 date: 2006-03-15T15:49:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "photomanipulation", "picture"]
 categories: ['Creative']
 ---

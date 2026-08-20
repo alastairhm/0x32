@@ -1,7 +1,7 @@
 ---
 title: "Day 071, car wash"
 date: 2013-06-07T11:37:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "carwash", "flickr", "flickrandroidapp-filter-none", "foam", "ifttt", "photography"]
 categories: ['Creative']
 ---

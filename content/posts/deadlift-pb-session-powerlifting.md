@@ -1,7 +1,7 @@
 ---
 title: "#Deadlift #PB session #powerlifting #absolutefitness"
 date: 2018-03-23T19:46:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "deadlift", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

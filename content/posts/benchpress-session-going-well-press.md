@@ -1,7 +1,7 @@
 ---
 title: "#benchpress session going well, press-pause at 110, 115 and 120kg #powerlifting #absolutefitness"
 date: 2017-07-12T18:38:00+00:00
-draft: true
+draft: false
 tags: ["110", "115", "120kg", "absolutefitness", "benchpress", "blog-import", "flickr", "going", "ifttt", "instagram", "photography", "powerlifting", "presspause", "session", "well"]
 categories: ['Creative']
 ---

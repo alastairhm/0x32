@@ -1,7 +1,7 @@
 ---
 title: "Retro Camera App for Android"
 date: 2011-02-15T09:40:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "htc-desire", "photography", "retro"]
 categories: ['Creative']
 ---

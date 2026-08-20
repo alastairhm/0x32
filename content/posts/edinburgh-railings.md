@@ -1,7 +1,7 @@
 ---
 title: "Edinburgh Railings"
 date: 2008-02-04T13:03:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

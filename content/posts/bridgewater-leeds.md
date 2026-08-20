@@ -1,7 +1,7 @@
 ---
 title: "Bridgewater Leeds"
 date: 2013-08-22T19:13:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-mammoth", "ifttt", "leeds", "photography"]
 categories: ['Creative']
 ---

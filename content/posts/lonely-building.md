@@ -1,7 +1,7 @@
 ---
 title: "Lonely building"
 date: 2019-01-12T18:05:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "building", "flickr", "ifttt", "instagram", "lonely", "photography"]
 categories: ['Creative']
 ---

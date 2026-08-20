@@ -1,7 +1,7 @@
 ---
 title: "First #squat session back after completion, knackered. #powerlifting"
 date: 2016-07-11T18:35:00+00:00
-draft: true
+draft: false
 tags: ["after", "back", "blog-import", "completion", "first", "flickr", "ifttt", "instagram", "knackered", "photography", "powerlifting", "session", "squat"]
 categories: ['Creative']
 ---

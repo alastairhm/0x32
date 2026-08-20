@@ -1,7 +1,7 @@
 ---
 title: "Heart Attack Grill"
 date: 2020-07-18T19:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "las", "photography", "vegas"]
 categories: ['Creative']
 ---

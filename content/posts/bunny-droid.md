@@ -1,7 +1,7 @@
 ---
 title: "Bunny Droid"
 date: 2012-05-15T10:14:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "photography"]
 categories: ['Creative']
 ---

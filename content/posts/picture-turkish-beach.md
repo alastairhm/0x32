@@ -1,7 +1,7 @@
 ---
 title: "Picture : Turkish Beach"
 date: 2008-12-30T13:31:00+00:00
-draft: true
+draft: false
 tags: ["beach", "blog-import", "boat", "clouds", "photography", "picture", "turkey", "waterscape"]
 categories: ['Creative']
 ---

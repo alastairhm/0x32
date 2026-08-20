@@ -1,7 +1,7 @@
 ---
 title: "Good #benchpress session #powerlifting"
 date: 2017-06-14T19:18:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

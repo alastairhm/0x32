@@ -1,7 +1,7 @@
 ---
 title: "High and Dry"
 date: 2006-03-28T08:31:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "boat", "photography", "picture", "scotland", "uk"]
 categories: ['Creative']
 ---

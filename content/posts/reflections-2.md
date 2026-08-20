@@ -1,7 +1,7 @@
 ---
 title: "reflections"
 date: 2012-07-09T09:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

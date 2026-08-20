@@ -1,7 +1,7 @@
 ---
 title: "Personal best, six reps at 100kg bench press #powerlifting"
 date: 2015-09-30T19:50:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "bench", "best", "blog-import", "flickr", "ifttt", "instagram", "personal", "photography", "powerlifting", "press", "reps", "six"]
 categories: ['Creative']
 ---

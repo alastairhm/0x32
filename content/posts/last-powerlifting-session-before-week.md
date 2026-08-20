@@ -1,7 +1,7 @@
 ---
 title: "Last #powerlifting session before a week off, good #deadlift and #benchpress in the heat."
 date: 2017-06-21T21:00:00+00:00
-draft: true
+draft: false
 tags: ["before", "benchpress", "blog-import", "deadlift", "flickr", "good", "heat", "ifttt", "instagram", "last", "off", "photography", "powerlifting", "session", "week"]
 categories: ['Creative']
 ---

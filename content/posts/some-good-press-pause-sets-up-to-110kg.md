@@ -1,7 +1,7 @@
 ---
 title: "Some good press-pause sets up to 110kg felt strong #benchpress #powerlifting #absolutefitness"
 date: 2017-07-20T03:01:00+00:00
-draft: true
+draft: false
 tags: ["110kg", "absolutefitness", "benchpress", "blog-import", "felt", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "presspause", "sets", "some", "strong", "up"]
 categories: ['Creative']
 ---

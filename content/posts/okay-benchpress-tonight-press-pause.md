@@ -1,7 +1,7 @@
 ---
 title: "Okay #benchpress tonight, press pause reps are a killer #powerlifting, hard work doing this and #deadlift"
 date: 2016-07-22T18:13:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "deadlift", "doing", "flickr", "hard", "ifttt", "instagram", "killer", "okay", "pause", "photography", "powerlifting", "press", "reps", "this", "tonight", "work"]
 categories: ['Creative']
 ---

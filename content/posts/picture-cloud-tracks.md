@@ -1,7 +1,7 @@
 ---
 title: "Picture : Cloud Tracks"
 date: 2006-10-24T14:39:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

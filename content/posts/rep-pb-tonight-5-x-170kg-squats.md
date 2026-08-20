@@ -1,7 +1,7 @@
 ---
 title: "Rep #PB tonight 5 x 170kg #squats #powerlifting"
 date: 2016-03-07T20:04:00+00:00
-draft: true
+draft: false
 tags: ["170kg", "5", "blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "rep", "squats", "tonight", "x"]
 categories: ['Creative']
 ---

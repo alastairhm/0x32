@@ -1,7 +1,7 @@
 ---
 title: "Ear selfie #dog"
 date: 2017-07-22T12:59:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog", "ear", "flickr", "ifttt", "instagram", "photography", "selfie"]
 categories: ['Creative']
 ---

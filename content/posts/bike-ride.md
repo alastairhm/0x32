@@ -1,7 +1,7 @@
 ---
 title: "Bike ride"
 date: 2014-11-16T12:18:00+00:00
-draft: true
+draft: false
 tags: ["bike", "blog-import", "flickr", "ifttt", "instagram", "photography", "ride"]
 categories: ['Creative']
 ---

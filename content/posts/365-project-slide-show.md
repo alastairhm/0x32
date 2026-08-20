@@ -1,7 +1,7 @@
 ---
 title: "365 Project Slide Show"
 date: 2014-03-28T16:26:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "photography", "slideshow"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Good bench session tonight, two sets of five at 100kg and press pause on 110kg #powerlifting"
 date: 2016-02-17T19:14:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "110kg", "bench", "blog-import", "five", "flickr", "good", "ifttt", "instagram", "pause", "photography", "powerlifting", "press", "session", "sets", "tonight", "two"]
 categories: ['Creative']
 ---

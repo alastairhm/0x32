@@ -1,7 +1,7 @@
 ---
 title: "Picture : Boat and Bridge"
 date: 2008-07-29T10:38:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "boat", "man-made", "photography", "picture", "scotland", "uk"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "2012-10-20_20-54-05_170_Polak_Clip_Fountains_Abbey"
 date: 2012-10-23T10:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dropbox", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

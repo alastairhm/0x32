@@ -1,7 +1,7 @@
 ---
 title: "If your name is not down you aren't lifting #powerlifting #ynepf"
 date: 2018-03-11T09:35:00+00:00
-draft: true
+draft: false
 tags: ["arent", "blog-import", "down", "flickr", "if", "ifttt", "instagram", "is", "lifting", "name", "photography", "powerlifting", "ynepf", "you", "your"]
 categories: ['Creative']
 ---

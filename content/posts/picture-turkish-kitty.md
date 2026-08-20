@@ -1,7 +1,7 @@
 ---
 title: "Picture : Turkish Kitty"
 date: 2008-10-29T14:07:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "cat", "photography", "turkey"]
 categories: ['Creative']
 ---

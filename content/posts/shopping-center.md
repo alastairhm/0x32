@@ -1,7 +1,7 @@
 ---
 title: "Shopping center"
 date: 2013-06-10T18:25:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "chester", "flickr", "ifttt", "photography", "street"]
 categories: ['Creative']
 ---

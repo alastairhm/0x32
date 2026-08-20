@@ -1,7 +1,7 @@
 ---
 title: "Dashboard blur"
 date: 2014-02-05T15:01:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "blur", "dashboard", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

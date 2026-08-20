@@ -1,7 +1,7 @@
 ---
 title: "Chester Zoo Birds"
 date: 2013-07-01T14:07:00+00:00
-draft: true
+draft: false
 tags: ["birds", "blog-import", "chesterzoo", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

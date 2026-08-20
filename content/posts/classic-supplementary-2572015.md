@@ -1,7 +1,7 @@
 ---
 title: "Classic Supplementary 25/7/2015"
 date: 2016-04-26T18:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography", "powerlifting"]
 categories: ['Creative']
 ---

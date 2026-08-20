@@ -1,7 +1,7 @@
 ---
 title: "Solid bench press session #powerlifting"
 date: 2016-04-27T18:57:00+00:00
-draft: true
+draft: false
 tags: ["bench", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "press", "session", "solid"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #squat session 2x190kg (418lb) #powerlifting"
 date: 2016-11-21T21:21:00+00:00
-draft: true
+draft: false
 tags: ["2x190kg", "418lb", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "tonights"]
 categories: ['Creative']
 ---

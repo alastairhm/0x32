@@ -1,7 +1,7 @@
 ---
 title: "Press pause tonight, surprise #PB #benchpress #powerlifting 😁"
 date: 2016-03-02T19:06:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "pause", "pb", "photography", "powerlifting", "press", "surprise", "tonight"]
 categories: ['Creative']
 ---

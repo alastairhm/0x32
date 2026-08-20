@@ -1,7 +1,7 @@
 ---
 title: "Good Friday #deadlift session"
 date: 2018-03-30T07:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "friday", "good", "ifttt", "instagram", "photography", "session"]
 categories: ['Creative']
 ---

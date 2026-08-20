@@ -1,7 +1,7 @@
 ---
 title: "More sets and reps, lighter weight #squats #powerlifting"
 date: 2016-02-08T20:21:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "lighter", "more", "photography", "powerlifting", "reps", "sets", "squats", "weight"]
 categories: ['Creative']
 ---

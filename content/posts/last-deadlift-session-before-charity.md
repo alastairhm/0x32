@@ -1,7 +1,7 @@
 ---
 title: "Last #deadlift session before the charity comp #powerlifting http://bit.ly/2fRbiHo"
 date: 2016-12-02T20:21:00+00:00
-draft: true
+draft: false
 tags: ["before", "blog-import", "charity", "comp", "deadlift", "flickr", "httpswwwjustgivingcomfundraisingalpowerlifts", "ifttt", "instagram", "last", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

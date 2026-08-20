@@ -1,7 +1,7 @@
 ---
 title: "xubuntu 14_04 beta"
 date: 2014-03-05T12:37:00+00:00
-draft: true
+draft: false
 tags: ["1404", "beta", "blog-import", "dropbox", "flickr", "ifttt", "photography", "xubuntu"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Found a bug in my code"
 date: 2018-10-31T14:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "bug", "code", "flickr", "found", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

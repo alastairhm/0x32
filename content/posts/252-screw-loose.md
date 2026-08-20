@@ -1,7 +1,7 @@
 ---
 title: "2/52 Screw loose"
 date: 2009-08-25T10:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "computer", "lg-renoir", "photography", "picture", "the-52-project", "uk"]
 categories: ['Creative']
 ---

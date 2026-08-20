@@ -1,7 +1,7 @@
 ---
 title: "Picture : At the races"
 date: 2007-07-24T07:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

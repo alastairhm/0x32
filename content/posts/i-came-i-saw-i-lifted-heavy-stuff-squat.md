@@ -1,7 +1,7 @@
 ---
 title: "I came, I saw, I lifted heavy stuff. #squat #powerlifting #absolutefitness"
 date: 2018-04-16T20:58:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "came", "flickr", "heavy", "i", "ifttt", "instagram", "lifted", "photography", "powerlifting", "saw", "squat", "stuff"]
 categories: ['Creative']
 ---

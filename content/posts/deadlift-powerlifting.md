@@ -1,7 +1,7 @@
 ---
 title: "#Deadlift #powerlifting"
 date: 2017-05-05T20:06:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "photography", "powerlifting"]
 categories: ['Creative']
 ---

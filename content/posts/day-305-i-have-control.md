@@ -1,7 +1,7 @@
 ---
 title: "Day 305 I have control"
 date: 2014-01-26T13:49:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "control", "flickr", "ifttt", "nexus5", "photography", "remote"]
 categories: ['Creative']
 ---

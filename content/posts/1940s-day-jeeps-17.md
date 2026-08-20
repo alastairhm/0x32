@@ -1,7 +1,7 @@
 ---
 title: "1940s Day Jeeps"
 date: 2013-06-17T20:52:00+00:00
-draft: true
+draft: false
 tags: ["1940", "army", "blog-import", "flickr", "harrogate", "ifttt", "jeep", "nikon", "photography", "us", "valleygardens"]
 categories: ['Creative']
 ---

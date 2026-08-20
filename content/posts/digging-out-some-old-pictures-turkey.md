@@ -1,7 +1,7 @@
 ---
 title: "Digging out some old pictures #turkey"
 date: 2018-12-07T21:19:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "digging", "flickr", "ifttt", "instagram", "old", "out", "photography", "pictures", "some", "turkey"]
 categories: ['Creative']
 ---

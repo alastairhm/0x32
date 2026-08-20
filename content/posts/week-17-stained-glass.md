@@ -1,7 +1,7 @@
 ---
 title: "Week 17 Stained Glass"
 date: 2009-12-08T16:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "nikon-d50", "photography", "picture", "the-52-project"]
 categories: ['Creative']
 ---

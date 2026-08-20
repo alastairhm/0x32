@@ -1,7 +1,7 @@
 ---
 title: "Other Peoples Work : The Pepper Project"
 date: 2008-11-13T14:58:00+00:00
-draft: true
+draft: false
 tags: ["art", "blog-import", "links", "other-peoples-work", "photography"]
 categories: ['Creative']
 ---

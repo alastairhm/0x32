@@ -1,7 +1,7 @@
 ---
 title: "Highland Cow"
 date: 2006-08-14T15:04:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

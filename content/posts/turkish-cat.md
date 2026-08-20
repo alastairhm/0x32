@@ -1,7 +1,7 @@
 ---
 title: "Turkish Cat"
 date: 2009-01-12T13:50:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "cat", "photography", "turkey"]
 categories: ['Creative']
 ---

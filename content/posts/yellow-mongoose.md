@@ -1,7 +1,7 @@
 ---
 title: "Yellow Mongoose"
 date: 2011-09-01T04:00:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "nature", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

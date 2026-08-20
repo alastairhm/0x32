@@ -1,7 +1,7 @@
 ---
 title: "Ripon Cathedral Postcard"
 date: 2011-04-19T12:11:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "postcard", "ripon", "uk"]
 categories: ['Creative']
 ---

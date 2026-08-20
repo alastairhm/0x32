@@ -1,7 +1,7 @@
 ---
 title: "Pizza on work"
 date: 2018-04-14T12:43:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "pizza", "work"]
 categories: ['Creative']
 ---

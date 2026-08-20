@@ -1,7 +1,7 @@
 ---
 title: "Picture : Bookends"
 date: 2007-06-28T15:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

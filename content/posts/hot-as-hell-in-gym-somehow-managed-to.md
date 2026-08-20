@@ -1,7 +1,7 @@
 ---
 title: "Hot as hell in the gym, somehow managed to get a #PB 3x190kg #squat #powerlifting"
 date: 2017-06-19T17:41:00+00:00
-draft: true
+draft: false
 tags: ["3x190kg", "blog-import", "flickr", "get", "gym", "hell", "hot", "ifttt", "instagram", "managed", "pb", "photography", "powerlifting", "somehow", "squat"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Saklikent gorge 4"
 date: 2009-01-15T14:59:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "nature", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

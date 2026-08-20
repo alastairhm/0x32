@@ -1,7 +1,7 @@
 ---
 title: "Picture : Just chilling"
 date: 2008-05-22T14:25:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "k800i", "photography", "picture"]
 categories: ['Creative']
 ---

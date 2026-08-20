@@ -1,7 +1,7 @@
 ---
 title: "Day 8, Trinity Leeds"
 date: 2013-04-05T10:22:00+00:00
-draft: true
+draft: false
 tags: ["365", "android", "blog-import", "flickr", "ifttt", "leeds", "photography", "pixlromatic"]
 categories: ['Creative']
 ---

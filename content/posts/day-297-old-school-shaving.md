@@ -1,7 +1,7 @@
 ---
 title: "Day 297 old school shaving"
 date: 2014-01-18T11:43:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "ifttt", "photography", "razor", "shaving"]
 categories: ['Creative']
 ---

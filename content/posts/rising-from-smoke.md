@@ -1,7 +1,7 @@
 ---
 title: "Rising from the smoke"
 date: 2006-03-15T14:44:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "photomanipulation", "picture"]
 categories: ['Creative']
 ---

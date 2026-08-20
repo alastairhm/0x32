@@ -1,7 +1,7 @@
 ---
 title: "555kg total #powerlifting #ynepf"
 date: 2018-03-11T19:11:00+00:00
-draft: true
+draft: false
 tags: ["555kg", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "total", "ynepf"]
 categories: ['Creative']
 ---

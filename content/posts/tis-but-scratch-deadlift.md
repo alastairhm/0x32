@@ -1,7 +1,7 @@
 ---
 title: "Tis but a scratch #deadlift"
 date: 2018-10-26T21:23:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "but", "deadlift", "flickr", "ifttt", "instagram", "photography", "scratch", "tis"]
 categories: ['Creative']
 ---

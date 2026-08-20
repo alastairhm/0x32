@@ -1,7 +1,7 @@
 ---
 title: "More books from work"
 date: 2019-12-24T16:19:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "books", "flickr", "from", "ifttt", "instagram", "more", "photography", "work"]
 categories: ['Creative']
 ---

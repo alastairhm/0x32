@@ -1,7 +1,7 @@
 ---
 title: "Ford Capri #classiccars"
 date: 2017-06-05T19:35:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "capri", "classiccars", "flickr", "ford", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Last night's #squat session #powerlifting #absolutefitness #ynepf #13daystogo"
 date: 2017-08-08T05:43:00+00:00
-draft: true
+draft: false
 tags: ["13daystogo", "absolutefitness", "blog-import", "flickr", "ifttt", "instagram", "last", "nights", "photography", "powerlifting", "session", "squat", "ynepf"]
 categories: ['Creative']
 ---

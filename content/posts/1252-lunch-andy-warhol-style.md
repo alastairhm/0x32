@@ -1,7 +1,7 @@
 ---
 title: "12/52 Lunch Andy Warhol Style"
 date: 2009-11-05T13:32:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "lg-renoir", "photography", "photomanipulation", "the-52-project"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 032, Shell"
 date: 2013-04-29T14:22:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography", "shell"]
 categories: ['Creative']
 ---

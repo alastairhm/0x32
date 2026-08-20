@@ -1,7 +1,7 @@
 ---
 title: "Better #benchpress session that I expected #powerlifting"
 date: 2015-09-23T18:11:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "better", "blog-import", "expected", "flickr", "i", "ifttt", "instagram", "photography", "powerlifting", "session", "that"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "View from my new office"
 date: 2015-12-04T09:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "from", "ifttt", "instagram", "new", "office", "photography", "view"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Competition check list #powerlifting #ynepf"
 date: 2018-03-10T17:35:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "check", "competition", "flickr", "ifttt", "instagram", "list", "photography", "powerlifting", "ynepf"]
 categories: ['Creative']
 ---

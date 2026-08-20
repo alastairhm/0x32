@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi on LCD"
 date: 2014-01-31T16:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "flickr", "ifttt", "lcd", "photography", "raspberrypi"]
 categories: ['Creative']
 ---

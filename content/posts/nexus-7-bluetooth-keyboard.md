@@ -1,7 +1,7 @@
 ---
 title: "Nexus 7 Bluetooth keyboard"
 date: 2015-05-02T09:35:00+00:00
-draft: true
+draft: false
 tags: ["7", "blog-import", "bluetooth", "flickr", "ifttt", "instagram", "keyboard", "nexus", "photography"]
 categories: ['Creative']
 ---

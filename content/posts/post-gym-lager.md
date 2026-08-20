@@ -1,7 +1,7 @@
 ---
 title: "Post gym lager"
 date: 2015-09-10T18:36:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "gym", "ifttt", "instagram", "lager", "photography", "post"]
 categories: ['Creative']
 ---

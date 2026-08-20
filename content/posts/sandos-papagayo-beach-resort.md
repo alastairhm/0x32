@@ -1,7 +1,7 @@
 ---
 title: "sandos papagayo beach resort"
 date: 2017-01-19T20:04:00+00:00
-draft: true
+draft: false
 tags: ["beach", "blog-import", "flickr", "ifttt", "instagram", "papagayo", "photography", "resort", "sandos"]
 categories: ['Creative']
 ---

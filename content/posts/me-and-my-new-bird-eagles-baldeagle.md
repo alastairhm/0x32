@@ -1,7 +1,7 @@
 ---
 title: "Me and my new bird #eagles #baldeagle"
 date: 2017-09-02T20:43:00+00:00
-draft: true
+draft: false
 tags: ["baldeagle", "bird", "blog-import", "eagles", "flickr", "ifttt", "instagram", "me", "new", "photography"]
 categories: ['Creative']
 ---

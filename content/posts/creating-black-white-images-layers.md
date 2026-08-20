@@ -1,7 +1,7 @@
 ---
 title: "Creating Black &amp; White Images | Layers Magazine"
 date: 2007-08-10T11:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

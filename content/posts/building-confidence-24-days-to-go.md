@@ -1,7 +1,7 @@
 ---
 title: "Building confidence 24 days to go. #deadlift #powerlifting #ynepf #absolutefitness finished of with 5 reps @ 160kg"
 date: 2017-07-27T19:14:00+00:00
-draft: true
+draft: false
 tags: ["160kg", "24", "5", "absolutefitness", "blog-import", "building", "confidence", "days", "deadlift", "finished", "flickr", "go", "ifttt", "instagram", "photography", "powerlifting", "reps", "with", "ynepf"]
 categories: ['Creative']
 ---

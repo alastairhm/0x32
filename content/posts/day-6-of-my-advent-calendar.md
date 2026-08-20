@@ -1,7 +1,7 @@
 ---
 title: "Day 6 of my advent calendar"
 date: 2015-12-06T08:43:00+00:00
-draft: true
+draft: false
 tags: ["6", "advent", "blog-import", "calendar", "day", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

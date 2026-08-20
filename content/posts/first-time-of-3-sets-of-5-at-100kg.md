@@ -1,7 +1,7 @@
 ---
 title: "First time of 3 sets of 5 at 100kg #powerlifting #benchpress"
 date: 2016-02-24T19:53:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "3", "5", "benchpress", "blog-import", "first", "flickr", "ifttt", "instagram", "photography", "powerlifting", "sets", "time"]
 categories: ['Creative']
 ---

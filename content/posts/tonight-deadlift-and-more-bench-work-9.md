@@ -1,7 +1,7 @@
 ---
 title: "Tonight Deadlift and more bench work, 9 reps on 100kg for a new #PB #deadlift #benchpress #powerlifting #absolutefitness #roadto600"
 date: 2017-10-25T20:46:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "9", "absolutefitness", "bench", "benchpress", "blog-import", "deadlift", "flickr", "for", "ifttt", "instagram", "more", "new", "pb", "photography", "powerlifting", "reps", "roadto600", "tonight", "work"]
 categories: ['Creative']
 ---

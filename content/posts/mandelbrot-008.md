@@ -1,0 +1,9 @@
+---
+title: "Mandelbrot 008"
+date: 2009-09-03T20:20:00+01:00
+draft: false
+tags: ["blogger-import", "fractal", "fractal-images", "gnofract-4d"]
+categories: ['Creative']
+---
+
+<style type="text/css">.flickr-photo { border: solid 2px #000000; }.flickr-yourcomment { }.flickr-frame { text-align: left; padding: 3px; }.flickr-caption { font-size: 0.8em; margin-top: 0px; }</style><div class="flickr-frame"> <a href="http://www.flickr.com/photos/doodle_m/3885245174/" title="photo sharing"><img src="http://farm4.static.flickr.com/3492/3885245174_704e944435.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/doodle_m/3885245174/">Mandelbrot 008</a>, originally uploaded by <a href="http://www.flickr.com/people/doodle_m/">Alastair Montgomery</a>.</span></div>    <p class="flickr-yourcomment"> <br />-----------------------------------<br />gnofract4d parameter file<br />version=3.10<br />compressed=[<br />H4sIAN8WoEoC/61VS2vbQBC+76/wsaWp2efM7kHgUmjaQ6B3Y4xirdIFWRskhdj+9Z2VrCRyVHCg<br />C0az8/rmsTM+ZF/50qLW6IyTYDVKzS07ZnwpgaMF7owCi9yiZaekzA0KLgGNUUIZJRV7zhKXa6e4<br />cEaQOpmyNpx8EihUxqHmwEESX7FDcs4vDzuc5tnPs+zjvPZxXvs0z97nh9D5JhOSMi6r8Jj9yKvW<br />s0ffhFiEXeiOmTjftl2sfJPXOz+4ElNX6/Kp3nUh1htWxmb/VOVlqHz2UOpiWTZ7Noqzu7wufHXf<br />xI6t7vNQJUG22+cPbLV9aPIi+LrL1uz2193vxe35zoRkY/wLIrQAwERYRYcIjdY6SYQBAdomgisH<br />fCHeWP2LeNHRC86+8KWQZpATyoCDQnIHRAByyZN7JwRI9WqqBlPZR0Ty3sWHUKU7J6XUOSkELjEl<br />ZY0d4K0FifAOVeE54FSXoTDXompzDtiMilpoMDoRHJWzPUeAEu9QzdgFM3bhalQYKwxjhbUCQuk5<br />CnvCaHpi+A4VxwrjhyuMY4XtWGHtpAGXnCllIOWquNREXKLascLuwxV2Q4XfPMQrHiuZbobxiE9d<br />ppZOgZNCO6A6GdCg2drXRevPE7cmLd/MTN5uMno/Y7f4VheL77EqaNo6mua2pPEPRZqx1ZY+bT/y<br />M6titY1l2fpudo+8RKrnhLsqtr4IbbKVF1JBYoqGfrHJPpGcsqSHRWvYpg0r4CY9RGeFoAunHY0G<br />HfFIYrQlCbXLASp5MxPXZ7Yq86ZHnk3pT+xegB24ycEELKe8BHyx9zifB562J9T1Fe05+Sb+17ZM<br />g+hTbTes/9J/E6191sYqFC2t28GiLF+JzdT8L7agw3IoBwAA<br /><br />]</p>

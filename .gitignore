@@ -7,3 +7,6 @@ public/*
 # Claude Code
 .claude/
 CLAUDE.local.md
+
+# Blogger takeout export (source data for imports, not site content)
+takeout/

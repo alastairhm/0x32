@@ -2,7 +2,7 @@
 title: "~ * The Path of The"
 date: 2016-05-04T12:34:00+01:00
 draft: true
-tags: ["fractal-image", "ifttt", "the-path-of-the"]
+tags: ["blogger-import", "fractal-image", "ifttt", "the-path-of-the"]
 categories: ['Creative']
 ---
 

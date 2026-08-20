@@ -2,7 +2,7 @@
 title: "Fractal Image, Tierazon 001"
 date: 2008-03-31T11:42:00+01:00
 draft: true
-tags: ["fractal-images"]
+tags: ["blogger-import", "fractal-images"]
 categories: ['Creative']
 ---
 

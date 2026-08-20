@@ -2,7 +2,7 @@
 title: "Modern abstract art"
 date: 2016-05-04T12:34:00+01:00
 draft: true
-tags: ["fractal-image", "ifttt", "modern-abstract-art"]
+tags: ["blogger-import", "fractal-image", "ifttt", "modern-abstract-art"]
 categories: ['Creative']
 ---
 

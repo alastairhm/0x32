@@ -2,7 +2,7 @@
 title: "Xaos 02"
 date: 2009-06-04T11:28:00+01:00
 draft: true
-tags: []
+tags: ["blogger-import"]
 categories: ['Creative']
 ---
 

@@ -2,7 +2,7 @@
 title: "Fractals in your bro"
 date: 2016-07-19T14:59:00+01:00
 draft: true
-tags: ["fractal-image", "fractals-in-your-bro", "ifttt"]
+tags: ["blogger-import", "fractal-image", "fractals-in-your-bro", "ifttt"]
 categories: ['Creative']
 ---
 

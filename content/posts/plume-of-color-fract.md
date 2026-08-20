@@ -2,7 +2,7 @@
 title: "Plume Of Color Fract"
 date: 2016-05-31T22:16:00+01:00
 draft: true
-tags: ["fractal-image", "ifttt", "plume-of-color-fract"]
+tags: ["blogger-import", "fractal-image", "ifttt", "plume-of-color-fract"]
 categories: ['Creative']
 ---
 

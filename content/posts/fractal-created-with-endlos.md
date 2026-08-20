@@ -2,7 +2,7 @@
 title: "Fractal Created with Endlos"
 date: 2008-03-27T13:56:00+00:00
 draft: true
-tags: ["fractal-images"]
+tags: ["blogger-import", "fractal-images"]
 categories: ['Creative']
 ---
 

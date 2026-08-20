@@ -2,7 +2,7 @@
 title: "Create Fractals on the Move on Android phones"
 date: 2010-05-19T13:31:00+01:00
 draft: true
-tags: ["android", "fractal-images", "software"]
+tags: ["android", "blogger-import", "fractal-images", "software"]
 categories: ['Creative']
 ---
 

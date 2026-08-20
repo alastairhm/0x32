@@ -2,7 +2,7 @@
 title: "All RGB colors in an image 1080p"
 date: 2014-03-07T13:50:00+00:00
 draft: true
-tags: []
+tags: ["blogger-import"]
 categories: ['Creative']
 ---
 

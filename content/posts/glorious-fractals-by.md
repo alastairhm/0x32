@@ -2,7 +2,7 @@
 title: "glorious fractals by"
 date: 2016-05-04T12:34:00+01:00
 draft: true
-tags: ["fractal-image", "glorious-fractals-by", "ifttt"]
+tags: ["blogger-import", "fractal-image", "glorious-fractals-by", "ifttt"]
 categories: ['Creative']
 ---
 

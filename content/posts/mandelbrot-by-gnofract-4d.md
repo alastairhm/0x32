@@ -2,7 +2,7 @@
 title: "Mandelbrot by GnoFract 4D"
 date: 2009-05-08T20:37:00+01:00
 draft: true
-tags: ["fractal-images", "gnofract-4d"]
+tags: ["blogger-import", "fractal-images", "gnofract-4d"]
 categories: ['Creative']
 ---
 

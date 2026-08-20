@@ -2,7 +2,7 @@
 title: "Fractal Image kaos"
 date: 2008-04-04T09:31:00+01:00
 draft: true
-tags: ["fractal-images"]
+tags: ["blogger-import", "fractal-images"]
 categories: ['Creative']
 ---
 

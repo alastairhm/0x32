@@ -2,7 +2,7 @@
 title: "Fractal Spirals"
 date: 2016-05-04T12:34:00+01:00
 draft: true
-tags: ["fractal-image", "fractal-spirals", "ifttt"]
+tags: ["blogger-import", "fractal-image", "fractal-spirals", "ifttt"]
 categories: ['Creative']
 ---
 

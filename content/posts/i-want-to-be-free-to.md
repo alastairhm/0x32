@@ -2,7 +2,7 @@
 title: "I want to be free to"
 date: 2014-11-10T14:22:00+00:00
 draft: true
-tags: ["fractal-image", "fractals", "ifttt"]
+tags: ["blogger-import", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---
 

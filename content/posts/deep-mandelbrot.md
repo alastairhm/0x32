@@ -2,7 +2,7 @@
 title: "Deep Mandelbrot"
 date: 2010-03-23T19:32:00+00:00
 draft: true
-tags: []
+tags: ["blogger-import"]
 categories: ['Creative']
 ---
 

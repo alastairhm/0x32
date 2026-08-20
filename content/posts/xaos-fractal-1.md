@@ -2,7 +2,7 @@
 title: "Xaos Fractal 1"
 date: 2009-05-07T10:21:00+01:00
 draft: true
-tags: ["fractal-images"]
+tags: ["blogger-import", "fractal-images"]
 categories: ['Creative']
 ---
 

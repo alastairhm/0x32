@@ -2,7 +2,7 @@
 title: "Fractal Image, 2008_04_15"
 date: 2008-04-15T12:44:00+01:00
 draft: true
-tags: ["fractal-images"]
+tags: ["blogger-import", "fractal-images"]
 categories: ['Creative']
 ---
 

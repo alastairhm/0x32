@@ -2,7 +2,7 @@
 title: "Fractal Image, round, round baby"
 date: 2008-04-08T12:32:00+01:00
 draft: true
-tags: ["fractal-images"]
+tags: ["blogger-import", "fractal-images"]
 categories: ['Creative']
 ---
 

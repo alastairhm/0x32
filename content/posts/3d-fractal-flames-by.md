@@ -2,7 +2,7 @@
 title: "3D Fractal Flames by"
 date: 2016-05-10T21:45:00+01:00
 draft: true
-tags: ["3d-fractal-flames-by", "fractal-image", "ifttt"]
+tags: ["3d-fractal-flames-by", "blogger-import", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

@@ -2,7 +2,7 @@
 title: "Fractals in Nature:"
 date: 2014-05-29T14:35:00+01:00
 draft: true
-tags: ["fractal-image", "fractals", "ifttt"]
+tags: ["blogger-import", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---
 

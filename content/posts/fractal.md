@@ -2,7 +2,7 @@
 title: "Fractal"
 date: 2017-10-29T20:24:00+00:00
 draft: true
-tags: ["fractal", "fractal-image", "ifttt"]
+tags: ["blogger-import", "fractal", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

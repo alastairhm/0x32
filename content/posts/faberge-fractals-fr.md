@@ -2,7 +2,7 @@
 title: "Fabergé Fractals #fr"
 date: 2016-05-03T23:29:00+01:00
 draft: true
-tags: ["fractal-image", "fractals", "ifttt"]
+tags: ["blogger-import", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---
 

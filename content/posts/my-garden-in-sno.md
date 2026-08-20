@@ -2,7 +2,7 @@
 title: "My Garden In The Sno"
 date: 2016-08-03T23:13:00+01:00
 draft: true
-tags: ["fractal-image", "ifttt", "my-garden-in-the-sno"]
+tags: ["blogger-import", "fractal-image", "ifttt", "my-garden-in-the-sno"]
 categories: ['Creative']
 ---
 

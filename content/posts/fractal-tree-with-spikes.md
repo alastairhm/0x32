@@ -2,7 +2,7 @@
 title: "Fractal tree with spikes"
 date: 2009-11-20T14:09:00+00:00
 draft: true
-tags: ["context-free", "fractal-images"]
+tags: ["blogger-import", "context-free", "fractal-images"]
 categories: ['Creative']
 ---
 

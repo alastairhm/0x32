@@ -2,7 +2,7 @@
 title: "Other peoples work"
 date: 2009-05-12T17:00:00+01:00
 draft: true
-tags: ["external", "other-peoples-work"]
+tags: ["blogger-import", "external", "other-peoples-work"]
 categories: ['Creative']
 ---
 

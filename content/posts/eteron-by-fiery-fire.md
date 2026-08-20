@@ -2,7 +2,7 @@
 title: "Eteron by Fiery-Fire"
 date: 2016-08-09T13:24:00+01:00
 draft: true
-tags: ["eteron-by-fiery-fire", "fractal-image", "ifttt"]
+tags: ["blogger-import", "eteron-by-fiery-fire", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

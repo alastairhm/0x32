@@ -2,7 +2,7 @@
 title: "spiral fractal - Cer"
 date: 2017-10-19T21:37:00+01:00
 draft: true
-tags: ["fractal-image", "ifttt", "spiral-fractal-cer"]
+tags: ["blogger-import", "fractal-image", "ifttt", "spiral-fractal-cer"]
 categories: ['Creative']
 ---
 

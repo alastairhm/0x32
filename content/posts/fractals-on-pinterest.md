@@ -2,7 +2,7 @@
 title: "Fractals on Pinterest"
 date: 2016-05-03T22:25:00+01:00
 draft: true
-tags: ["external", "fractal-image"]
+tags: ["blogger-import", "external", "fractal-image"]
 categories: ['Creative']
 ---
 

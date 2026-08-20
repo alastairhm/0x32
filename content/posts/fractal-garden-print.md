@@ -2,7 +2,7 @@
 title: "fractal garden print"
 date: 2017-10-19T19:37:00+01:00
 draft: true
-tags: ["fractal-garden-print", "fractal-image", "ifttt"]
+tags: ["blogger-import", "fractal-garden-print", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---
 

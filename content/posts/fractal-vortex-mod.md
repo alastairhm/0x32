@@ -2,7 +2,7 @@
 title: "Fractal vortex - mod"
 date: 2014-05-10T16:19:00+01:00
 draft: true
-tags: ["fractal-image", "fractals", "ifttt"]
+tags: ["blogger-import", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---
 

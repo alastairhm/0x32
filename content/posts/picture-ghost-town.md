@@ -6,6 +6,8 @@ tags: ["blog-import", "cityscape", "man-made", "panoramic", "photography", "pict
 categories: ['Creative']
 ---
 
+> **Note:** 6 of this post's 8 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="450" height="350"><param name="allowScriptAccess" value="always"><param name="movie" value="http://s3.clevr.com/CleVR?xmldomain=http://www.clevr.com/&amp;mov=6421"><embed src="http://s3.clevr.com/CleVR?xmldomain=http://www.clevr.com/&amp;mov=6421" width="450" height="350" name="CleVR" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object><p style="width: 450px; text-align: center"><a href="http://www.clevr.com/pano/6421?utm_source=embed&utm_content=6421&utm_medium=embed" title="Panoramic view of Ghost Town">Panorama of Ghost Town on CleVR.com</a></p>
 <br />
 <br />Panoramic picture of the Ghost town in Turkey

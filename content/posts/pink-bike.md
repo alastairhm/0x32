@@ -6,4 +6,6 @@ tags: ["bicycle", "bike", "blog-import", "d50", "flickr", "ifttt", "knaresboroug
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm8.staticflickr.com/7275/13533617185_abe185bb4f_b.jpg'/><br/><br /><div>High Vis bike in Knaresborough http://flic.kr/p/mBVjTk, March 29, 2014 at 01:00PM</div><br /></div>

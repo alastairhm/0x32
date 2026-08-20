@@ -6,6 +6,8 @@ tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 3 of this post's 10 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDALGQWg0w-AUgFsREpvZNjW6kLZH6LGA8mNXDMljn5ojnVRuGL5GSlYdC8Ad7eICJf_v4gpdeT3_SZHGUfLZKiLk-C1BgwOSc6fJeMZFMx3G4BLF6IcYZTnynR-A7uu2H2SE/s1600/DSC_3779.JPG"><img style="MARGIN: 0px 10px 10px 0px; FLOAT: left; CLEAR: both" border="0" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDALGQWg0w-AUgFsREpvZNjW6kLZH6LGA8mNXDMljn5ojnVRuGL5GSlYdC8Ad7eICJf_v4gpdeT3_SZHGUfLZKiLk-C1BgwOSc6fJeMZFMx3G4BLF6IcYZTnynR-A7uu2H2SE/s400/DSC_3779.JPG" /></a> 
 <br />
 <br />

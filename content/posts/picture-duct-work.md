@@ -6,4 +6,6 @@ tags: ["black-and-white", "blog-import", "man-made", "photography", "picture", "
 categories: ['Creative']
 ---
 
+> **Note:** 2 of this post's 3 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <span class="shadow" style="display: block; background-image: none ! important;" id="zoomed-out"><a href="http://www.deviantart.com/deviation/41902784/" onclick="return Deviation.zoomIn()"><img src="http://tn3-2.deviantart.com/fs12/300W/i/2006/297/f/8/Duct_Work_by_sicklittlemonkey.jpg" id="zoomed-out-image" width="300" height="242" /></a></span><br /><a href="http://www.deviantart.com/deviation/41902784/">Duct Work by *sicklittlemonkey on deviantART</a><br /><br />Picture of some heating duct work, converted to black and white.<br /><p class="poweredbyperformancing"><a href="http://performancing.com/firefox"><br /></a></p>

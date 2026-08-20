@@ -6,4 +6,6 @@ tags: ["blog-import", "games", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 1 of this post's 2 links is now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><br></br><br></br><a href='http://www.awfulgames.com/games/elite_base_jumping/'>Elite Base Jumping Game: Slowest Man Explodes : Awful Games Free Online Games and Fun Stuff</a><br></br><br></br><p class='poweredbyperformancing'>powered by <a href='http://performancing.com/firefox'>performancing firefox</a></p></div>

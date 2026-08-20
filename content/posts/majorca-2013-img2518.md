@@ -6,4 +6,6 @@ tags: ["2013", "blog-import", "flickr", "ifttt", "majorca", "mallorca", "photogr
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm8.staticflickr.com/7426/10021088664_7bb51d0cbc_b.jpg'/><br/><br /><div>Majorca 2013 Holiday via Dropbox http://flic.kr/p/ggwGwL, September 25, 2013 at 01:10PM</div><br /></div>

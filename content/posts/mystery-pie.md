@@ -6,4 +6,6 @@ tags: ["blog-import", "flickr", "flickrandroidapp-filter-none", "food", "ifttt",
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm9.staticflickr.com/8331/8372229141_d905134be1_o.jpg'/><br/><br /><div>Taste of my youth, mystery meat Scottish pie. http://flic.kr/p/dKPS3i, January 12, 2013 at 01:12PM</div><br /></div>

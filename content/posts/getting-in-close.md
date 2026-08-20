@@ -6,6 +6,8 @@ tags: ["blog-import", "flowers", "food", "macro", "nikon-d50", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 6 of this post's 12 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 Some result of playing with my +4 macro filter.<br />
 <br />
 Jelly Babies<br />

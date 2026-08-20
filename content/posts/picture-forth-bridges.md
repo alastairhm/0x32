@@ -6,4 +6,6 @@ tags: ["beach", "blog-import", "man-made", "photography", "picture", "scotland",
 categories: ['Creative']
 ---
 
+> **Note:** 2 of this post's 3 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 Forth Bridges, South Queensferry, Scotland<br /><embed src="http://s3.clevr.com/CleVR?xmldomain=http://www.clevr.com/&amp;mov=858" quality="high" name="CleVR" allowscriptaccess="never" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" width="450" height="350"></embed><br /><br /><p>Alastair Montgomery<br /><a href="http://doodlem.blogspot.com/">Main Page</a>,<br /><a href="http://del.icio.us/alastair_hm">My Bookmarks</a></p>

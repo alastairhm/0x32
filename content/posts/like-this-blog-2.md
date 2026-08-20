@@ -6,6 +6,8 @@ tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 3 of this post's 7 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: center;">
 <span class="Apple-style-span" style="font-size: small;">If you enjoyed looking at this block would you consider leaving a BitCoin Tip?</span></div>

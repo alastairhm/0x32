@@ -6,4 +6,6 @@ tags: ["blog-import", "bondend365", "flickr", "ifttt", "knarebourgh", "photograp
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm6.staticflickr.com/5492/10607053296_fefc4c333f_b.jpg'/><br/><br /><div>Snapped while waiting at the lights at Bond End in Knaresbourgh. http://flic.kr/p/haiVpf, November 01, 2013 at 07:25AM</div><br /></div>

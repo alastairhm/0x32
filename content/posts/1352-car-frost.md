@@ -6,4 +6,6 @@ tags: ["blog-import", "car", "lg-renoir", "photography", "the-52-project", "weat
 categories: ['Creative']
 ---
 
+> **Note:** 1 of this post's 3 links is now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <a href="http://www.flickr.com/photos/doodle_m/4088709601/" title="photo sharing"><img src="http://farm3.static.flickr.com/2722/4088709601_27c8b5b343_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br /><span style=" margin-top: 0px;font-size:0.9em;"><a href="http://www.flickr.com/photos/doodle_m/4088709601/">13/52 Car Frost</a><br />Originally uploaded by <a href="http://www.flickr.com/people/doodle_m/">Alastair Montgomery</a></span> <p>The roof of my car this morning taken with my LG RENOIR.<br />Week 13 of my 52 week project.</p>

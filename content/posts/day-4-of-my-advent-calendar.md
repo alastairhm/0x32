@@ -6,6 +6,8 @@ tags: ["4", "advent", "blog-import", "calendar", "day", "flickr", "ifttt", "inst
 categories: ['Creative']
 ---
 
+> **Note:** 1 of this post's 2 links is now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <img src='https://farm1.staticflickr.com/572/22882773903_7b20530b6a_b.jpg' style='max-width:586px;' /><br />
 <div>via Instagram <a href="http://ift.tt/21AvlZV" rel="nofollow">ift.tt/21AvlZV</a> December 04, 2015 at 06:38AM http://flic.kr/p/AS5csx, December 04, 2015 at 06:38AM</div>
 

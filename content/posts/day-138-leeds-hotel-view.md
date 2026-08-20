@@ -6,4 +6,6 @@ tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "hotel", 
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm8.staticflickr.com/7335/9494456407_74ed605b82_b.jpg'/><br/><br /><div>Another view from the Puppet labs course http://flic.kr/p/fsZz7g, August 12, 2013 at 08:26PM</div><br /></div>

@@ -6,6 +6,8 @@ tags: ["blog-import", "other-peoples-work", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 5 of this post's 8 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <iframe src="http://www.flickriver.com/photos/doodle_m/favorites/?embedded=1" width="480" height="280" style="border: 1px solid #666;"></iframe><br />
 <br />
 <a href="http://www.flickriver.com/photos/doodle_m/favorites/">My Flickr Favorites</a><br />

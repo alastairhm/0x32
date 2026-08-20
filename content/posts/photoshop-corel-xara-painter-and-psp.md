@@ -6,4 +6,6 @@ tags: ["blog-import", "photography", "tutorial"]
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 A collection of Photoshop, Corel, Xara, Painter and PSP Tutorials.<br /><br /><a href="http://tinyurl.com/yzgnyl">http://tinyurl.com/yzgnyl</a>

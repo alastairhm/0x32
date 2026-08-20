@@ -6,4 +6,6 @@ tags: ["365", "blog-import", "canal", "flickr", "flickrandroidapp-filter-none", 
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm4.staticflickr.com/3733/10968724225_055db8a034_b.jpg'/><br/><br /><div>View from the Hilton double trees http://flic.kr/p/hHgzyV, November 20, 2013 at 09:14AM</div><br /></div>

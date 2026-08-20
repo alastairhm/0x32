@@ -6,4 +6,6 @@ tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "home", "
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm9.staticflickr.com/8248/8661667193_df858848b0_b.jpg'/><br/><br /><div>My office for the day. http://flic.kr/p/ecpiTx, April 19, 2013 at 09:19AM</div><br /></div>

@@ -6,4 +6,6 @@ tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", 
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm8.staticflickr.com/7309/9458422983_1a4b6e8b26_b.jpg'/><br/><br /><div>View from Puppet labs training room in a leeds hotel. http://flic.kr/p/fpNTCk, August 07, 2013 at 09:06PM</div><br /></div>

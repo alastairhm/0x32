@@ -6,4 +6,6 @@ tags: ["365", "blog-import", "coffee", "flickr", "flickrandroidapp-filter-none",
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm9.staticflickr.com/8257/8626736247_96f70b8a19_b.jpg'/><br/><br /><div>It's good to have a vice http://flic.kr/p/e9jh8R, April 07, 2013 at 10:44AM</div><br /></div>

@@ -6,6 +6,8 @@ tags: ["animal", "blog-import", "nikon-d50", "photography", "uk"]
 categories: ['Creative']
 ---
 
+> **Note:** 8 of this post's 13 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
  <div style="text-align:center;line-height:150%"><a href="http://www.zazzle.co.uk/spider_monkey_card-137079523590336224?rf=238269554763928881"><img src="http://rlv.zcache.com/spider_monkey_card-p1370795235903362247gq6_500.jpg" alt="Spider Monkey card" style="border:0;" /></a><br />
 <a href="http://www.zazzle.co.uk/spider_monkey_card-137079523590336224?rf=238269554763928881">Spider Monkey</a> by <a href="http://www.zazzle.co.uk/doodle_m*">doodle_m</a><br />
 <a href="http://www.zazzle.co.uk/custom/greetingcards?rf=238269554763928881">make your own greeting card</a> on zazzle</div><br />

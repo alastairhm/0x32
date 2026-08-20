@@ -6,4 +6,6 @@ tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "gerbil",
 categories: ['Creative']
 ---
 
+> **Note:** the only link in this post is now broken. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='http://farm8.staticflickr.com/7390/9233493470_917c4761a2_b.jpg'/><br/><br /><div>Window shopping in Pets @ Home. http://flic.kr/p/f4W4Vh, July 07, 2013 at 04:33PM</div><br /></div>

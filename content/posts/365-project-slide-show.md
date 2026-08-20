@@ -6,6 +6,8 @@ tags: ["365", "blog-import", "photography", "slideshow"]
 categories: ['Creative']
 ---
 
+> **Note:** 6 of this post's 10 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <a href="https://www.flickr.com/photos/doodle_m/sets/72157633116385031/" target="_blank">365, One a day</a>, a set on Flickr.</p>
 <p>Finished my 365 project yesterday, who needs to start on 1st Jan eh?<br /><br /> Here is a set with all the pictures from March 2013 to March 2014.
 

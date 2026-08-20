@@ -6,6 +6,8 @@ tags: ["blog-import", "photography", "twitter", "update"]
 categories: ['Creative']
 ---
 
+> **Note:** all 2 links in this post are now broken. Left as originally published.
+
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr" xml:lang="en"><a href="https://twitter.com/deradam">@deradam</a> still waiting for mine to be delivered :(</p>
 — Alastair Montgomery (@alastair_hm) <a href="https://twitter.com/alastair_hm/status/718842913770381312">April 9, 2016</a></blockquote>

@@ -6,6 +6,8 @@ tags: ["blog-import", "dog-walk", "htc-desire", "landscape", "photography", "rip
 categories: ['Creative']
 ---
 
+> **Note:** 12 of this post's 22 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 A few photographs from a recent dog walk round Studley Royal near Ripon.<br />
 <br />
 <a href="http://www.flickr.com/photos/doodle_m/5925957963/" title="Studley Royal by Alastair Montgomery, on Flickr"><img src="http://farm7.static.flickr.com/6146/5925957963_3c76a6ca45_z.jpg" width="640" height="427" alt="Studley Royal"></a><br />

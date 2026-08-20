@@ -6,6 +6,8 @@ tags: ["blog-import", "photography", "twitter", "update"]
 categories: ['Creative']
 ---
 
+> **Note:** 1 of this post's 2 links is now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr" xml:lang="en">Docker: building and publishing custom docker images: HowToForge: Learn how to build customer docker images. <a href="http://bit.ly/1oLRaWC">http://bit.ly/1oLRaWC</a></p>
 — Linux Today (@linuxtoday) <a href="https://twitter.com/linuxtoday/status/718619860192743424">April 9, 2016</a></blockquote>

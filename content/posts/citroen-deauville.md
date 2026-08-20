@@ -6,6 +6,8 @@ tags: ["blog-import", "car", "nikon-d50", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 8 of this post's 12 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on"><div style="background-color: #c3d9ff; font-size: 1px !important; line-height: 0px !important; margin: 0px 2px; padding-top: 1px;"></div><div style="background-color: #c3d9ff; font-size: 1px !important; line-height: 0px !important; margin: 0px 1px; padding-top: 1px;"></div><div style="background-color: #c3d9ff; padding: 4px;"><h3 style="font-family: sans-serif; margin: 0px 3px;"><br />
 </h3></div><div style="background-color: #c3d9ff; font-size: 1px !important; line-height: 0px !important; margin: 0px 1px; padding-top: 1px;"></div><div style="background-color: #c3d9ff; font-size: 1px !important; line-height: 0px !important; margin: 0px 2px; padding-top: 1px;"></div><div style="font-family: sans-serif; margin: 0px 10px; overflow: auto; width: 100%;"><h2 style="margin: 0.25em 0 0 0;"><div class=""><a href="http://ahmphotos.com/2011/09/05/citroen-deauville/">Citroen Deauville</a></div></h2><div style="margin-bottom: 0.5em;">via <a class="f" href="http://ahmphotos.com/">Alastair Montgomery Photography</a> by ahmphotos on 9/5/11</div><br />
 <div style="text-align: center;"><strong>Citroen Deauville Triptych</strong></div><a href="http://www.flickr.com/photos/doodle_m/6115492591/" title="Citroen Deauville by Alastair Montgomery, on Flickr"><img alt="Citroen Deauville" height="173" src="http://farm7.static.flickr.com/6070/6115492591_55c930ed8b_z.jpg" width="640" /></a><br />

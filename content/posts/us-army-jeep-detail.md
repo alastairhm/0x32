@@ -6,6 +6,8 @@ tags: ["black-and-white", "blog-import", "photography", "photomanipulation", "re
 categories: ['Creative']
 ---
 
+> **Note:** 5 of this post's 6 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <a href="http://www.flickr.com/photos/doodle_m/5931122260/" title="US Army Jeep Detail by Alastair Montgomery, on Flickr"><img src="http://farm7.static.flickr.com/6009/5931122260_0c00307342_z.jpg" width="640" height="352" alt="US Army Jeep Detail"></a><br />
 <p><i>Via Flickr:</i><br />
 US Army Jeep detail, taken at the Wath Street Fair 2011</p><br />

@@ -6,4 +6,6 @@ tags: ["blog-import", "flickr", "ifttt", "instagram", "monkey", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** 1 of this post's 2 links is now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
 <div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='https://farm9.staticflickr.com/8679/15181560814_fd20f32d87.jpg'/><br/><br /><div>via Instagram <a rel='nofollow' href='http://ift.tt/1xEio1J'>ift.tt/1xEio1J</a> November 16, 2014 at 11:28AM http://flic.kr/p/p8xt7w, November 16, 2014 at 11:52AM</div><br /></div>

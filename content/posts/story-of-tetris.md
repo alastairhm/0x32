@@ -6,4 +6,6 @@ tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---
 
+> **Note:** all 2 links in this post are now broken. Left as originally published.
+
 <a href="http://tinyurl.com/y3uodp"><img src="http://img213.imageshack.us/img213/949/screenshot001cp6.jpg" border="0" alt="Image Hosted by ImageShack.us" /></a><br /><br />Rare BBC documentary on the story of Tetris.<br /><a href="http://tinyurl.com/y3uodp">http://tinyurl.com/y3uodp</a>

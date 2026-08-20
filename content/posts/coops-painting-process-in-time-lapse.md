@@ -1,7 +1,7 @@
 ---
 title: "Coop's painting process in time-lapse"
 date: 2006-10-24T15:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Some close grip #benchpress"
 date: 2018-03-30T08:03:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "close", "flickr", "grip", "ifttt", "instagram", "photography", "some"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Solid #benchpress session rep #PB on the rep out #powerlifting #absolutefitness"
 date: 2018-02-07T19:36:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "benchpress", "blog-import", "flickr", "ifttt", "instagram", "out", "pb", "photography", "powerlifting", "rep", "session", "solid"]
 categories: ['Creative']
 ---

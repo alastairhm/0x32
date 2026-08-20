@@ -1,7 +1,7 @@
 ---
 title: "Day 169 Light holiday reading"
 date: 2013-09-12T14:26:00+00:00
-draft: true
+draft: false
 tags: ["365", "arduino", "blog-import", "book", "electronics", "flickr", "ifttt", "jeremyblum", "photography"]
 categories: ['Creative']
 ---

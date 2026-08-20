@@ -1,7 +1,7 @@
 ---
 title: "Remembrance day Ripon"
 date: 2012-11-11T11:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

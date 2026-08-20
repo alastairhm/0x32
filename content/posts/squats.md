@@ -1,7 +1,7 @@
 ---
 title: "Squats"
 date: 2014-06-30T17:44:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "squats"]
 categories: ['Creative']
 ---

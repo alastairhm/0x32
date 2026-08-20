@@ -1,7 +1,7 @@
 ---
 title: "Good session #squats #powerlifting #absolutefitness #roadto600"
 date: 2017-10-02T19:17:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "session", "squats"]
 categories: ['Creative']
 ---

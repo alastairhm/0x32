@@ -1,7 +1,7 @@
 ---
 title: "Last night's deadlift session #powerlifting"
 date: 2015-09-05T17:47:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "last", "nights", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

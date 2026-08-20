@@ -1,7 +1,7 @@
 ---
 title: "Shaken not stirred"
 date: 2010-10-30T03:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "htc-desire", "photography"]
 categories: ['Creative']
 ---

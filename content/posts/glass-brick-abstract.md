@@ -1,7 +1,7 @@
 ---
 title: "Glass Brick Abstract"
 date: 2011-03-09T00:01:00+00:00
-draft: true
+draft: false
 tags: ["abstract", "blog-import", "canon-a530", "photography", "picture", "york"]
 categories: ['Creative']
 ---

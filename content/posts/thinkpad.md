@@ -1,7 +1,7 @@
 ---
 title: "ThinkPad"
 date: 2015-03-25T07:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "thinkpad"]
 categories: ['Creative']
 ---

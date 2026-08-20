@@ -1,7 +1,7 @@
 ---
 title: "Day 309 Bluetooth keyboard"
 date: 2014-01-30T20:43:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "bluetooth", "flickr", "ifttt", "ipad", "photography"]
 categories: ['Creative']
 ---

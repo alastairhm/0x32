@@ -1,7 +1,7 @@
 ---
 title: "Last heavy session before my #powerlifting competition. 5 reps at 200kg #deadlift."
 date: 2016-06-17T19:06:00+00:00
-draft: true
+draft: false
 tags: ["200kg", "5", "before", "blog-import", "competition", "deadlift", "flickr", "heavy", "ifttt", "instagram", "last", "photography", "powerlifting", "reps", "session"]
 categories: ['Creative']
 ---

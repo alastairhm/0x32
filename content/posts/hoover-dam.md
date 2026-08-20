@@ -1,7 +1,7 @@
 ---
 title: "Hoover dam"
 date: 2019-12-08T22:48:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dam", "flickr", "hoover", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

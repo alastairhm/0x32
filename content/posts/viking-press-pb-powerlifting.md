@@ -1,7 +1,7 @@
 ---
 title: "Viking press #PB #powerlifting"
 date: 2016-04-01T19:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "press", "viking"]
 categories: ['Creative']
 ---

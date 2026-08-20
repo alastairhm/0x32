@@ -1,7 +1,7 @@
 ---
 title: "Digging out some old pictures #Chicago"
 date: 2018-12-05T22:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "chicago", "digging", "flickr", "ifttt", "instagram", "old", "out", "photography", "pictures", "some"]
 categories: ['Creative']
 ---

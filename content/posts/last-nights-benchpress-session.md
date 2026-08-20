@@ -1,7 +1,7 @@
 ---
 title: "Last night's #benchpress session #powerlifter #powerlifting"
 date: 2017-04-20T22:20:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "last", "nights", "photography", "powerlifter", "powerlifting", "session"]
 categories: ['Creative']
 ---

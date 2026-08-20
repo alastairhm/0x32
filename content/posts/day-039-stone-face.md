@@ -1,7 +1,7 @@
 ---
 title: "Day 039, Stone face"
 date: 2013-05-06T16:40:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography"]
 categories: ['Creative']
 ---

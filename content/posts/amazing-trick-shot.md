@@ -1,7 +1,7 @@
 ---
 title: "Amazing Trick Shot"
 date: 2006-10-26T07:27:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

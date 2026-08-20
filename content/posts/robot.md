@@ -1,7 +1,7 @@
 ---
 title: "Robot"
 date: 2017-06-18T10:41:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "robot"]
 categories: ['Creative']
 ---

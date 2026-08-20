@@ -1,7 +1,7 @@
 ---
 title: "Juicessh on Nexus 5"
 date: 2014-02-13T21:47:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "icecast2", "ifttt", "juicessh", "mpd", "photography", "raspberrypi"]
 categories: ['Creative']
 ---

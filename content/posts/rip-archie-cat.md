@@ -1,7 +1,7 @@
 ---
 title: "R.I.P. Archie the cat"
 date: 2007-02-26T11:02:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "news", "photography"]
 categories: ['Creative']
 ---

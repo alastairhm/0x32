@@ -1,7 +1,7 @@
 ---
 title: "Wall moss"
 date: 2012-04-01T11:21:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

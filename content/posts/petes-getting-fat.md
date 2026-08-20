@@ -1,7 +1,7 @@
 ---
 title: "Pete's getting fat."
 date: 2006-07-25T09:55:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "humor", "photography", "picture"]
 categories: ['Creative']
 ---

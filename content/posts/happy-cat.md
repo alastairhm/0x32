@@ -1,7 +1,7 @@
 ---
 title: "Happy cat"
 date: 2012-10-23T20:38:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

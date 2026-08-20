@@ -1,7 +1,7 @@
 ---
 title: "Working from home"
 date: 2016-12-23T09:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "from", "home", "ifttt", "instagram", "photography", "working"]
 categories: ['Creative']
 ---

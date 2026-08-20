@@ -1,7 +1,7 @@
 ---
 title: "Day 075, Raspbery Pi reflections"
 date: 2013-06-11T17:07:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography", "raspberrypi"]
 categories: ['Creative']
 ---

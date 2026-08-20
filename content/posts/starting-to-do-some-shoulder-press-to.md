@@ -1,7 +1,7 @@
 ---
 title: "Starting to do some shoulder press to help with my bench press #powerlifting"
 date: 2016-09-24T14:34:00+00:00
-draft: true
+draft: false
 tags: ["bench", "blog-import", "do", "flickr", "help", "ifttt", "instagram", "photography", "powerlifting", "press", "shoulder", "some", "starting", "with"]
 categories: ['Creative']
 ---

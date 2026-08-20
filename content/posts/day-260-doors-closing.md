@@ -1,7 +1,7 @@
 ---
 title: "Day 260 doors closing"
 date: 2013-12-12T19:32:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Two deadlift rep #PBs tonight #powerlifting"
 date: 2016-01-29T20:03:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "pbs", "photography", "powerlifting", "rep", "tonight", "two"]
 categories: ['Creative']
 ---

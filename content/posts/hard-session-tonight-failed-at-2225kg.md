@@ -1,7 +1,7 @@
 ---
 title: "Hard session tonight, failed at 222.5kg rep #deadlift #powerlifting"
 date: 2016-09-16T19:30:00+00:00
-draft: true
+draft: false
 tags: ["2225kg", "blog-import", "deadlift", "failed", "flickr", "hard", "ifttt", "instagram", "photography", "powerlifting", "rep", "session", "tonight"]
 categories: ['Creative']
 ---

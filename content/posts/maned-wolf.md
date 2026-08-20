@@ -1,7 +1,7 @@
 ---
 title: "Maned Wolf"
 date: 2016-05-25T10:29:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "lakes", "maned", "park", "photography", "safari", "south", "wolf"]
 categories: ['Creative']
 ---

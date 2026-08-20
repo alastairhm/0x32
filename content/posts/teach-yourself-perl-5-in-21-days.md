@@ -1,7 +1,7 @@
 ---
 title: "Teach Yourself Perl 5 in 21 days"
 date: 2006-03-15T14:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "tutorial"]
 categories: ['Creative']
 ---

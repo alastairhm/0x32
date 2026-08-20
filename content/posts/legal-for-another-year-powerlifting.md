@@ -1,7 +1,7 @@
 ---
 title: "Legal for another year #powerlifting #ynepf"
 date: 2017-12-21T14:38:00+00:00
-draft: true
+draft: false
 tags: ["another", "blog-import", "flickr", "for", "ifttt", "instagram", "legal", "photography", "powerlifting", "year", "ynepf"]
 categories: ['Creative']
 ---

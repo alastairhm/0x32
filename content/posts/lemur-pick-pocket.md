@@ -1,7 +1,7 @@
 ---
 title: "Lemur pick pocket"
 date: 2011-08-25T12:31:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "nature", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

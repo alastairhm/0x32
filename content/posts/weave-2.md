@@ -1,7 +1,7 @@
 ---
 title: "Weave 2"
 date: 2020-09-04T13:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "generativeart", "ifttt", "photography", "processing"]
 categories: ['Creative']
 ---

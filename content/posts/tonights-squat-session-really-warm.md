@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #squat session really warm #powerlifting"
 date: 2016-07-18T18:17:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "really", "session", "squat", "tonights", "warm"]
 categories: ['Creative']
 ---

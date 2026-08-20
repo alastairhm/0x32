@@ -1,7 +1,7 @@
 ---
 title: "Dialing in on my opener #squat #powerlifting #absolutefitness #ynepf"
 date: 2018-02-26T22:07:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "dialing", "flickr", "ifttt", "instagram", "opener", "photography", "powerlifting", "squat", "ynepf"]
 categories: ['Creative']
 ---

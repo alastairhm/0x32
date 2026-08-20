@@ -1,7 +1,7 @@
 ---
 title: "Final #benchpress before the weekend competition #powerlifting"
 date: 2016-12-08T16:28:00+00:00
-draft: true
+draft: false
 tags: ["before", "benchpress", "blog-import", "competition", "final", "flickr", "ifttt", "instagram", "photography", "powerlifting", "weekend"]
 categories: ['Creative']
 ---

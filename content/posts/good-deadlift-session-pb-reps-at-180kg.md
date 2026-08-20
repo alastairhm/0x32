@@ -1,7 +1,7 @@
 ---
 title: "Good deadlift session, PB reps at 180kg. Not bad first week back. #deadlift #powerlifting"
 date: 2016-01-22T19:45:00+00:00
-draft: true
+draft: false
 tags: ["180kg", "back", "bad", "blog-import", "deadlift", "first", "flickr", "good", "ifttt", "instagram", "not", "pb", "photography", "powerlifting", "reps", "session", "week"]
 categories: ['Creative']
 ---

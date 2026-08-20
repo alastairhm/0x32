@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #deadlift session, another valiant attempt at 240kg but it was not to be, next time. #powerlifting #absolutefitness #roadto600"
 date: 2017-12-15T20:36:00+00:00
-draft: true
+draft: false
 tags: ["240kg", "absolutefitness", "another", "attempt", "be", "blog-import", "but", "deadlift", "flickr", "ifttt", "instagram", "it", "next", "photography", "powerlifting", "roadto600", "session", "time", "tonights", "valiant", "was"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "USB cable"
 date: 2013-12-09T23:09:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cable", "flickr", "ifttt", "instagram", "photography", "usb"]
 categories: ['Creative']
 ---

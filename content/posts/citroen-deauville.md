@@ -1,7 +1,7 @@
 ---
 title: "Citroen Deauville"
 date: 2011-09-09T07:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

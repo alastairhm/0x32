@@ -1,7 +1,7 @@
 ---
 title: "Seem to be attracting traffic jams these days, two different jams on the way home #trafficjam #trafficwhisper"
 date: 2017-10-27T18:04:00+00:00
-draft: true
+draft: false
 tags: ["attracting", "be", "blog-import", "days", "different", "flickr", "home", "ifttt", "instagram", "jams", "photography", "seem", "these", "traffic", "trafficjam", "trafficwhisper", "two", "way"]
 categories: ['Creative']
 ---

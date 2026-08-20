@@ -1,7 +1,7 @@
 ---
 title: "Day 059, Boot sale tractor"
 date: 2013-05-26T18:52:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "dropbox", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

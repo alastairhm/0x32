@@ -1,7 +1,7 @@
 ---
 title: "Day 195 Fairfax house"
 date: 2013-10-08T20:11:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "dropbox", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

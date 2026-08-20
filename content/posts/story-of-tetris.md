@@ -1,7 +1,7 @@
 ---
 title: "The Story of Tetris"
 date: 2006-10-27T07:28:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

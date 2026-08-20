@@ -1,7 +1,7 @@
 ---
 title: "Heat draining my strength tonight #squats #powerlifting"
 date: 2016-06-20T18:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "draining", "flickr", "heat", "ifttt", "instagram", "photography", "powerlifting", "squats", "strength", "tonight"]
 categories: ['Creative']
 ---

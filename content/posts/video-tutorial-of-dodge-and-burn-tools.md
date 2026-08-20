@@ -1,7 +1,7 @@
 ---
 title: "Video Tutorial of the dodge and burn tools"
 date: 2010-05-25T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "tutorial", "video"]
 categories: ['Creative']
 ---

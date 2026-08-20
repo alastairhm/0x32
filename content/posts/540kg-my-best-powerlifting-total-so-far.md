@@ -1,7 +1,7 @@
 ---
 title: "540kg my best #powerlifting total so far"
 date: 2016-07-03T19:11:00+00:00
-draft: true
+draft: false
 tags: ["540kg", "best", "blog-import", "far", "flickr", "ifttt", "instagram", "photography", "powerlifting", "total"]
 categories: ['Creative']
 ---

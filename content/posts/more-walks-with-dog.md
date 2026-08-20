@@ -1,7 +1,7 @@
 ---
 title: "More walks with the dog"
 date: 2007-05-01T07:19:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

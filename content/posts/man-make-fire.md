@@ -1,7 +1,7 @@
 ---
 title: "Man make fire"
 date: 2018-12-26T20:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "fire", "flickr", "ifttt", "instagram", "make", "man", "photography"]
 categories: ['Creative']
 ---

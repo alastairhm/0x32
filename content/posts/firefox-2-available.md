@@ -1,7 +1,7 @@
 ---
 title: "Firefox 2 Available"
 date: 2006-10-24T15:07:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

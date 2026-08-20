@@ -1,7 +1,7 @@
 ---
 title: "Wilson when we first got him"
 date: 2008-03-20T12:21:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "photography", "picture"]
 categories: ['Creative']
 ---

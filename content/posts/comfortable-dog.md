@@ -1,7 +1,7 @@
 ---
 title: "Comfortable dog"
 date: 2015-11-26T18:41:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "comfortable", "dog", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

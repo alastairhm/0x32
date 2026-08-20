@@ -1,7 +1,7 @@
 ---
 title: "Hoover dam selfie #lasvegas #hooverdambridge"
 date: 2019-12-08T20:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dam", "flickr", "hoover", "hooverdambridge", "ifttt", "instagram", "lasvegas", "photography", "selfie"]
 categories: ['Creative']
 ---

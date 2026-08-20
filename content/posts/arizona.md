@@ -1,7 +1,7 @@
 ---
 title: "Arizona"
 date: 2019-12-14T15:06:00+00:00
-draft: true
+draft: false
 tags: ["arizona", "blog-import", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

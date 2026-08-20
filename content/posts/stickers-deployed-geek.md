@@ -1,7 +1,7 @@
 ---
 title: "Stickers deployed #Geek"
 date: 2017-05-12T18:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deployed", "flickr", "geek", "ifttt", "instagram", "photography", "stickers"]
 categories: ['Creative']
 ---

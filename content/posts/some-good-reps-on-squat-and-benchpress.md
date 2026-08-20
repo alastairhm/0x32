@@ -1,7 +1,7 @@
 ---
 title: "Some good reps on #squat and #benchpress tonight #powerlifting #absolutefitness #roadto600"
 date: 2017-10-30T20:43:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "benchpress", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "reps", "roadto600", "some", "squat", "tonight"]
 categories: ['Creative']
 ---

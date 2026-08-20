@@ -1,7 +1,7 @@
 ---
 title: "Stars tumblr"
 date: 2014-03-01T14:07:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography", "stars", "tumblr"]
 categories: ['Creative']
 ---

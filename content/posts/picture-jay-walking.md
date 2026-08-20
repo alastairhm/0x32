@@ -1,7 +1,7 @@
 ---
 title: "Picture : Jay walking"
 date: 2007-03-13T11:10:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Behind Bars"
 date: 2009-08-05T13:28:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "nature", "photography", "picture", "uk"]
 categories: ['Creative']
 ---

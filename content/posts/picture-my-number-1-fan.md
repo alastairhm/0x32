@@ -1,7 +1,7 @@
 ---
 title: "Picture : My number 1 fan"
 date: 2006-10-24T14:47:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

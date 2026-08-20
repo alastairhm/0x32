@@ -1,7 +1,7 @@
 ---
 title: "Message"
 date: 2014-06-10T14:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "message", "photography", "pixel", "screen", "skype", "tumblr"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Yesterday's #deadlift session #powerlifting"
 date: 2017-06-17T08:41:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "yesterdays"]
 categories: ['Creative']
 ---

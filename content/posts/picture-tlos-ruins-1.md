@@ -1,7 +1,7 @@
 ---
 title: "Picture : TLos Ruins 1"
 date: 2008-11-11T10:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "man-made", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

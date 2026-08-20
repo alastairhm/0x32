@@ -1,7 +1,7 @@
 ---
 title: "Rotten Log"
 date: 2009-07-21T13:59:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog-walk", "nature", "photography", "picture"]
 categories: ['Creative']
 ---

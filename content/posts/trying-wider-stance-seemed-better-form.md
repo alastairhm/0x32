@@ -1,7 +1,7 @@
 ---
 title: "Trying a wider stance, seemed better form and line #deadlift #powerlifting"
 date: 2016-08-15T08:58:00+00:00
-draft: true
+draft: false
 tags: ["better", "blog-import", "deadlift", "flickr", "form", "ifttt", "instagram", "line", "photography", "powerlifting", "seemed", "stance", "trying", "wider"]
 categories: ['Creative']
 ---

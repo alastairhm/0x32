@@ -1,7 +1,7 @@
 ---
 title: "Camera Has Whole Bunch Of Megapixels"
 date: 2008-01-29T09:01:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "links", "news", "photography"]
 categories: ['Creative']
 ---

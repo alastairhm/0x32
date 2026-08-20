@@ -1,7 +1,7 @@
 ---
 title: "Picture : It's a dog's life"
 date: 2007-05-21T12:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

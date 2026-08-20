@@ -1,7 +1,7 @@
 ---
 title: "Picture : Whitby Cliff View"
 date: 2007-08-01T12:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "photography", "picture"]
 categories: ['Creative']
 ---

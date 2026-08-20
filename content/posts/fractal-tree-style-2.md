@@ -1,7 +1,7 @@
 ---
 title: "Fractal Tree Style"
 date: 2014-03-04T14:25:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "context", "flickr", "fractal", "free", "ifttt", "photography", "tree", "tumblr"]
 categories: ['Creative']
 ---

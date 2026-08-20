@@ -1,7 +1,7 @@
 ---
 title: "Rep #PB tonight at #squats #powerlifting"
 date: 2016-02-29T19:27:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "pb", "photography", "powerlifting", "rep", "squats", "tonight"]
 categories: ['Creative']
 ---

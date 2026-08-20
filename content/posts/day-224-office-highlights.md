@@ -1,7 +1,7 @@
 ---
 title: "Day 224 Office Highlights"
 date: 2013-11-06T12:55:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "highlighter", "ifttt", "nexus5", "office", "pens", "photography", "vision-outdoor-0678", "vision-text-0594"]
 categories: ['Creative']
 ---

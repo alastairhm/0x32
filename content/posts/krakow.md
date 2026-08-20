@@ -1,7 +1,7 @@
 ---
 title: "Krakow"
 date: 2019-10-16T11:39:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "krakow", "photography"]
 categories: ['Creative']
 ---

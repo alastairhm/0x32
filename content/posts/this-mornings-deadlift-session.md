@@ -1,7 +1,7 @@
 ---
 title: "This morning's #deadlift session #powerlifting"
 date: 2016-11-11T18:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "mornings", "photography", "powerlifting", "session", "this"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "#powerlifting #benchpress #vikingpress good session back"
 date: 2017-02-08T20:34:00+00:00
-draft: true
+draft: false
 tags: ["back", "benchpress", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "session", "vikingpress"]
 categories: ['Creative']
 ---

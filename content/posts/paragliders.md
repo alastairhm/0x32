@@ -1,7 +1,7 @@
 ---
 title: "Paragliders"
 date: 2009-03-09T12:26:00+00:00
-draft: true
+draft: false
 tags: ["beach", "blog-import", "photography", "picture", "sport", "turkey"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Vector : Doodle 1 4th August"
 date: 2008-08-14T08:51:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "photography", "picture", "vector"]
 categories: ['Creative']
 ---

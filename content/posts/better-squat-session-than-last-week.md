@@ -1,7 +1,7 @@
 ---
 title: "Better #squat session than last week #powerlifting"
 date: 2017-03-20T19:45:00+00:00
-draft: true
+draft: false
 tags: ["better", "blog-import", "flickr", "ifttt", "instagram", "last", "photography", "powerlifting", "session", "squat", "than", "week"]
 categories: ['Creative']
 ---

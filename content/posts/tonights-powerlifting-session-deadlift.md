@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #powerlifting session #deadlift #benchpress"
 date: 2016-11-04T20:13:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "deadlift", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "tonights"]
 categories: ['Creative']
 ---

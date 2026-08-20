@@ -1,7 +1,7 @@
 ---
 title: "Digging up some old photos. #Chicago 2007"
 date: 2018-12-02T00:20:00+00:00
-draft: true
+draft: false
 tags: ["2007", "blog-import", "chicago", "digging", "flickr", "ifttt", "instagram", "old", "photography", "photos", "some", "up"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Picture : Company Pet"
 date: 2008-06-05T08:49:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "k800i", "photography", "picture", "uk"]
 categories: ['Creative']
 ---

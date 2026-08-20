@@ -1,7 +1,7 @@
 ---
 title: "K8s in practice #devops"
 date: 2018-05-15T12:14:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "devops", "flickr", "ifttt", "instagram", "k8s", "photography", "practice"]
 categories: ['Creative']
 ---

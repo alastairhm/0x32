@@ -1,7 +1,7 @@
 ---
 title: "Day 024, tennis ball dog"
 date: 2013-04-21T15:07:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "dog", "flickr", "flickrandroidapp-filter-nyc", "ifttt", "photography", "wilson"]
 categories: ['Creative']
 ---

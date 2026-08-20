@@ -1,7 +1,7 @@
 ---
 title: "Our new puppy Betty. #bettydog #dog #puppy"
 date: 2019-04-11T12:35:00+00:00
-draft: true
+draft: false
 tags: ["betty", "bettydog", "blog-import", "dog", "flickr", "ifttt", "instagram", "new", "our", "photography", "puppy"]
 categories: ['Creative']
 ---

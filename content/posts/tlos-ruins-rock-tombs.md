@@ -1,7 +1,7 @@
 ---
 title: "TLos Ruins rock tombs"
 date: 2009-01-22T10:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "man-made", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

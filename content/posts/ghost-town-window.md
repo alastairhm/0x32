@@ -1,7 +1,7 @@
 ---
 title: "Ghost Town Window"
 date: 2009-08-04T20:17:00+00:00
-draft: true
+draft: false
 tags: ["abandoned", "blog-import", "man-made", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

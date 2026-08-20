@@ -1,7 +1,7 @@
 ---
 title: "First Snow of 2008"
 date: 2008-01-03T09:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "k800i", "photography", "picture"]
 categories: ['Creative']
 ---

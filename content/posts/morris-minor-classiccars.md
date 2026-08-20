@@ -1,7 +1,7 @@
 ---
 title: "Morris Minor #classiccars"
 date: 2017-06-06T21:50:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "classiccars", "flickr", "ifttt", "instagram", "minor", "morris", "photography"]
 categories: ['Creative']
 ---

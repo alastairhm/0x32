@@ -1,7 +1,7 @@
 ---
 title: "Happy with tonight's squat session #powerlifting"
 date: 2015-12-21T19:04:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "happy", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "tonights", "with"]
 categories: ['Creative']
 ---

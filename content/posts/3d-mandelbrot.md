@@ -1,7 +1,7 @@
 ---
 title: "3d Mandelbrot"
 date: 2013-10-29T22:14:00+00:00
-draft: true
+draft: false
 tags: ["3d", "blog-import", "flickr", "fractal", "ifttt", "mandelbrot", "photography", "vision-outdoor-0787", "vision-text-0516"]
 categories: ['Creative']
 ---

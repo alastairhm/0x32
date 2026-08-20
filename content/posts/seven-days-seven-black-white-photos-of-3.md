@@ -1,7 +1,7 @@
 ---
 title: "Seven days, seven black & white photos of your life. No people, no explanation. #blackandwhitephoto"
 date: 2017-12-03T21:32:00+00:00
-draft: true
+draft: false
 tags: ["black", "blackandwhitephoto", "blog-import", "days", "explanation", "flickr", "ifttt", "instagram", "life", "no", "people", "photography", "photos", "seven", "white", "your"]
 categories: ['Creative']
 ---

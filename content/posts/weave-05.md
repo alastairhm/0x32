@@ -1,7 +1,7 @@
 ---
 title: "Weave 05"
 date: 2020-09-04T15:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "generative", "generativeart", "ifttt", "photography", "processing"]
 categories: ['Creative']
 ---

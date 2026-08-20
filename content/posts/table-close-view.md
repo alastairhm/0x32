@@ -1,7 +1,7 @@
 ---
 title: "Table close view"
 date: 2020-07-12T11:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "close", "d50", "dof", "flickr", "ifttt", "macro", "nikon", "photography", "table", "view", "wood"]
 categories: ['Creative']
 ---

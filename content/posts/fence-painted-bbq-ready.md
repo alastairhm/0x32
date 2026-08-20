@@ -1,7 +1,7 @@
 ---
 title: "Fence painted, BBQ ready"
 date: 2014-06-01T13:54:00+00:00
-draft: true
+draft: false
 tags: ["bbq", "blog-import", "fence", "flickr", "ifttt", "instagram", "painted", "photography", "ready"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Stitching seamless panoramas"
 date: 2007-04-03T07:41:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "tutorial"]
 categories: ['Creative']
 ---

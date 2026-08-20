@@ -1,7 +1,7 @@
 ---
 title: "Stopped for #coffee"
 date: 2017-01-24T16:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "coffee", "flickr", "for", "ifttt", "instagram", "photography", "stopped"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Just a shell #leeds #demolition"
 date: 2016-08-24T11:17:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "demolition", "flickr", "ifttt", "instagram", "just", "leeds", "photography", "shell"]
 categories: ['Creative']
 ---

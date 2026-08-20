@@ -1,7 +1,7 @@
 ---
 title: "More blades to try #shaving"
 date: 2017-05-16T17:00:00+00:00
-draft: true
+draft: false
 tags: ["blades", "blog-import", "flickr", "ifttt", "instagram", "more", "photography", "shaving", "try"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Indian Elephants"
 date: 2010-12-06T13:36:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "india", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

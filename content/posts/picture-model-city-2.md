@@ -1,7 +1,7 @@
 ---
 title: "Picture : Model City 2"
 date: 2008-01-07T15:16:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

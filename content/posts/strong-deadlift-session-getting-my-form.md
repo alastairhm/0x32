@@ -1,7 +1,7 @@
 ---
 title: "Strong deadlift session, getting my form right #powerlifting"
 date: 2015-12-16T20:41:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "form", "getting", "ifttt", "instagram", "photography", "powerlifting", "right", "session", "strong"]
 categories: ['Creative']
 ---

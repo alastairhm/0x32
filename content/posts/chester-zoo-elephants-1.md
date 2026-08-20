@@ -1,7 +1,7 @@
 ---
 title: "Chester Zoo Elephants 1"
 date: 2013-07-01T14:22:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

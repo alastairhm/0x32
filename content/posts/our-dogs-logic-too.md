@@ -1,7 +1,7 @@
 ---
 title: "Our dog's logic too"
 date: 2016-11-26T09:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dogs", "flickr", "ifttt", "instagram", "logic", "our", "photography", "too"]
 categories: ['Creative']
 ---

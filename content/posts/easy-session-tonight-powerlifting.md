@@ -1,7 +1,7 @@
 ---
 title: "Easy session tonight #powerlifting #deadlift"
 date: 2016-03-11T18:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "easy", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "tonight"]
 categories: ['Creative']
 ---

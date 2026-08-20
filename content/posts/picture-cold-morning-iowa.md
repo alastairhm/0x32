@@ -1,7 +1,7 @@
 ---
 title: "Picture : Cold Morning Iowa"
 date: 2007-02-09T15:39:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

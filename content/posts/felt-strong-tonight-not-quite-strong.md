@@ -1,7 +1,7 @@
 ---
 title: "Felt strong tonight, not quite strong enough for 3 reps at 180kg. Thanks to my spotters lol. #powerlifting #squats"
 date: 2016-02-01T20:03:00+00:00
-draft: true
+draft: false
 tags: ["180kg", "3", "blog-import", "enough", "felt", "flickr", "for", "ifttt", "instagram", "lol", "photography", "powerlifting", "quite", "reps", "spotters", "squats", "strong", "thanks", "tonight"]
 categories: ['Creative']
 ---

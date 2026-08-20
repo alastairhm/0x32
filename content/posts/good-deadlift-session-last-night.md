@@ -1,7 +1,7 @@
 ---
 title: "Good #deadlift session last night #powerlifting #absolutefitness"
 date: 2017-07-22T10:54:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "deadlift", "flickr", "good", "ifttt", "instagram", "last", "night", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

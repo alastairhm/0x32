@@ -1,7 +1,7 @@
 ---
 title: "Make a wish"
 date: 2018-06-24T19:48:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "make", "photography", "wish"]
 categories: ['Creative']
 ---

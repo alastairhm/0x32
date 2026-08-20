@@ -1,7 +1,7 @@
 ---
 title: "Picture : Arthur&#39;s Seat, Edinburgh"
 date: 2008-04-11T11:28:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "1940 celebrations"
 date: 2012-06-11T22:05:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "instagram", "photography", "uk"]
 categories: ['Creative']
 ---

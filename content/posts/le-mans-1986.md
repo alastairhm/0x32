@@ -1,7 +1,7 @@
 ---
 title: "Le Mans 1968"
 date: 2010-02-12T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "other-peoples-work", "photography", "slides"]
 categories: ['Creative']
 ---

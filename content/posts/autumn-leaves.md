@@ -1,7 +1,7 @@
 ---
 title: "Autumn leaves"
 date: 2012-10-25T14:42:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

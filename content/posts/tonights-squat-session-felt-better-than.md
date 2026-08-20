@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #squat session, felt better than last couple of weeks #powerlifting"
 date: 2017-04-03T21:09:00+00:00
-draft: true
+draft: false
 tags: ["better", "blog-import", "couple", "felt", "flickr", "ifttt", "instagram", "last", "photography", "powerlifting", "session", "squat", "than", "tonights", "weeks"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hotel view"
 date: 2014-11-22T08:48:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Pleased with my #benchpress session tonight, thanks for the encouragement everyone #powerlifting #gym"
 date: 2017-04-05T18:43:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "encouragement", "everyone", "flickr", "for", "gym", "ifttt", "instagram", "photography", "pleased", "powerlifting", "session", "thanks", "tonight", "with"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "#benchpress smashed, last three lifts press pause #powerlifting"
 date: 2017-05-10T19:19:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "last", "lifts", "pause", "photography", "powerlifting", "press", "smashed", "three"]
 categories: ['Creative']
 ---

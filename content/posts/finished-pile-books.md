@@ -1,7 +1,7 @@
 ---
 title: "Finished pile #books"
 date: 2015-01-23T12:03:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "books", "finished", "flickr", "ifttt", "instagram", "photography", "pile"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #squat session, hard work getting the last set #powerlifting"
 date: 2017-05-30T19:57:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "getting", "hard", "ifttt", "instagram", "last", "photography", "powerlifting", "session", "set", "squat", "tonights", "work"]
 categories: ['Creative']
 ---

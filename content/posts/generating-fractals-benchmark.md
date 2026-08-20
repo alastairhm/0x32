@@ -1,7 +1,7 @@
 ---
 title: "Generating Fractals: A benchmark comparison of PDL and other Tools"
 date: 2007-07-31T10:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "fractal", "links", "photography"]
 categories: ['Creative']
 ---

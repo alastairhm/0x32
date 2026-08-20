@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #benchpress session #powerlifting"
 date: 2017-05-30T19:57:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "tonights"]
 categories: ['Creative']
 ---

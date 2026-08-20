@@ -1,7 +1,7 @@
 ---
 title: "Glass tile #glass"
 date: 2020-07-04T17:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "glass", "ifttt", "instagram", "photography", "tile"]
 categories: ['Creative']
 ---

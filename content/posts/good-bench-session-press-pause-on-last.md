@@ -1,7 +1,7 @@
 ---
 title: "Good bench session, press pause on the last set #powerlifting"
 date: 2016-01-27T19:02:00+00:00
-draft: true
+draft: false
 tags: ["bench", "blog-import", "flickr", "good", "ifttt", "instagram", "last", "pause", "photography", "powerlifting", "press", "session", "set"]
 categories: ['Creative']
 ---

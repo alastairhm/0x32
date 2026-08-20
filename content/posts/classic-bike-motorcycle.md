@@ -1,7 +1,7 @@
 ---
 title: "Classic bike #motorcycle"
 date: 2017-06-26T15:40:00+00:00
-draft: true
+draft: false
 tags: ["bike", "blog-import", "classic", "flickr", "ifttt", "instagram", "motorcycle", "photography"]
 categories: ['Creative']
 ---

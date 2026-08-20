@@ -1,7 +1,7 @@
 ---
 title: "Fancy Name"
 date: 2006-03-20T13:48:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

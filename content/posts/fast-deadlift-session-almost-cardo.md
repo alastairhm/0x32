@@ -1,7 +1,7 @@
 ---
 title: "Fast #deadlift session, almost cardo #powerlifting #absolutefitness"
 date: 2017-10-04T18:47:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "almost", "blog-import", "cardo", "deadlift", "fast", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session"]
 categories: ['Creative']
 ---

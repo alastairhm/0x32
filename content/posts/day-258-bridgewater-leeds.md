@@ -1,7 +1,7 @@
 ---
 title: "Day 258 Bridgewater Leeds"
 date: 2013-12-10T13:13:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "bridgewater", "flickr", "googlephotosphere", "ifttt", "leeds", "photo", "photography", "sphere"]
 categories: ['Creative']
 ---

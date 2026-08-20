@@ -1,7 +1,7 @@
 ---
 title: "Slowest Man Explodes! (addictive parachute game)"
 date: 2007-03-01T09:40:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "photography"]
 categories: ['Creative']
 ---

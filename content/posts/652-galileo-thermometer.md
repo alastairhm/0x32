@@ -1,7 +1,7 @@
 ---
 title: "6/52 Galileo thermometer"
 date: 2009-09-20T22:13:00+00:00
-draft: true
+draft: false
 tags: ["abstract", "blog-import", "nikon-d50", "photography", "picture", "the-52-project"]
 categories: ['Creative']
 ---

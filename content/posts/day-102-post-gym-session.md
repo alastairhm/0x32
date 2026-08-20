@@ -1,7 +1,7 @@
 ---
 title: "Day 102, post gym session"
 date: 2013-07-08T19:22:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "gym", "ifttt", "photography", "sunset"]
 categories: ['Creative']
 ---

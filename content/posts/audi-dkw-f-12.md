@@ -1,7 +1,7 @@
 ---
 title: "Audi DKW F 12"
 date: 2009-05-08T17:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "lg-renoir", "photography", "picture", "uk"]
 categories: ['Creative']
 ---

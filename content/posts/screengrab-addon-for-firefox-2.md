@@ -1,7 +1,7 @@
 ---
 title: "Screengrab Addon for Firefox 2"
 date: 2007-01-10T15:46:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

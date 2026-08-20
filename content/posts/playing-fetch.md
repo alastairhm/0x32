@@ -1,7 +1,7 @@
 ---
 title: "Playing fetch?"
 date: 2014-07-24T10:19:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog", "fetch", "flickr", "ifttt", "lazy", "nexus5", "photography", "tumblr"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 063, Church Reflection"
 date: 2013-05-30T13:22:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "church", "flickr", "ifttt", "leeds", "photography", "reflections"]
 categories: ['Creative']
 ---

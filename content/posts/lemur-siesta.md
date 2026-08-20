@@ -1,7 +1,7 @@
 ---
 title: "Lemur Siesta"
 date: 2015-03-12T14:09:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "monkey", "park", "photography", "ringtailedlemur", "siesta", "sleeping", "tenerife"]
 categories: ['Creative']
 ---

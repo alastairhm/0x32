@@ -1,7 +1,7 @@
 ---
 title: "#gym #powerlifting"
 date: 2016-04-02T14:42:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "gym", "ifttt", "instagram", "photography", "powerlifting"]
 categories: ['Creative']
 ---

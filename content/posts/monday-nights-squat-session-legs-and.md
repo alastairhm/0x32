@@ -1,7 +1,7 @@
 ---
 title: "Monday nights squat session, legs and back still f*cked #powerlifting"
 date: 2016-01-27T08:24:00+00:00
-draft: true
+draft: false
 tags: ["back", "blog-import", "fcked", "flickr", "ifttt", "instagram", "legs", "monday", "nights", "photography", "powerlifting", "session", "squat", "still"]
 categories: ['Creative']
 ---

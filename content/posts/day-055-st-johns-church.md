@@ -1,7 +1,7 @@
 ---
 title: "Day 055, St Johns Church"
 date: 2013-05-22T14:52:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "church", "dropbox", "flickr", "ifttt", "leeds", "photography"]
 categories: ['Creative']
 ---

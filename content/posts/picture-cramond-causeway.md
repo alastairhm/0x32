@@ -1,7 +1,7 @@
 ---
 title: "Picture : Cramond Causeway"
 date: 2007-08-21T13:34:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "landscape", "photography", "picture"]
 categories: ['Creative']
 ---

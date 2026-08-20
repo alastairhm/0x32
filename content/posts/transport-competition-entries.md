@@ -1,7 +1,7 @@
 ---
 title: "Transport Competition entries"
 date: 2008-11-19T14:00:00+00:00
-draft: true
+draft: false
 tags: ["beach", "black-and-white", "blog-import", "boat", "cityscape", "club-competitions", "landscape", "photography", "picture", "turkey", "usa", "waterscape"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 215 Coop"
 date: 2013-10-28T20:47:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "coop", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography", "shop", "sign", "vision-sunset-0634"]
 categories: ['Creative']
 ---

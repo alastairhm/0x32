@@ -1,7 +1,7 @@
 ---
 title: "Picture : All Fenced In"
 date: 2008-02-18T13:14:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

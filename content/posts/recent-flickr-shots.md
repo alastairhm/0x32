@@ -1,7 +1,7 @@
 ---
 title: "Recent Flickr Shots"
 date: 2010-10-15T12:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "htc-desire", "landscape", "nikon-d50", "photography", "picture"]
 categories: ['Creative']
 ---

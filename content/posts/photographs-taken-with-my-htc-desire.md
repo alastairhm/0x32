@@ -1,7 +1,7 @@
 ---
 title: "Photographs taken with my HTC Desire"
 date: 2010-05-11T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "dog", "htc-desire", "landscape", "photography"]
 categories: ['Creative']
 ---

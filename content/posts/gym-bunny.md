@@ -1,7 +1,7 @@
 ---
 title: "Gym Bunny?"
 date: 2008-08-06T08:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "brain-dump", "photography"]
 categories: ['Creative']
 ---

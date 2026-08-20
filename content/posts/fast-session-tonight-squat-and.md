@@ -1,7 +1,7 @@
 ---
 title: "Fast session tonight #squat and #benchpress #powerlifting #absolutefitness #roadto600"
 date: 2017-11-20T19:40:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "benchpress", "blog-import", "fast", "flickr", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "session", "squat", "tonight"]
 categories: ['Creative']
 ---

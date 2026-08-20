@@ -1,7 +1,7 @@
 ---
 title: "Camera Club Competition Entries"
 date: 2007-11-27T10:18:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "club-competitions", "photography", "picture"]
 categories: ['Creative']
 ---

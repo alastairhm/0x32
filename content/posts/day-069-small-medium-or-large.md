@@ -1,7 +1,7 @@
 ---
 title: "Day 069, small, medium or large"
 date: 2013-06-05T16:52:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "dropbox", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

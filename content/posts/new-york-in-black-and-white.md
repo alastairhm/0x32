@@ -1,7 +1,7 @@
 ---
 title: "New York in Black and White"
 date: 2008-08-18T09:50:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "cityscape", "links", "man-made", "other-peoples-work", "photography"]
 categories: ['Creative']
 ---

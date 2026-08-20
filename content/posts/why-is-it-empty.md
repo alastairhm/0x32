@@ -1,7 +1,7 @@
 ---
 title: "Why is it empty?"
 date: 2012-04-17T18:25:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Ring tailed Lemur"
 date: 2016-07-26T11:20:00+00:00
-draft: true
+draft: false
 tags: ["2016", "ahmphotos", "blog-import", "flickr", "ifttt", "lemar", "nikond50", "photography", "ringtailed", "southlakessafaripark"]
 categories: ['Creative']
 ---

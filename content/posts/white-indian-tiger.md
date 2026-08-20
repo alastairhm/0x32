@@ -1,7 +1,7 @@
 ---
 title: "White Indian Tiger"
 date: 2011-03-15T12:00:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "car", "india", "photography", "photomanipulation", "postcard", "t-shirt"]
 categories: ['Creative']
 ---

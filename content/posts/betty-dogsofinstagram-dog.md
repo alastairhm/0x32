@@ -1,7 +1,7 @@
 ---
 title: "Betty #dogsofinstagram #dog"
 date: 2020-04-21T18:01:00+00:00
-draft: true
+draft: false
 tags: ["betty", "blog-import", "dog", "dogsofinstagram", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

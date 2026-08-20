@@ -1,7 +1,7 @@
 ---
 title: "Shapes"
 date: 2020-09-07T09:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "generative", "generativeart", "ifttt", "photography", "processing"]
 categories: ['Creative']
 ---

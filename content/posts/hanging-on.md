@@ -1,7 +1,7 @@
 ---
 title: "Hanging on"
 date: 2010-07-30T11:47:00+00:00
-draft: true
+draft: false
 tags: ["abandoned", "blog-import", "hdr", "industrial", "man-made", "nikon-d50", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "360 Still Life Photography on the cheap"
 date: 2007-04-12T07:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "tutorial"]
 categories: ['Creative']
 ---

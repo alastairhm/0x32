@@ -1,7 +1,7 @@
 ---
 title: "Loch Tay"
 date: 2015-05-04T12:04:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Picture : Saklikent gorge 3"
 date: 2008-12-02T14:06:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "landscape", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

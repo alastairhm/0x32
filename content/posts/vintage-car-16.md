@@ -1,7 +1,7 @@
 ---
 title: "Vintage Car"
 date: 2013-06-16T20:38:00+00:00
-draft: true
+draft: false
 tags: ["1940s", "blog-import", "car", "flickr", "harrogate", "ifttt", "photography", "vintage"]
 categories: ['Creative']
 ---

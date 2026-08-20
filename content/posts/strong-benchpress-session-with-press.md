@@ -1,7 +1,7 @@
 ---
 title: "Strong #benchpress session with press pause on 110kg, 120kg and 100kg #powerlifting #absolutefitness #ynepf 25 days to go. #25days"
 date: 2017-07-26T21:00:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "110kg", "120kg", "25", "25days", "absolutefitness", "benchpress", "blog-import", "days", "flickr", "go", "ifttt", "instagram", "pause", "photography", "powerlifting", "press", "session", "strong", "with", "ynepf"]
 categories: ['Creative']
 ---

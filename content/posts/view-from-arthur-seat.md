@@ -1,7 +1,7 @@
 ---
 title: "Picture : View from Arthur&#39;s Seat"
 date: 2008-04-14T12:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

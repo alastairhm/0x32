@@ -1,7 +1,7 @@
 ---
 title: "Another good #squat session 3 reps at 190kg #powerlifting #absolutefitness #ynepf #20daysleft"
 date: 2017-07-31T18:35:00+00:00
-draft: true
+draft: false
 tags: ["190kg", "20daysleft", "3", "absolutefitness", "another", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "reps", "session", "squat", "ynepf"]
 categories: ['Creative']
 ---

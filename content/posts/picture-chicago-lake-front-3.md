@@ -1,7 +1,7 @@
 ---
 title: "Picture : Chicago Lake Front 3"
 date: 2007-08-14T12:54:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

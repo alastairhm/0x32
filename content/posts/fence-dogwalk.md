@@ -1,7 +1,7 @@
 ---
 title: "Fence #dogwalk"
 date: 2015-03-21T12:35:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dogwalk", "fence", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

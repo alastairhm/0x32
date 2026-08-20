@@ -1,7 +1,7 @@
 ---
 title: "Flamingos"
 date: 2013-06-08T15:22:00+00:00
-draft: true
+draft: false
 tags: ["birds", "blog-import", "chesterzoo", "flamingos", "flickr", "ifttt", "photography", "reflections"]
 categories: ['Creative']
 ---

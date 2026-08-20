@@ -1,7 +1,7 @@
 ---
 title: "Good #squat session tonight #powerlifting, 3xreps at 180kg equal to my #PB"
 date: 2016-08-08T19:08:00+00:00
-draft: true
+draft: false
 tags: ["180kg", "3xreps", "blog-import", "equal", "flickr", "good", "ifttt", "instagram", "pb", "photography", "powerlifting", "session", "squat", "tonight"]
 categories: ['Creative']
 ---

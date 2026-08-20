@@ -1,7 +1,7 @@
 ---
 title: "Wednesday's #benchpress session"
 date: 2017-05-26T21:13:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "ifttt", "instagram", "photography", "session", "wednesdays"]
 categories: ['Creative']
 ---

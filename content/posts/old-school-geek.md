@@ -1,7 +1,7 @@
 ---
 title: "Old school geek"
 date: 2015-12-15T13:38:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "geek", "ifttt", "instagram", "old", "photography", "school"]
 categories: ['Creative']
 ---

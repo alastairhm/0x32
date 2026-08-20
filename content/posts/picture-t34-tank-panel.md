@@ -1,7 +1,7 @@
 ---
 title: "Picture : T34 Tank Panel"
 date: 2007-01-11T13:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture", "t34", "tank", "uk"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "All for me?"
 date: 2017-08-16T09:44:00+00:00
-draft: true
+draft: false
 tags: ["all", "blog-import", "flickr", "for", "ifttt", "instagram", "me", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Fetch"
 date: 2020-07-12T11:37:00+00:00
-draft: true
+draft: false
 tags: ["bettydog", "blog-import", "d50", "dog", "dogs", "flickr", "ifttt", "nikon", "photography"]
 categories: ['Creative']
 ---

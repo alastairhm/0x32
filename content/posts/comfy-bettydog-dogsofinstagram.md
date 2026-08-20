@@ -1,7 +1,7 @@
 ---
 title: "Comfy #bettydog #dogsofinstagram"
 date: 2019-11-29T20:01:00+00:00
-draft: true
+draft: false
 tags: ["bettydog", "blog-import", "comfy", "dogsofinstagram", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

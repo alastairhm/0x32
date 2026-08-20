@@ -1,7 +1,7 @@
 ---
 title: "Day 252 Beard of power"
 date: 2013-12-04T13:33:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Solid #benchpress session and some hammer curls to finish #powerlifting # #roadto600"
 date: 2017-11-15T21:27:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "curls", "finish", "flickr", "hammer", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "session", "solid", "some"]
 categories: ['Creative']
 ---

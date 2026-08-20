@@ -1,7 +1,7 @@
 ---
 title: "Tonight's gym session #powerlifting"
 date: 2016-04-13T19:21:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "gym", "ifttt", "instagram", "photography", "powerlifting", "session", "tonights"]
 categories: ['Creative']
 ---

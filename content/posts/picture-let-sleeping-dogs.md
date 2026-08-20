@@ -1,7 +1,7 @@
 ---
 title: "Picture : Let sleeping dogs"
 date: 2008-10-29T11:49:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

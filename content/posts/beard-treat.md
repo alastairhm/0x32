@@ -1,7 +1,7 @@
 ---
 title: "Beard treat"
 date: 2015-12-03T21:08:00+00:00
-draft: true
+draft: false
 tags: ["beard", "blog-import", "flickr", "ifttt", "instagram", "photography", "treat"]
 categories: ['Creative']
 ---

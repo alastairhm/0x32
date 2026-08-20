@@ -1,7 +1,7 @@
 ---
 title: "Wilson stair sit"
 date: 2014-03-24T15:45:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog", "flickr", "ifttt", "photography", "wilson"]
 categories: ['Creative']
 ---

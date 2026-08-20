@@ -1,7 +1,7 @@
 ---
 title: "Content Aware Image Resizing"
 date: 2007-08-22T07:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "links", "photography"]
 categories: ['Creative']
 ---

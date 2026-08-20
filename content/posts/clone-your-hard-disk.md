@@ -1,7 +1,7 @@
 ---
 title: "Clone your hard disk."
 date: 2007-01-17T14:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "tutorial"]
 categories: ['Creative']
 ---

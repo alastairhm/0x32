@@ -1,7 +1,7 @@
 ---
 title: "Great #deadlift session and rep #PB"
 date: 2017-02-10T19:25:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "great", "ifttt", "instagram", "pb", "photography", "rep", "session"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Xaos fractal 14-10-2013"
 date: 2013-10-14T13:32:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dropbox", "flickr", "fract0", "ifttt", "photography"]
 categories: ['Creative']
 ---

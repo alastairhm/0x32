@@ -1,7 +1,7 @@
 ---
 title: "It was hard work with #deadlift session tonight #powerlifting #absolutefitness #ynepf #17daystogo"
 date: 2017-08-03T19:01:00+00:00
-draft: true
+draft: false
 tags: ["17daystogo", "absolutefitness", "blog-import", "deadlift", "flickr", "hard", "ifttt", "instagram", "it", "photography", "powerlifting", "session", "tonight", "was", "with", "work", "ynepf"]
 categories: ['Creative']
 ---

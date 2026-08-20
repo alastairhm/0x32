@@ -1,7 +1,7 @@
 ---
 title: "Last #deadlift session before the comp next week. #powerlifting"
 date: 2016-06-24T17:59:00+00:00
-draft: true
+draft: false
 tags: ["before", "blog-import", "comp", "deadlift", "flickr", "ifttt", "instagram", "last", "next", "photography", "powerlifting", "session", "week"]
 categories: ['Creative']
 ---

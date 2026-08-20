@@ -1,7 +1,7 @@
 ---
 title: "First #squat session back was a tough one #powerlifting"
 date: 2016-12-19T20:49:00+00:00
-draft: true
+draft: false
 tags: ["back", "blog-import", "first", "flickr", "ifttt", "instagram", "one", "photography", "powerlifting", "session", "squat", "tough", "was"]
 categories: ['Creative']
 ---

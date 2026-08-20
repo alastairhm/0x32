@@ -1,7 +1,7 @@
 ---
 title: "Picture : Ghost Town"
 date: 2008-10-29T14:45:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "man-made", "panoramic", "photography", "picture", "turkey"]
 categories: ['Creative']
 ---

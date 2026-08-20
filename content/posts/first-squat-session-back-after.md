@@ -1,7 +1,7 @@
 ---
 title: "First #squat session back after Christmas #powerlifting"
 date: 2017-01-09T20:19:00+00:00
-draft: true
+draft: false
 tags: ["after", "back", "blog-import", "christmas", "first", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "squat"]
 categories: ['Creative']
 ---

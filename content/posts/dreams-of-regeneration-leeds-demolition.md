@@ -1,7 +1,7 @@
 ---
 title: "Dreams of regeneration #leeds #demolition"
 date: 2016-08-23T07:50:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "demolition", "dream", "dreams", "flickr", "ifttt", "instagram", "leeds", "photography", "prisma", "regeneration"]
 categories: ['Creative']
 ---

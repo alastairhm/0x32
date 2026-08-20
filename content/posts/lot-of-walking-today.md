@@ -1,7 +1,7 @@
 ---
 title: "Lot of walking today"
 date: 2018-04-23T18:23:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "instagram", "lot", "photography", "today", "walking"]
 categories: ['Creative']
 ---

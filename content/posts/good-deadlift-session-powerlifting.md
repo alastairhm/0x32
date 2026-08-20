@@ -1,7 +1,7 @@
 ---
 title: "Good #Deadlift session #powerlifting #absolutefitness #roadto600"
 date: 2017-12-01T20:22:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "deadlift", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "session"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Wednesday #benchpress session, trying to progress from reps at 100kg #powerlifting"
 date: 2016-08-12T07:01:00+00:00
-draft: true
+draft: false
 tags: ["100kg", "benchpress", "blog-import", "flickr", "from", "ifttt", "instagram", "photography", "powerlifting", "progress", "reps", "session", "trying", "wednesday"]
 categories: ['Creative']
 ---

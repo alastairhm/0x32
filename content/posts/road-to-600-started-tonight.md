@@ -1,7 +1,7 @@
 ---
 title: "Road to 600 started tonight #powerlifting #squats and competition #benchpress #absolutefitness #roadto600"
 date: 2017-09-05T19:40:00+00:00
-draft: true
+draft: false
 tags: ["600", "absolutefitness", "benchpress", "blog-import", "competition", "flickr", "ifttt", "instagram", "photography", "powerlifting", "road", "roadto600", "squats", "started", "tonight"]
 categories: ['Creative']
 ---

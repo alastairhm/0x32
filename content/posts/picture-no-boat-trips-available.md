@@ -1,7 +1,7 @@
 ---
 title: "Picture : No boat trips available"
 date: 2007-03-09T13:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "cityscape", "photography", "picture"]
 categories: ['Creative']
 ---

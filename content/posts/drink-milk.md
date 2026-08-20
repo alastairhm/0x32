@@ -1,7 +1,7 @@
 ---
 title: "Drink milk."
 date: 2006-08-15T14:04:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

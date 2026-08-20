@@ -1,7 +1,7 @@
 ---
 title: "Mazda RX8"
 date: 2011-03-30T10:30:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "htc-desire", "photography", "ripon"]
 categories: ['Creative']
 ---

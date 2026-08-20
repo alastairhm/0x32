@@ -1,7 +1,7 @@
 ---
 title: "Picture : When Cars Go Bad"
 date: 2007-08-28T10:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "humor", "photography", "picture"]
 categories: ['Creative']
 ---

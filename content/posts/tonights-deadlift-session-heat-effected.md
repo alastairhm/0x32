@@ -1,7 +1,7 @@
 ---
 title: "Tonight's #deadlift session, heat effected so not that great. #powerlifting"
 date: 2016-07-22T18:13:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "effected", "flickr", "great", "heat", "ifttt", "instagram", "photography", "powerlifting", "session", "that", "tonights"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "De-stress with #squats #powerlifting #absolutefitness #roadto600"
 date: 2017-10-16T20:21:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "destress", "flickr", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "squats", "with"]
 categories: ['Creative']
 ---

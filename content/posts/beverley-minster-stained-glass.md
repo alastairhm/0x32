@@ -1,7 +1,7 @@
 ---
 title: "Beverley minster stained glass"
 date: 2017-06-27T18:15:00+00:00
-draft: true
+draft: false
 tags: ["beverley", "blog-import", "flickr", "glass", "ifttt", "instagram", "minster", "photography", "stained"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Best #benchpress session for a while, new rep #PB #powerlifting #absolutefitness #ynepf #11daystogo"
 date: 2017-08-09T18:33:00+00:00
-draft: true
+draft: false
 tags: ["11daystogo", "absolutefitness", "benchpress", "best", "blog-import", "flickr", "for", "ifttt", "instagram", "new", "pb", "photography", "powerlifting", "rep", "session", "while", "ynepf"]
 categories: ['Creative']
 ---

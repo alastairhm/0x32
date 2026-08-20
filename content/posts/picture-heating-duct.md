@@ -1,7 +1,7 @@
 ---
 title: "Picture : Heating Duct"
 date: 2006-10-24T14:36:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

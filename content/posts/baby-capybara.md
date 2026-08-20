@@ -1,7 +1,7 @@
 ---
 title: "Baby Capybara"
 date: 2016-05-24T13:07:00+00:00
-draft: true
+draft: false
 tags: ["baby", "blog-import", "capybara", "flickr", "hydrochaeris", "hydrochoerus", "ifttt", "photography"]
 categories: ['Creative']
 ---

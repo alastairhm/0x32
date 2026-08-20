@@ -1,7 +1,7 @@
 ---
 title: "Sumo logic event"
 date: 2019-12-05T06:24:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "event", "flickr", "ifttt", "instagram", "logic", "photography", "sumo"]
 categories: ['Creative']
 ---

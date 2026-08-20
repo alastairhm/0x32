@@ -1,7 +1,7 @@
 ---
 title: "Good #bench session, felt strong #powerlifting #absolutefitness #benchpress"
 date: 2018-01-31T19:51:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "bench", "benchpress", "blog-import", "felt", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "session", "strong"]
 categories: ['Creative']
 ---

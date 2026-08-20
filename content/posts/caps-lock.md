@@ -1,7 +1,7 @@
 ---
 title: "Caps Lock"
 date: 2012-12-19T16:11:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography"]
 categories: ['Creative']
 ---

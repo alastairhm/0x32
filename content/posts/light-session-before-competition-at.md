@@ -1,7 +1,7 @@
 ---
 title: "Light session before the competition at the weekend #benchpress #powerlifting #ynepf"
 date: 2018-03-07T21:40:00+00:00
-draft: true
+draft: false
 tags: ["before", "benchpress", "blog-import", "competition", "flickr", "ifttt", "instagram", "light", "photography", "powerlifting", "session", "weekend", "ynepf"]
 categories: ['Creative']
 ---

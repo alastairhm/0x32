@@ -1,7 +1,7 @@
 ---
 title: "Free WiFi"
 date: 2015-03-02T14:07:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "free", "ifttt", "instagram", "photography", "wifi"]
 categories: ['Creative']
 ---

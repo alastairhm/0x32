@@ -1,7 +1,7 @@
 ---
 title: "Shape colour 2"
 date: 2020-09-07T13:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "generative", "generativeart", "ifttt", "photography", "processing"]
 categories: ['Creative']
 ---

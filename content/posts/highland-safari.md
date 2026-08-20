@@ -1,7 +1,7 @@
 ---
 title: "Highland safari"
 date: 2015-09-01T19:32:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "highland", "ifttt", "instagram", "photography", "safari"]
 categories: ['Creative']
 ---

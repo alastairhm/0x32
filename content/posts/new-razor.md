@@ -1,7 +1,7 @@
 ---
 title: "New razor"
 date: 2012-04-01T12:45:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Text Adventures in Flash"
 date: 2007-02-09T15:46:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "photography"]
 categories: ['Creative']
 ---

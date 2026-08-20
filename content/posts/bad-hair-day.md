@@ -1,7 +1,7 @@
 ---
 title: "Bad hair day?"
 date: 2016-05-20T18:14:00+00:00
-draft: true
+draft: false
 tags: ["bad", "blog-import", "day", "flickr", "hair", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

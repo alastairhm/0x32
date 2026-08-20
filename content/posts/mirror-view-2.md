@@ -1,7 +1,7 @@
 ---
 title: "Mirror view 2"
 date: 2013-08-19T18:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "bmw", "carmirror", "flickr", "flickrandroidapp-filter-none", "ifttt", "photography"]
 categories: ['Creative']
 ---

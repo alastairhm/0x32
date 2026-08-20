@@ -1,7 +1,7 @@
 ---
 title: "Tire Treads"
 date: 2009-08-10T11:50:00+00:00
-draft: true
+draft: false
 tags: ["abstract", "blog-import", "photography", "picture", "powershot-a530", "uk"]
 categories: ['Creative']
 ---

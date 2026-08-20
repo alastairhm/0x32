@@ -1,7 +1,7 @@
 ---
 title: "Vanity"
 date: 2009-11-06T13:54:00+00:00
-draft: true
+draft: false
 tags: ["365days", "blog-import", "lg-renoir", "photography", "self-portrait"]
 categories: ['Creative']
 ---

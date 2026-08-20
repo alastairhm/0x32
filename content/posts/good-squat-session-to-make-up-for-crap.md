@@ -1,7 +1,7 @@
 ---
 title: "Good #squat session to make up for a crap day #powerlifting #absolutefitness"
 date: 2017-07-10T18:14:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "crap", "day", "flickr", "for", "good", "ifttt", "instagram", "make", "photography", "powerlifting", "session", "squat", "up"]
 categories: ['Creative']
 ---

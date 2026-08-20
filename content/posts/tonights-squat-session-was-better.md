@@ -1,7 +1,7 @@
 ---
 title: "Tonight's squat session was better #powerlifting"
 date: 2016-02-15T19:27:00+00:00
-draft: true
+draft: false
 tags: ["better", "blog-import", "flickr", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "tonights", "was"]
 categories: ['Creative']
 ---

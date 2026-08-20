@@ -1,7 +1,7 @@
 ---
 title: "Picture : Turkish Bay"
 date: 2008-10-30T15:08:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "boat", "photography", "picture", "turkey", "waterscape"]
 categories: ['Creative']
 ---

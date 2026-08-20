@@ -1,7 +1,7 @@
 ---
 title: "Making of Circuit Lady"
 date: 2009-07-01T11:41:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "photomanipulation", "picture", "the-gimp"]
 categories: ['Creative']
 ---

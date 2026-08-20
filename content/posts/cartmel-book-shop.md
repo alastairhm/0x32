@@ -1,7 +1,7 @@
 ---
 title: "Cartmel Book Shop"
 date: 2016-05-23T20:27:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "book", "books", "cartmel", "flickr", "ifttt", "photography", "shop", "village"]
 categories: ['Creative']
 ---

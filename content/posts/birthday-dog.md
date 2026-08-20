@@ -1,7 +1,7 @@
 ---
 title: "Birthday dog"
 date: 2014-06-29T11:36:00+00:00
-draft: true
+draft: false
 tags: ["birthday", "blog-import", "dog", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

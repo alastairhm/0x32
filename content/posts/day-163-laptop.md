@@ -1,7 +1,7 @@
 ---
 title: "Day 163 Laptop"
 date: 2013-09-06T16:08:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "dropbox", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

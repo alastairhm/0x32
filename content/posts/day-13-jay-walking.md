@@ -1,7 +1,7 @@
 ---
 title: "Day 13, Jay walking"
 date: 2013-04-10T10:22:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "flickr", "flickrandroidapp-filter-none", "ifttt", "leeds", "photography"]
 categories: ['Creative']
 ---

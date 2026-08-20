@@ -1,7 +1,7 @@
 ---
 title: "Gate post"
 date: 2017-06-25T08:46:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "gate", "ifttt", "instagram", "photography", "post"]
 categories: ['Creative']
 ---

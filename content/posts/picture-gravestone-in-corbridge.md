@@ -1,7 +1,7 @@
 ---
 title: "Picture : Gravestone in Corbridge"
 date: 2006-10-24T14:49:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

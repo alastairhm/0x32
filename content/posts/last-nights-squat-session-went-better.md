@@ -1,7 +1,7 @@
 ---
 title: "Last night's squat session went better than I expected #powerlifting"
 date: 2016-01-05T08:17:00+00:00
-draft: true
+draft: false
 tags: ["better", "blog-import", "expected", "flickr", "i", "ifttt", "instagram", "last", "nights", "photography", "powerlifting", "session", "squat", "than", "went"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Day 052, Speaker"
 date: 2013-05-19T19:37:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "dropbox", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Felt strong tonight, 5x170kg #squats #powerlifting"
 date: 2016-07-25T18:45:00+00:00
-draft: true
+draft: false
 tags: ["5x170kg", "blog-import", "felt", "flickr", "ifttt", "instagram", "photography", "powerlifting", "squats", "strong", "tonight"]
 categories: ['Creative']
 ---

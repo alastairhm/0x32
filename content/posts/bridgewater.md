@@ -1,7 +1,7 @@
 ---
 title: "Bridgewater"
 date: 2019-01-11T22:06:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "bridgewater", "flickr", "ifttt", "instagram", "photography"]
 categories: ['Creative']
 ---

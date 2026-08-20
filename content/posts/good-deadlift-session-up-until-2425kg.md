@@ -1,7 +1,7 @@
 ---
 title: "Good #deadlift session up until 242.5kg attempt, head messed it up #powerlifting #absolutefitness"
 date: 2018-04-20T19:42:00+00:00
-draft: true
+draft: false
 tags: ["2425kg", "absolutefitness", "attempt", "blog-import", "deadlift", "flickr", "good", "head", "ifttt", "instagram", "it", "messed", "photography", "powerlifting", "session", "until", "up"]
 categories: ['Creative']
 ---

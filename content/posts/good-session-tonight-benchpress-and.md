@@ -1,7 +1,7 @@
 ---
 title: "Good session tonight #benchpress and #vikingpress #powerlifting"
 date: 2017-01-11T19:20:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "good", "ifttt", "instagram", "photography", "powerlifting", "session", "tonight", "vikingpress"]
 categories: ['Creative']
 ---

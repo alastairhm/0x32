@@ -1,7 +1,7 @@
 ---
 title: "Got his spot"
 date: 2010-10-19T23:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography"]
 categories: ['Creative']
 ---

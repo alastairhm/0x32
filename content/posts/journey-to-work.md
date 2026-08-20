@@ -1,7 +1,7 @@
 ---
 title: "Journey to Work"
 date: 2006-04-12T11:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "photography", "photomanipulation", "picture"]
 categories: ['Creative']
 ---

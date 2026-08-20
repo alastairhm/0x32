@@ -1,7 +1,7 @@
 ---
 title: "Just a light rep session they said #deadlift #powerlifting"
 date: 2016-12-16T20:58:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "deadlift", "flickr", "ifttt", "instagram", "just", "light", "photography", "powerlifting", "rep", "said", "session", "they"]
 categories: ['Creative']
 ---

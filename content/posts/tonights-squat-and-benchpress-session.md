@@ -1,7 +1,7 @@
 ---
 title: "Tonight's squat and benchpress session #powerlifting #squats #benchpress #gym #strong"
 date: 2016-10-19T20:02:00+00:00
-draft: true
+draft: false
 tags: ["benchpress", "blog-import", "flickr", "gym", "ifttt", "instagram", "photography", "powerlifting", "session", "squat", "squats", "strong", "tonights"]
 categories: ['Creative']
 ---

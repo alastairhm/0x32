@@ -1,7 +1,7 @@
 ---
 title: "Shape more levels"
 date: 2020-09-08T12:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "generative", "ifttt", "photography", "processing"]
 categories: ['Creative']
 ---

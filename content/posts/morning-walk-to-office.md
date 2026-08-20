@@ -1,7 +1,7 @@
 ---
 title: "Morning walk to the office"
 date: 2020-02-05T08:40:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "ifttt", "photography"]
 categories: ['Creative']
 ---

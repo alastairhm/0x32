@@ -1,7 +1,7 @@
 ---
 title: "Not a bad #deadlift session after two weeks off. #powerlifting #absolutefitness"
 date: 2018-10-27T11:13:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "after", "bad", "blog-import", "deadlift", "flickr", "ifttt", "instagram", "not", "off", "photography", "powerlifting", "session", "two", "weeks"]
 categories: ['Creative']
 ---

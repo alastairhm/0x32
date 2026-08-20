@@ -1,7 +1,7 @@
 ---
 title: "Elephant"
 date: 2013-06-14T13:52:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "chester", "d50", "elephant", "flickr", "ifttt", "nikon", "photography", "wordpress", "zoo"]
 categories: ['Creative']
 ---

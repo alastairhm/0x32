@@ -1,7 +1,7 @@
 ---
 title: "Manjaro Linux Openbox"
 date: 2014-02-26T13:51:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dropbox", "flickr", "ifttt", "linux", "manjaro", "openbox", "photography"]
 categories: ['Creative']
 ---

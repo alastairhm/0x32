@@ -1,7 +1,7 @@
 ---
 title: "Mini Goat"
 date: 2020-09-21T13:37:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "flickr", "goat", "ifttt", "nikon", "nikond50", "photography"]
 categories: ['Creative']
 ---

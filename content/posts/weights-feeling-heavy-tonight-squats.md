@@ -1,7 +1,7 @@
 ---
 title: "Weights feeling heavy tonight :-| #squats #powerlifting #absolutefitness #roadto600"
 date: 2017-09-18T18:21:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "blog-import", "feeling", "flickr", "heavy", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "squats", "tonight", "weights"]
 categories: ['Creative']
 ---

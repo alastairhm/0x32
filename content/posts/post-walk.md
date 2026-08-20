@@ -1,7 +1,7 @@
 ---
 title: "Post walk"
 date: 2008-09-28T10:12:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "k800i", "photography", "picture"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Doodle: Tentacle"
 date: 2008-08-15T10:01:00+00:00
-draft: true
+draft: false
 tags: ["black-and-white", "blog-import", "doodles", "photography"]
 categories: ['Creative']
 ---

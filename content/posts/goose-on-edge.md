@@ -1,7 +1,7 @@
 ---
 title: "Goose on the edge"
 date: 2006-07-25T10:10:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "photography", "picture"]
 categories: ['Creative']
 ---

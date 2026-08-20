@@ -1,7 +1,7 @@
 ---
 title: "Rep #PB tonight on #squats 4x180kg. Followed by some bench press #powerlifting"
 date: 2017-01-16T22:38:00+00:00
-draft: true
+draft: false
 tags: ["4x180kg", "bench", "blog-import", "by", "flickr", "followed", "ifttt", "instagram", "pb", "photography", "powerlifting", "press", "rep", "some", "squats", "tonight"]
 categories: ['Creative']
 ---

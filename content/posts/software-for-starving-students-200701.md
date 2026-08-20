@@ -1,7 +1,7 @@
 ---
 title: "Software for Starving Students 2007.01 Released"
 date: 2007-01-03T08:01:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "links", "photography"]
 categories: ['Creative']
 ---

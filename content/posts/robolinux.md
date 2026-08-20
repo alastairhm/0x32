@@ -1,7 +1,7 @@
 ---
 title: "roboLinux"
 date: 2014-04-03T11:33:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "debian", "distro", "flickr", "ifttt", "linux", "macosx", "photography", "robolinux", "tumblr"]
 categories: ['Creative']
 ---

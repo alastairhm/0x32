@@ -1,7 +1,7 @@
 ---
 title: "Day 097 Wired for sound"
 date: 2013-07-03T14:07:00+00:00
-draft: true
+draft: false
 tags: ["365", "atrix", "blog-import", "flickr", "headphone", "ifttt", "jack", "photography", "wire"]
 categories: ['Creative']
 ---

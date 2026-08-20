@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi in case"
 date: 2012-06-27T17:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "photography", "raspberry-pi"]
 categories: ['Creative']
 ---

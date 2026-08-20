@@ -1,7 +1,7 @@
 ---
 title: "First #benchpress session back after cold/ flu #powerlifting #absolutefitness #roadto600"
 date: 2017-12-13T18:50:00+00:00
-draft: true
+draft: false
 tags: ["absolutefitness", "after", "back", "benchpress", "blog-import", "cold", "first", "flickr", "flu", "ifttt", "instagram", "photography", "powerlifting", "roadto600", "session"]
 categories: ['Creative']
 ---

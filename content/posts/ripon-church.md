@@ -1,7 +1,7 @@
 ---
 title: "Ripon church"
 date: 2014-08-30T14:09:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "church", "flickr", "ifttt", "instagram", "photography", "ripon"]
 categories: ['Creative']
 ---

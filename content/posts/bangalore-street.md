@@ -1,7 +1,7 @@
 ---
 title: "Bangalore street"
 date: 2014-04-22T14:47:00+00:00
-draft: true
+draft: false
 tags: ["bangalore", "blog-import", "flickr", "ifttt", "india", "photography", "trip", "tumblr"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Snooze #dog"
 date: 2018-02-17T15:59:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dog", "flickr", "ifttt", "instagram", "photography", "snooze"]
 categories: ['Creative']
 ---

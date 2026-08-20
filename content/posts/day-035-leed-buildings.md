@@ -1,7 +1,7 @@
 ---
 title: "Day 035, Leed Buildings"
 date: 2013-05-02T12:37:00+00:00
-draft: true
+draft: false
 tags: ["365", "blog-import", "buildings", "flickr", "ifttt", "leeds", "photography", "street"]
 categories: ['Creative']
 ---

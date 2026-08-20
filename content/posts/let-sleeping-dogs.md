@@ -1,7 +1,7 @@
 ---
 title: "Let sleeping dogs"
 date: 2008-09-22T09:35:00+00:00
-draft: true
+draft: false
 tags: ["animal", "blog-import", "dog", "k800i", "photography", "picture"]
 categories: ['Creative']
 ---

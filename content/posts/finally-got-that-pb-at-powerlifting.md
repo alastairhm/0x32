@@ -1,7 +1,7 @@
 ---
 title: "Finally got that #PB at #powerlifting #benchpress @ 125kg (275lb)"
 date: 2016-09-22T20:03:00+00:00
-draft: true
+draft: false
 tags: ["125kg", "275lb", "benchpress", "blog-import", "finally", "flickr", "got", "ifttt", "instagram", "pb", "photography", "powerlifting", "that"]
 categories: ['Creative']
 ---

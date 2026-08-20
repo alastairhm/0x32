@@ -1,0 +1,9 @@
+---
+title: "AarLogic C10/3 - the matchbox sized Linux PC"
+date: 2009-03-30T09:53:00+01:00
+draft: false
+tags: ["blog-import", "geek", "hardware", "linux"]
+categories: ['Geek']
+---
+
+Looks cool<br /><br /><div style="margin: 0px 2px; padding-top: 1px; background-color: rgb(195, 217, 255); font-size: 1px ! important; line-height: 0px ! important;"> </div> <div style="margin: 0px 1px; padding-top: 1px; background-color: rgb(195, 217, 255); font-size: 1px ! important; line-height: 0px ! important;"> </div> <div style="padding: 4px; background-color: rgb(195, 217, 255);"><h3 style="margin: 0px 3px; font-family: sans-serif;"><br /></h3></div> <div style="margin: 0px 1px; padding-top: 1px; background-color: rgb(195, 217, 255); font-size: 1px ! important; line-height: 0px ! important;"> </div> <div style="margin: 0px 2px; padding-top: 1px; background-color: rgb(195, 217, 255); font-size: 1px ! important; line-height: 0px ! important;"> </div> <div style="margin: 0px 10px; overflow: auto; font-family: sans-serif; width: 100%;"><h2 style="margin: 0.25em 0pt 0pt;"><div class=""><a href="http://www.redferret.net/?p=13607">AarLogic C10/3 - the matchbox sized Linux PC</a></div></h2> <div style="margin-bottom: 0.5em;">via <a href="http://www.redferret.net/" class="f">The Red Ferret Journal - gadgets, cool sites, freeware and tech trivia</a> by Nigel on 3/27/09</div>  <p><img alt="AarLogiclinuxpc" src="http://www.redferret.net/wp-content/uploads/2009/03/aarlogiclinuxpc-small.jpg" border="0" /></p> <p>The AarLogic C10/3 is a Linux PC which is the size of a box of matches.<br /></p></div><br /><div style="margin: 0px 1px; padding-top: 1px; background-color: rgb(195, 217, 255); font-size: 1px ! important; line-height: 0px ! important;"> </div> <div style="margin: 0px 2px; padding-top: 1px; background-color: rgb(195, 217, 255); font-size: 1px ! important; line-height: 0px ! important;"> </div>

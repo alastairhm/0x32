@@ -1,0 +1,9 @@
+---
+title: "Eee PC Touch Demo"
+date: 2009-01-20T11:36:00+00:00
+draft: false
+tags: ["blog-import", "gadgets", "geek", "hardware", "video", "wishlist"]
+categories: ['Geek']
+---
+
+How cool does this look?<br /><br /><object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/5mvtU4xZPvQ&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/5mvtU4xZPvQ&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" height="344" width="425"></embed></object><br /><span style="font-style: italic;">Having trouble figuring out how a touchscreen Eee PC could fit into your life? No worries, ASUS just did all the heavy synaptic lifting for you with the release of a near 6-minute video showing its new Eee PC Touch UI. A </span><a style="font-style: italic;" href="http://www.engadget.com/2009/01/06/eee-pc-t91-convertible-tablet-lives/">UI teased at CES</a><span style="font-style: italic;"> and built specifically for ASUS' new touchcreen Eees. All in all it makes a pretty case for why you should pick up a new </span><a style="font-style: italic;" href="http://www.engadget.com/2009/01/08/asus-eee-pc-t91-and-t101h-touchscreen-tablet-hands-on/">Eee PC T91 or T101H</a><span style="font-style: italic;"> convertible tablet later this year. Let's just hope the processor can cope.</span><br /><span style="font-size:85%;">Originally posted at <a href="http://www.engadget.com/2009/01/20/video-sexy-eee-pc-touch-ui-demonstrated/">Engadget</a></span><br /><br /><br /><a href="http://meekgonkey.blogspot.com/">Doodle's Geek Monkey</a> by <a href="http://twitter.com/alastair_hm">Alastair Montgomery</a>

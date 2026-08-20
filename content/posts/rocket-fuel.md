@@ -1,0 +1,9 @@
+---
+title: "Rocket fuel"
+date: 2014-09-27T08:18:00+00:00
+draft: true
+tags: ["blog-import", "flickr", "fuel", "ifttt", "instagram", "photography", "rocket"]
+categories: ['Creative']
+---
+
+<div xmlns='http://www.w3.org/1999/xhtml'><img style='max-width:586px;' src='https://farm3.staticflickr.com/2944/15180161649_2636a05ba2.jpg'/><br/><br /><div>via Instagram <a rel='nofollow' href='http://ift.tt/1vdB9bU'>ift.tt/1vdB9bU</a> September 27, 2014 at 08:46AM http://flic.kr/p/p8qibZ, September 27, 2014 at 10:07AM</div><br /></div>

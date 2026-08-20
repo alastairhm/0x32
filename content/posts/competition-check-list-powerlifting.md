@@ -1,0 +1,11 @@
+---
+title: "Competition check list #powerlifting #ynepf"
+date: 2018-03-10T17:35:00+00:00
+draft: true
+tags: ["blog-import", "check", "competition", "flickr", "ifttt", "instagram", "list", "photography", "powerlifting", "ynepf"]
+categories: ['Creative']
+---
+
+<img src='https://farm5.staticflickr.com/4781/38918636920_40cf09601b.jpg' style='max-width:586px;' /><br />
+<div>via Instagram <a href="http://bit.ly/2oXH3kG" rel="nofollow">bit.ly/2oXH3kG</a> March 10, 2018 at 03:44PM https://flic.kr/p/22i7bRo, March 10, 2018 at 03:44PM</div>
+

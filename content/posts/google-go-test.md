@@ -1,7 +1,7 @@
 ---
 title: "Google Go Test"
 date: 2009-11-11T10:38:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "google", "linux", "programming"]
 categories: ['Geek']
 ---

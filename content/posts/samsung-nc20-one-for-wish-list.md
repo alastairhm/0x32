@@ -1,7 +1,7 @@
 ---
 title: "Samsung NC20, one for the wish list."
 date: 2009-02-05T14:24:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "hardware", "wishlist"]
 categories: ['Geek']
 ---

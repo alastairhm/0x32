@@ -1,7 +1,7 @@
 ---
 title: "crunchbang linux Statler 10"
 date: 2010-03-24T10:12:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

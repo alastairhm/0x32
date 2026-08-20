@@ -1,7 +1,7 @@
 ---
 title: "Dream Linux = Identity crisis"
 date: 2009-05-27T13:23:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The 80s Now Have One More Cassette Tape Measure To Be Proud Of  [Cassette Tape]"
 date: 2009-10-07T06:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "retro", "tools"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Panasonic Lumix DMC-LX3"
 date: 2008-11-13T13:26:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "camera", "gadgets", "geek", "link", "wishlist"]
 categories: ['Geek']
 ---

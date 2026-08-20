@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheet Art"
 date: 2008-11-26T08:36:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "graphics", "video", "weird"]
 categories: ['Geek']
 ---

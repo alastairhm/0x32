@@ -1,7 +1,7 @@
 ---
 title: "Installing Repton 1 under Wine"
 date: 2010-02-11T14:22:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek", "linux", "retro", "wine"]
 categories: ['Geek']
 ---

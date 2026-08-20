@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 VM Online"
 date: 2009-06-15T11:27:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "virtual-machine", "windows"]
 categories: ['Geek']
 ---

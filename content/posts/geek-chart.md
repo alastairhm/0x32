@@ -1,7 +1,7 @@
 ---
 title: "Geek Chart"
 date: 2009-05-28T07:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "twitter", "web"]
 categories: ['Geek']
 ---

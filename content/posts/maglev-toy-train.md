@@ -1,7 +1,7 @@
 ---
 title: "MagLev Toy Train"
 date: 2008-10-07T08:15:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "video"]
 categories: ['Geek']
 ---

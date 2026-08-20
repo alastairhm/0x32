@@ -1,7 +1,7 @@
 ---
 title: "CentOS 5"
 date: 2010-10-21T16:06:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

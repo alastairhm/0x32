@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi unwrapped"
 date: 2012-06-01T18:15:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "raspberry-pi"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nexus 5 One Week On"
 date: 2013-11-13T09:59:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "geek", "nexus5"]
 categories: ['Geek']
 ---

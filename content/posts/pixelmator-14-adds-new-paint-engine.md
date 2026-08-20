@@ -1,7 +1,7 @@
 ---
 title: "Pixelmator 1.4 adds new paint engine"
 date: 2009-02-26T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "graphics", "link"]
 categories: ['Geek']
 ---

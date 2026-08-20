@@ -1,7 +1,7 @@
 ---
 title: "How-To: Web server on a business card (Part 2)"
 date: 2008-09-26T16:04:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hack", "hardware", "web-server"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Converting MP4 files to other divX and mp3 formats"
 date: 2010-01-20T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "divx", "ffmpeg", "geek", "linux", "mencoder", "mp3", "mp4", "script", "video"]
 categories: ['Geek']
 ---

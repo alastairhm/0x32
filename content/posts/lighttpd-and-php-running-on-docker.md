@@ -1,7 +1,7 @@
 ---
 title: "Lighttpd and PHP running on Docker Example"
 date: 2016-04-18T10:46:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "docker", "geek", "lighttpd", "php"]
 categories: ['Geek']
 ---

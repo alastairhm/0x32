@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps to Rip a DVD to ISO in Ubuntu 8.10"
 date: 2009-02-20T00:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "link", "linux"]
 categories: ['Geek']
 ---

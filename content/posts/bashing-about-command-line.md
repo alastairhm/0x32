@@ -1,7 +1,7 @@
 ---
 title: "Bashing about the command line"
 date: 2012-10-24T14:59:00+01:00
-draft: true
+draft: false
 tags: ["bash", "blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

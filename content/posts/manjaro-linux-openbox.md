@@ -1,7 +1,7 @@
 ---
 title: "Manjaro Linux Openbox"
 date: 2014-02-26T14:03:00+00:00
-draft: true
+draft: false
 tags: ["arch-linux", "blog-import", "geek", "linux", "manjaro", "openbox"]
 categories: ['Geek']
 ---

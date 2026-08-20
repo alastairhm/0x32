@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu 10.10 RC"
 date: 2010-10-05T11:22:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "ubuntu", "virtual-machine"]
 categories: ['Geek']
 ---

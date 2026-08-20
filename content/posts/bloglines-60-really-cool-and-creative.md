@@ -1,7 +1,7 @@
 ---
 title: "60 Really Cool and Creative Error 404 Pages"
 date: 2008-12-05T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "web"]
 categories: ['Geek']
 ---

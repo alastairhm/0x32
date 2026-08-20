@@ -1,7 +1,7 @@
 ---
 title: "CrunchBang is a Speedy, Dark-Themed Linux Desktop [Screenshot Tour]"
 date: 2009-01-28T17:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Life with an HTC Desire part 2"
 date: 2010-05-04T10:26:00+01:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "geek", "htc-desire", "phone"]
 categories: ['Geek']
 ---

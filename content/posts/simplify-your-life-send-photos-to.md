@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Life: Send Photos to Different Sites at the Same Time"
 date: 2008-09-28T12:52:00+01:00
-draft: true
+draft: false
 tags: ["blog", "blog-import", "free", "geek", "graphics"]
 categories: ['Geek']
 ---

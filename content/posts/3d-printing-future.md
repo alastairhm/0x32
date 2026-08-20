@@ -1,7 +1,7 @@
 ---
 title: "3d Printing the future"
 date: 2012-09-05T15:58:00+01:00
-draft: true
+draft: false
 tags: ["3d-printing", "blog-import", "geek", "video"]
 categories: ['Geek']
 ---

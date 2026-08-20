@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi Media Center"
 date: 2013-04-17T09:58:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "media", "raspberry-pi"]
 categories: ['Geek']
 ---

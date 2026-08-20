@@ -1,7 +1,7 @@
 ---
 title: "Create and manage databases in Linux with Glom"
 date: 2009-11-27T07:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "database", "free", "geek", "linux", "software"]
 categories: ['Geek']
 ---

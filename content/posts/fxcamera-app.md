@@ -1,7 +1,7 @@
 ---
 title: "FxCamera App"
 date: 2011-02-17T12:12:00+00:00
-draft: true
+draft: false
 tags: ["android", "app", "blog-import", "camera", "geek", "retro"]
 categories: ['Geek']
 ---

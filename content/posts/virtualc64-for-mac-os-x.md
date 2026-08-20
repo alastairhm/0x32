@@ -1,7 +1,7 @@
 ---
 title: "VirtualC64 for Mac OS X"
 date: 2008-12-30T10:02:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "emulator", "free", "geek", "mac", "software"]
 categories: ['Geek']
 ---

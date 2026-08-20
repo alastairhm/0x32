@@ -1,7 +1,7 @@
 ---
 title: "Linux Geek Tux T-shirt and other stuff"
 date: 2010-04-23T13:10:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "t-shirt"]
 categories: ['Geek']
 ---

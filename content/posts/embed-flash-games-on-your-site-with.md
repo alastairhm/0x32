@@ -1,7 +1,7 @@
 ---
 title: "Embed Flash games on your site with Heyzap"
 date: 2009-05-27T18:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek"]
 categories: ['Geek']
 ---

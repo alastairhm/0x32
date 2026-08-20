@@ -1,7 +1,7 @@
 ---
 title: "Android-x86"
 date: 2014-02-17T11:31:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "geek"]
 categories: ['Geek']
 ---

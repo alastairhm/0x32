@@ -1,7 +1,7 @@
 ---
 title: "Call of the Python"
 date: 2010-02-26T08:05:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek", "programming", "python"]
 categories: ['Geek']
 ---

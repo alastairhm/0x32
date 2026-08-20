@@ -1,7 +1,7 @@
 ---
 title: "Chuckie Egg in DHTML"
 date: 2010-02-22T16:30:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek", "retro"]
 categories: ['Geek']
 ---

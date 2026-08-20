@@ -1,7 +1,7 @@
 ---
 title: "Firefox Universal Uploader Is Like an FTP Client for Popular Web Sites [Featured Firefox Extension]"
 date: 2008-09-30T08:55:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "browser", "geek", "software", "web"]
 categories: ['Geek']
 ---

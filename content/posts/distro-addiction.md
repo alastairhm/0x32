@@ -1,7 +1,7 @@
 ---
 title: "Distro Addiction"
 date: 2014-03-04T16:07:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "virtual-machine"]
 categories: ['Geek']
 ---

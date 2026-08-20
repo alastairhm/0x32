@@ -1,7 +1,7 @@
 ---
 title: "Linux Mint 10"
 date: 2010-10-20T12:32:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "mintlinux", "ubuntu", "virtual-machine", "websphere"]
 categories: ['Geek']
 ---

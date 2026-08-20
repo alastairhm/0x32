@@ -1,7 +1,7 @@
 ---
 title: "Puppy Linux 5"
 date: 2010-05-17T12:47:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Some Debug Required"
 date: 2013-03-17T21:51:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "blog-import", "geek", "lcd", "ruby", "sainsmart", "serial-port", "twitter"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Android Alastair"
 date: 2011-02-14T14:50:00+00:00
-draft: true
+draft: false
 tags: ["android", "app", "blog-import", "geek"]
 categories: ['Geek']
 ---

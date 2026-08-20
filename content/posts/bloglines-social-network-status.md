@@ -1,7 +1,7 @@
 ---
 title: "Social Network Status Generator"
 date: 2008-11-17T12:16:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "link", "social-network"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bare bones Arch Linux Install"
 date: 2013-07-30T13:25:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

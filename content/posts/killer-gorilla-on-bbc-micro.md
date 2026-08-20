@@ -1,7 +1,7 @@
 ---
 title: "Killer Gorilla on the BBC Micro"
 date: 2016-07-05T12:18:00+01:00
-draft: true
+draft: false
 tags: ["arcade", "bbc-micro", "blog-import", "emulator", "games", "geek", "retro", "video"]
 categories: ['Geek']
 ---

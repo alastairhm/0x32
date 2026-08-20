@@ -1,7 +1,7 @@
 ---
 title: "LCD shield"
 date: 2013-01-05T15:25:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "blog-import", "geek"]
 categories: ['Geek']
 ---

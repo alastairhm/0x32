@@ -1,7 +1,7 @@
 ---
 title: "DSTL1 Android Smartphone Is Battlestar Galactica's iPhone [Android]"
 date: 2009-01-28T12:31:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "phone", "wishlist"]
 categories: ['Geek']
 ---

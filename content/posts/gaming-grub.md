@@ -1,7 +1,7 @@
 ---
 title: "Gaming grub"
 date: 2008-10-06T12:41:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "link", "weird"]
 categories: ['Geek']
 ---

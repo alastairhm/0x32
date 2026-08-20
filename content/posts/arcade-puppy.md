@@ -1,7 +1,7 @@
 ---
 title: "Arcade Puppy"
 date: 2010-01-28T14:54:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "emulator", "games", "geek", "linux", "retro"]
 categories: ['Geek']
 ---

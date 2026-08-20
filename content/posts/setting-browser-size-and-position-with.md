@@ -1,7 +1,7 @@
 ---
 title: "Setting browser size and position with watir-webdriver"
 date: 2011-06-23T09:22:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "ruby", "watir", "web-testing", "webdriver"]
 categories: ['Geek']
 ---

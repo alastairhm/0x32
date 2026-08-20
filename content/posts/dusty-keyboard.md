@@ -1,7 +1,7 @@
 ---
 title: "Dusty Keyboard"
 date: 2009-08-11T12:43:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware", "linux"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Opera 9.6 released"
 date: 2008-10-09T11:04:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "browser", "free", "geek", "software"]
 categories: ['Geek']
 ---

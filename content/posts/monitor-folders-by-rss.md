@@ -1,7 +1,7 @@
 ---
 title: "Monitor Folders By RSS"
 date: 2009-01-28T09:36:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "rss", "software"]
 categories: ['Geek']
 ---

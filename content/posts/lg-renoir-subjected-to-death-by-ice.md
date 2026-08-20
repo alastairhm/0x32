@@ -1,7 +1,7 @@
 ---
 title: "LG Renoir Subjected to Death by Ice, Water, Wind, and Earth Tests  [Cellphones]"
 date: 2009-01-29T14:19:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "phone", "weird"]
 categories: ['Geek']
 ---

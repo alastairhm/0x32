@@ -1,7 +1,7 @@
 ---
 title: "Eee PC Touch Demo"
 date: 2009-01-20T11:36:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "hardware", "video", "wishlist"]
 categories: ['Geek']
 ---

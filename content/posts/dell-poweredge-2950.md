@@ -1,7 +1,7 @@
 ---
 title: "Dell PowerEdge 2950"
 date: 2009-06-17T12:10:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware"]
 categories: ['Geek']
 ---

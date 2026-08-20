@@ -1,7 +1,7 @@
 ---
 title: "Neuros Link Media PC - stream multimedia around and about"
 date: 2009-01-10T20:04:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware", "media", "wishlist"]
 categories: ['Geek']
 ---

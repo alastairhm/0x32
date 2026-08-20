@@ -1,7 +1,7 @@
 ---
 title: "Doom + Heretic + Hexen (in your browser) = Epic Win - Time Waster"
 date: 2009-05-26T18:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Liberate Yourself from Old Email Addresses [How To]"
 date: 2008-11-17T12:23:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "email", "geek"]
 categories: ['Geek']
 ---

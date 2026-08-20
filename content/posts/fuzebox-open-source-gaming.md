@@ -1,7 +1,7 @@
 ---
 title: "Fuzebox, open source gaming"
 date: 2008-11-26T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek", "hardware", "homebrew"]
 categories: ['Geek']
 ---

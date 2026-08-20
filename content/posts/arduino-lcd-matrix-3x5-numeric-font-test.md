@@ -1,7 +1,7 @@
 ---
 title: "Arduino LCD Matrix 3x5 Numeric Font Test"
 date: 2015-01-29T12:47:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "blog-import", "geek", "lcd"]
 categories: ['Geek']
 ---

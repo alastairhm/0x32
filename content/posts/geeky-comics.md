@@ -1,7 +1,7 @@
 ---
 title: "Geeky Comics"
 date: 2008-10-03T10:07:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "humour"]
 categories: ['Geek']
 ---

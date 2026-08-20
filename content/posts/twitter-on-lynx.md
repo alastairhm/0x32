@@ -1,7 +1,7 @@
 ---
 title: "Twitter on Lynx"
 date: 2009-09-14T09:10:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "twitter", "web"]
 categories: ['Geek']
 ---

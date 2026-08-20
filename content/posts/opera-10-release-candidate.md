@@ -1,7 +1,7 @@
 ---
 title: "Opera 10 Release Candidate"
 date: 2009-08-26T12:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "browser", "geek", "web"]
 categories: ['Geek']
 ---

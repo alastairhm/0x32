@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi Piwigo Instance Live"
 date: 2013-04-26T10:43:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "piwigo", "raspberry-pi"]
 categories: ['Geek']
 ---

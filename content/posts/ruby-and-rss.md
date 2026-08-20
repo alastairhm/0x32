@@ -1,7 +1,7 @@
 ---
 title: "Ruby and RSS"
 date: 2011-07-21T16:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "programming", "rss", "ruby"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Setting up Piwigo on Raspberry Pi"
 date: 2013-04-10T23:20:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "gallery", "geek", "piwigo", "raspberry-pi"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "40 Great Computer Desktop Mods"
 date: 2009-01-29T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "graphics", "software"]
 categories: ['Geek']
 ---

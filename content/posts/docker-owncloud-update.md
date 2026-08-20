@@ -1,7 +1,7 @@
 ---
 title: "Docker OwnCloud Update"
 date: 2016-04-13T12:48:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "docker", "geek", "nginx", "owncloud"]
 categories: ['Geek']
 ---

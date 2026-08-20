@@ -1,7 +1,7 @@
 ---
 title: "USB 2.0"
 date: 2009-06-18T10:20:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek"]
 categories: ['Geek']
 ---

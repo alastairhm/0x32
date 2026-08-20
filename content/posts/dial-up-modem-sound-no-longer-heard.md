@@ -1,7 +1,7 @@
 ---
 title: "Dial Up Modem, sound no longer heard?"
 date: 2009-01-13T16:11:00+00:00
-draft: true
+draft: false
 tags: ["audio", "blog-import", "geek", "retro"]
 categories: ['Geek']
 ---

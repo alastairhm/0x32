@@ -1,7 +1,7 @@
 ---
 title: "Get Your Geek On"
 date: 2014-03-07T12:24:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek"]
 categories: ['Geek']
 ---

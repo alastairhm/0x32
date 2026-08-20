@@ -1,7 +1,7 @@
 ---
 title: "CrunchBang offers a lightweight but powerful Linux desktop"
 date: 2009-01-26T12:30:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "If programming languages were religions"
 date: 2008-12-17T13:47:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "humour", "programming"]
 categories: ['Geek']
 ---

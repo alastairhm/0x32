@@ -1,7 +1,7 @@
 ---
 title: "The Secret Of Monkey Island on DosBox"
 date: 2009-07-01T13:57:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "dos", "emulator", "games", "geek", "retro"]
 categories: ['Geek']
 ---

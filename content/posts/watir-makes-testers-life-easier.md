@@ -1,7 +1,7 @@
 ---
 title: "WATIR makes a tester's life easier."
 date: 2011-06-29T14:36:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "ruby", "watir", "web-testing", "webdriver"]
 categories: ['Geek']
 ---

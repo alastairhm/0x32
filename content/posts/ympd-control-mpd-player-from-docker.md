@@ -1,7 +1,7 @@
 ---
 title: "ympd - Control MPD player from a Docker Image"
 date: 2016-04-28T12:24:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "docker", "geek", "mp3", "mpd", "music", "radio"]
 categories: ['Geek']
 ---

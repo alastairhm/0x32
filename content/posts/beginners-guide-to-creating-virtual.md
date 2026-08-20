@@ -1,7 +1,7 @@
 ---
 title: "The Beginner's Guide to Creating Virtual Machines with VirtualBox  [How-to]"
 date: 2009-04-17T03:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "howto", "virtual-machine"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Counting up to 1023"
 date: 2012-11-25T22:03:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "binary", "blog-import", "electronics", "geek"]
 categories: ['Geek']
 ---

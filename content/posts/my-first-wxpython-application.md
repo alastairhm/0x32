@@ -1,7 +1,7 @@
 ---
 title: "My first wxPython application"
 date: 2008-12-05T16:30:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "programming", "python", "web"]
 categories: ['Geek']
 ---

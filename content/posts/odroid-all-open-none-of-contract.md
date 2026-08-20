@@ -1,7 +1,7 @@
 ---
 title: "Odroid: all the open, none of the contract"
 date: 2009-12-16T12:00:00+00:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "geek", "hardware", "opensource"]
 categories: ['Geek']
 ---

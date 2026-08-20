@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu installing Websphere 7 (Success)"
 date: 2009-07-31T10:22:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "problem", "solved", "web-server", "websphere"]
 categories: ['Geek']
 ---

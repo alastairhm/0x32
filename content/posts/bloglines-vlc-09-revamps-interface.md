@@ -1,7 +1,7 @@
 ---
 title: "VLC 0.9 Revamps Interface, Playlist Features [Featured Download]"
 date: 2008-09-29T15:18:00+01:00
-draft: true
+draft: false
 tags: ["audio", "blog-import", "free", "geek", "software", "video"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dusting off the iron"
 date: 2012-12-03T21:44:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "electronics", "geek"]
 categories: ['Geek']
 ---

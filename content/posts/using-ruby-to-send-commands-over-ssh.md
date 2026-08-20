@@ -1,7 +1,7 @@
 ---
 title: "Using Ruby to send commands over SSH"
 date: 2012-10-23T15:29:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "commands", "geek", "linux", "ruby", "ssh"]
 categories: ['Geek']
 ---

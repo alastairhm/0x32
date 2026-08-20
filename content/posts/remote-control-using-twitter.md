@@ -1,7 +1,7 @@
 ---
 title: "Remote control using Twitter"
 date: 2010-01-22T12:30:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "python", "twitter"]
 categories: ['Geek']
 ---

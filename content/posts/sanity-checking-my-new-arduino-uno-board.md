@@ -1,7 +1,7 @@
 ---
 title: "Sanity Checking my new Arduino Uno Board"
 date: 2012-11-22T22:13:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "binary", "blog-import", "electronics", "geek"]
 categories: ['Geek']
 ---

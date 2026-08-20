@@ -1,7 +1,7 @@
 ---
 title: "Nintendo DS Homebrew"
 date: 2008-11-13T10:39:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "homebrew", "nintendo", "software"]
 categories: ['Geek']
 ---

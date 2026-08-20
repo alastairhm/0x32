@@ -1,7 +1,7 @@
 ---
 title: "xPUD is a light weight Linux distro that boots in just 10 seconds"
 date: 2009-04-15T00:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Google Chrome OS First Look"
 date: 2009-11-23T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "google", "operating-system", "virtual-machine"]
 categories: ['Geek']
 ---

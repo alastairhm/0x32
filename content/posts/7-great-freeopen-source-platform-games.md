@@ -1,7 +1,7 @@
 ---
 title: "7 Great Free/Open-source Platform Games for Linux"
 date: 2009-01-14T09:03:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "games", "geek", "linux"]
 categories: ['Geek']
 ---

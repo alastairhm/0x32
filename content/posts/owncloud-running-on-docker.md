@@ -1,7 +1,7 @@
 ---
 title: "Owncloud running on Docker"
 date: 2016-04-09T16:37:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "devops", "docker", "geek", "owncloud"]
 categories: ['Geek']
 ---

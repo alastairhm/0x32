@@ -1,7 +1,7 @@
 ---
 title: "Find Images by Exact Dimensions, Make Wallpaper Search a Breeze  [Google School]"
 date: 2009-01-29T10:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "browser", "geek", "graphics", "python"]
 categories: ['Geek']
 ---

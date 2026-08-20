@@ -1,7 +1,7 @@
 ---
 title: "Ghost Blog, Docker compose example"
 date: 2016-04-09T17:01:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "docker", "docker-compose", "geek", "ghost", "mysql"]
 categories: ['Geek']
 ---

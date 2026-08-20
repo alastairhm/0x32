@@ -1,7 +1,7 @@
 ---
 title: "Creating a Ruby/ Sinatra dev environment"
 date: 2013-02-08T12:28:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "dev", "geek", "puppet", "ruby", "vagrant"]
 categories: ['Geek']
 ---

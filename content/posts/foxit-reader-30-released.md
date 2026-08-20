@@ -1,7 +1,7 @@
 ---
 title: "Foxit Reader 3.0 Released"
 date: 2008-11-25T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "geek", "software"]
 categories: ['Geek']
 ---

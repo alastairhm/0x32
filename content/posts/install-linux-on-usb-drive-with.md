@@ -1,7 +1,7 @@
 ---
 title: "Install Linux on a USB drive with UNetbootin"
 date: 2008-12-17T12:36:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

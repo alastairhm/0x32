@@ -1,7 +1,7 @@
 ---
 title: "MediaMonkey"
 date: 2008-10-08T08:26:00+01:00
-draft: true
+draft: false
 tags: ["audio", "blog-import", "geek", "software"]
 categories: ['Geek']
 ---

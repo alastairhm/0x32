@@ -1,7 +1,7 @@
 ---
 title: "GIMP 2.6 open source image editor launched"
 date: 2008-10-02T09:23:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "geek", "graphics", "software"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "No static external IP on Raspberry Pi"
 date: 2014-01-12T14:07:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "raspberry-pi", "ruby", "twitter"]
 categories: ['Geek']
 ---

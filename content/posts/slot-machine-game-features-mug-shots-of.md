@@ -1,7 +1,7 @@
 ---
 title: "Slot machine game features mug-shots of Japan's most wanted"
 date: 2008-11-17T12:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "news", "weird"]
 categories: ['Geek']
 ---

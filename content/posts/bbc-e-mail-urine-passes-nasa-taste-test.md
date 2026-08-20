@@ -1,7 +1,7 @@
 ---
 title: "BBC E-mail: Urine passes Nasa taste test"
 date: 2008-11-15T21:31:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "news", "space"]
 categories: ['Geek']
 ---

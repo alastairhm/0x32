@@ -1,7 +1,7 @@
 ---
 title: "Raspbmc"
 date: 2013-05-27T16:36:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "raspberry-pi", "raspbmc", "xmbc"]
 categories: ['Geek']
 ---

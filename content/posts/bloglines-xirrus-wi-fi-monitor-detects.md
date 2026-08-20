@@ -1,7 +1,7 @@
 ---
 title: "Xirrus Wi-Fi Monitor Detects Wireless Networks [Featured Download]"
 date: 2008-09-26T16:06:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "geek", "software", "wifi"]
 categories: ['Geek']
 ---

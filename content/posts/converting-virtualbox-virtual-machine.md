@@ -1,7 +1,7 @@
 ---
 title: "Converting a Virtualbox virtual machine to VMWare"
 date: 2009-06-04T13:49:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "virtual-machine"]
 categories: ['Geek']
 ---

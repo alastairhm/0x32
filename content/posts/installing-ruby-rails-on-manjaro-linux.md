@@ -1,7 +1,7 @@
 ---
 title: "Installing Ruby Rails on Manjaro Linux"
 date: 2014-02-28T12:08:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "manjaro", "rails", "ruby"]
 categories: ['Geek']
 ---

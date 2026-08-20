@@ -1,7 +1,7 @@
 ---
 title: "Yama Vac Pot"
 date: 2008-10-02T09:27:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "wishlist"]
 categories: ['Geek']
 ---

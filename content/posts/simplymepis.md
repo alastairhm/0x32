@@ -1,7 +1,7 @@
 ---
 title: "SimplyMEPIS"
 date: 2009-08-25T14:59:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "virtual-machine"]
 categories: ['Geek']
 ---

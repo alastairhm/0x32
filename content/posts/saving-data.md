@@ -1,7 +1,7 @@
 ---
 title: "Saving data"
 date: 2009-06-02T08:38:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware"]
 categories: ['Geek']
 ---

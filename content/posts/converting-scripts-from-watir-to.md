@@ -1,7 +1,7 @@
 ---
 title: "Converting scripts from Watir to Webdriver, Table size"
 date: 2011-05-11T15:45:00+01:00
-draft: true
+draft: false
 tags: ["automated-testing", "blog-import", "geek", "ruby", "watir", "web-testing", "webdriver"]
 categories: ['Geek']
 ---

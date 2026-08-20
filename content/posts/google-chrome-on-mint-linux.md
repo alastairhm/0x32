@@ -1,7 +1,7 @@
 ---
 title: "Google Chrome on Mint Linux"
 date: 2009-07-07T11:51:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "browser", "geek", "linux", "web"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Arduino Uno Serial Message Project at Code Bender"
 date: 2014-03-26T14:08:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "blog-import", "codebender", "geek", "lcd", "serial-port"]
 categories: ['Geek']
 ---

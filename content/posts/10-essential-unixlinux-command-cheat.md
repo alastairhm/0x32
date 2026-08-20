@@ -1,7 +1,7 @@
 ---
 title: "10 Essential UNIX/Linux Command Cheat Sheets"
 date: 2009-08-05T12:00:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "reference"]
 categories: ['Geek']
 ---

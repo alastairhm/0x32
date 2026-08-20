@@ -1,7 +1,7 @@
 ---
 title: "AarLogic C10/3 - the matchbox sized Linux PC"
 date: 2009-03-30T09:53:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware", "linux"]
 categories: ['Geek']
 ---

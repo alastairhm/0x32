@@ -1,7 +1,7 @@
 ---
 title: "Manipulate Vector Images with Open Source Inkscape [Featured Download]"
 date: 2008-12-24T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "geek", "graphics", "software"]
 categories: ['Geek']
 ---

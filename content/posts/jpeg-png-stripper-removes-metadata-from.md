@@ -1,7 +1,7 @@
 ---
 title: "JPEG & PNG Stripper Removes the Metadata from Your Images [Downloads]"
 date: 2009-02-10T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "geek", "graphics", "software"]
 categories: ['Geek']
 ---

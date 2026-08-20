@@ -1,7 +1,7 @@
 ---
 title: "Sabayon 14.01"
 date: 2014-02-17T13:34:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "gentoo", "linux"]
 categories: ['Geek']
 ---

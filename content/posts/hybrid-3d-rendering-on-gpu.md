@@ -1,7 +1,7 @@
 ---
 title: "Hybrid 3d rendering on GPU"
 date: 2008-11-24T12:10:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "graphics", "hardware", "link"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sainsmart LCD Shield Test"
 date: 2013-03-06T22:35:00+00:00
-draft: true
+draft: false
 tags: ["arduino", "blog-import", "geek", "lcd"]
 categories: ['Geek']
 ---

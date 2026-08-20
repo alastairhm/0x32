@@ -1,7 +1,7 @@
 ---
 title: "Tweet from the command line with Twidge"
 date: 2009-11-19T07:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "twitter"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Spice up Your Desktop With Lightweight Wallpaper Shifter [Featured Windows Download]"
 date: 2008-11-24T20:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "link", "software"]
 categories: ['Geek']
 ---

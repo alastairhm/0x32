@@ -1,7 +1,7 @@
 ---
 title: "My Workspace"
 date: 2009-06-03T14:26:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware"]
 categories: ['Geek']
 ---

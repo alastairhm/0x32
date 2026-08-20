@@ -1,7 +1,7 @@
 ---
 title: "In Car MP3 Player"
 date: 2008-11-11T08:03:00+00:00
-draft: true
+draft: false
 tags: ["audio", "blog-import", "car", "gadgets", "geek"]
 categories: ['Geek']
 ---

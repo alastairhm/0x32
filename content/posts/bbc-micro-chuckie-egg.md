@@ -1,7 +1,7 @@
 ---
 title: "BBC Micro Chuckie Egg"
 date: 2016-07-06T12:57:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek"]
 categories: ['Geek']
 ---

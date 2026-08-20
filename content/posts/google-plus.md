@@ -1,7 +1,7 @@
 ---
 title: "Google Plus"
 date: 2011-07-01T10:50:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "social-network"]
 categories: ['Geek']
 ---

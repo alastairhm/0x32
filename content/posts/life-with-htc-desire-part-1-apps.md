@@ -1,7 +1,7 @@
 ---
 title: "Life with a HTC Desire Part 1 Apps"
 date: 2010-04-22T12:00:00+01:00
-draft: true
+draft: false
 tags: ["android", "blog-import", "geek", "htc-desire", "phone"]
 categories: ['Geek']
 ---

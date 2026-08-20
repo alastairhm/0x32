@@ -1,7 +1,7 @@
 ---
 title: "Like this blog?"
 date: 2013-11-29T16:09:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek"]
 categories: ['Geek']
 ---

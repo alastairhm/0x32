@@ -1,7 +1,7 @@
 ---
 title: "Opera 10 Beta"
 date: 2009-06-04T09:06:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "browser", "geek", "software"]
 categories: ['Geek']
 ---

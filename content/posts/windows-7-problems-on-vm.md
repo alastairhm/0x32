@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Problems on a VM"
 date: 2009-06-11T16:02:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "virtual-machine", "windows"]
 categories: ['Geek']
 ---

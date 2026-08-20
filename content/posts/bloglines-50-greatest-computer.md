@@ -1,7 +1,7 @@
 ---
 title: "50 Greatest Computer Workstation (PC/Mac) Setups"
 date: 2008-11-26T12:45:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware"]
 categories: ['Geek']
 ---

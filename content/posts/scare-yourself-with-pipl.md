@@ -1,7 +1,7 @@
 ---
 title: "Scare yourself with Pipl"
 date: 2008-09-30T08:23:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "search", "web"]
 categories: ['Geek']
 ---

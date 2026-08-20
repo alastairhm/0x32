@@ -1,7 +1,7 @@
 ---
 title: "Twitter from Ruby"
 date: 2011-07-21T13:20:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "opensource", "programming", "ruby", "twitter"]
 categories: ['Geek']
 ---

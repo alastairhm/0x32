@@ -1,7 +1,7 @@
 ---
 title: "LG SDK Test"
 date: 2009-06-17T12:15:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek"]
 categories: ['Geek']
 ---

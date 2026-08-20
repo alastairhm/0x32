@@ -1,7 +1,7 @@
 ---
 title: "Build Your Own Paper Airplane Launcher"
 date: 2008-12-09T08:31:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "weird"]
 categories: ['Geek']
 ---

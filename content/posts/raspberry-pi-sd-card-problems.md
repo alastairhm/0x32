@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi SD Card problems"
 date: 2012-06-11T11:41:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "problem", "raspberry-pi"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dungeon Crawl Stone Soup"
 date: 2009-07-31T16:01:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek"]
 categories: ['Geek']
 ---

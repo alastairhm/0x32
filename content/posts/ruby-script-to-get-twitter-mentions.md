@@ -1,7 +1,7 @@
 ---
 title: "Ruby Script to get Twitter mentions"
 date: 2013-03-14T14:15:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "ruby", "twitter"]
 categories: ['Geek']
 ---

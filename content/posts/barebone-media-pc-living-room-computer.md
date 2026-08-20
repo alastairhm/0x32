@@ -1,7 +1,7 @@
 ---
 title: "Barebone Media PC - living room computer gets the retro VCR treatment"
 date: 2009-03-03T14:02:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware", "wishlist"]
 categories: ['Geek']
 ---

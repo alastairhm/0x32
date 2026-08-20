@@ -1,7 +1,7 @@
 ---
 title: "12 days of bugmas"
 date: 2008-12-18T12:29:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "humour"]
 categories: ['Geek']
 ---

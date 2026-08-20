@@ -1,7 +1,7 @@
 ---
 title: "Handbrake 0.94 transcodes DVDs even faster"
 date: 2009-11-26T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "free", "geek", "media", "software", "video"]
 categories: ['Geek']
 ---

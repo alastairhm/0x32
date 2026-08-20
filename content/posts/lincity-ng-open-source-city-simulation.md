@@ -1,7 +1,7 @@
 ---
 title: "LinCity-NG – the open source city simulation game"
 date: 2009-12-17T12:00:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek", "linux", "opensource"]
 categories: ['Geek']
 ---

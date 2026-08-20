@@ -1,7 +1,7 @@
 ---
 title: "[BBC] James May's Big Ideas: Man-Machine"
 date: 2008-10-06T12:08:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "link", "video"]
 categories: ['Geek']
 ---

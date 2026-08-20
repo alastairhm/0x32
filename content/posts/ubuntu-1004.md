@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu 10.04"
 date: 2009-12-15T15:20:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "ubuntu", "virtual-machine"]
 categories: ['Geek']
 ---

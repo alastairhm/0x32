@@ -1,7 +1,7 @@
 ---
 title: "Lighttpd running on my Raspberry Pi"
 date: 2013-04-10T22:02:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "lighttpd", "raspberry-pi"]
 categories: ['Geek']
 ---

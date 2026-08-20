@@ -1,7 +1,7 @@
 ---
 title: "Addicted to statistics, average MPG"
 date: 2009-05-06T14:47:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "car", "geek"]
 categories: ['Geek']
 ---

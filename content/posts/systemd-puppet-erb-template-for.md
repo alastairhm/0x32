@@ -1,7 +1,7 @@
 ---
 title: "SystemD Puppet ERB Template for Clustered Minio"
 date: 2017-10-21T13:58:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "devops", "geek", "minio", "puppet", "systemd"]
 categories: ['Geek']
 ---

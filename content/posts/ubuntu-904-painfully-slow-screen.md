@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu 9.04 painfully slow screen redraws, any ideas?"
 date: 2009-07-16T09:40:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "problem"]
 categories: ['Geek']
 ---

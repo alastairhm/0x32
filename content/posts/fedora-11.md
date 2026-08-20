@@ -1,7 +1,7 @@
 ---
 title: "Fedora 11"
 date: 2009-06-10T15:45:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---

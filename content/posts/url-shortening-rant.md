@@ -1,7 +1,7 @@
 ---
 title: "URL Shortening Rant"
 date: 2009-08-25T08:03:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "rant", "twitter", "web"]
 categories: ['Geek']
 ---

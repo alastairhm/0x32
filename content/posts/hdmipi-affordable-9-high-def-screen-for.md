@@ -1,7 +1,7 @@
 ---
 title: "HDMIPi Affordable 9\" High-Def screen for the Raspberry Pi"
 date: 2013-11-01T11:53:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "kickstarter", "raspberry-pi"]
 categories: ['Geek']
 ---

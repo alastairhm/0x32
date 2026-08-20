@@ -1,7 +1,7 @@
 ---
 title: "Take two cameras into the shower?"
 date: 2009-01-22T13:49:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "camera", "gadgets", "geek", "wishlist"]
 categories: ['Geek']
 ---

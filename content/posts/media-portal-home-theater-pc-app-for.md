@@ -1,7 +1,7 @@
 ---
 title: "Media Portal home theater PC app for Windows hits 1.0"
 date: 2008-12-24T14:17:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "linux", "media"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Retro Camera App Android"
 date: 2011-02-15T17:00:00+00:00
-draft: true
+draft: false
 tags: ["android", "app", "blog-import", "camera", "geek", "retro"]
 categories: ['Geek']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "First boot"
 date: 2012-06-23T15:13:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "raspberry-pi"]
 categories: ['Geek']
 ---

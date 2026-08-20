@@ -1,7 +1,7 @@
 ---
 title: "Phillips Making 21:9 TV"
 date: 2009-01-20T08:46:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "gadgets", "geek", "hardware", "wishlist"]
 categories: ['Geek']
 ---

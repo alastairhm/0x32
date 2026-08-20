@@ -1,7 +1,7 @@
 ---
 title: "Oracle Weblogic Server 11g"
 date: 2009-09-10T13:29:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "software"]
 categories: ['Geek']
 ---

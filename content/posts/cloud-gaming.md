@@ -1,7 +1,7 @@
 ---
 title: "Cloud Gaming"
 date: 2012-06-11T11:34:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek"]
 categories: ['Geek']
 ---

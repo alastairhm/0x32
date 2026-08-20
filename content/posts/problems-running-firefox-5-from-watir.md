@@ -1,7 +1,7 @@
 ---
 title: "Problems running Firefox 5 from watir-webdriver on Mac OS 10.5"
 date: 2011-07-29T14:15:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "firefox", "geek", "watir", "web-testing", "webdriver", "workaround"]
 categories: ['Geek']
 ---

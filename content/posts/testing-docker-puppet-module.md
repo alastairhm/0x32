@@ -1,7 +1,7 @@
 ---
 title: "Testing Docker Puppet Module"
 date: 2015-02-04T14:59:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "docker", "geek", "puppet", "vagrant"]
 categories: ['Geek']
 ---

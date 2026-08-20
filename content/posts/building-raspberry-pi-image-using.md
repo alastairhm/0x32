@@ -1,7 +1,7 @@
 ---
 title: "Building Raspberry PI image using Vagrant"
 date: 2016-12-20T09:03:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "custom", "geek", "image", "raspberry-pi", "vagrant"]
 categories: ['Geek']
 ---

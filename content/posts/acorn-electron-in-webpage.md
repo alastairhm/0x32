@@ -1,7 +1,7 @@
 ---
 title: "Acorn Electron in a webpage"
 date: 2015-10-02T15:36:00+01:00
-draft: true
+draft: false
 tags: ["blog-import", "emulator", "gaming", "geek", "retro"]
 categories: ['Geek']
 ---

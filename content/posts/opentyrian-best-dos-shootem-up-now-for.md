@@ -1,7 +1,7 @@
 ---
 title: "OpenTyrian - The Best DOS Shoot’em Up - Now for Windows XP/..."
 date: 2009-01-29T12:05:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "games", "geek", "linux", "nintendo", "windows"]
 categories: ['Geek']
 ---

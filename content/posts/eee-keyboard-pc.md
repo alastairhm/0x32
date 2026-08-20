@@ -1,7 +1,7 @@
 ---
 title: "Eee Keyboard PC"
 date: 2009-03-24T19:28:00+00:00
-draft: true
+draft: false
 tags: ["blog-import", "geek", "hardware", "wishlist"]
 categories: ['Geek']
 ---

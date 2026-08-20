@@ -1,0 +1,9 @@
+---
+title: "Context Free Software"
+date: 2008-04-08T12:28:00+01:00
+draft: true
+tags: ["software"]
+categories: ['Creative']
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2VcOBsT8A_F-CvfoCcMKoxZ77nldQCI0L16bvp5HZQOGKl_0PuTkzswApKNnAUAdJfTlmivjc6q0nK-CJ9QiXC-rLs584yUFCMu1iQNhP432juPVDYdHE3Y4_HpdI75ijSkB0Wqlo6Q/s1600-h/Context+Free+Art.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2VcOBsT8A_F-CvfoCcMKoxZ77nldQCI0L16bvp5HZQOGKl_0PuTkzswApKNnAUAdJfTlmivjc6q0nK-CJ9QiXC-rLs584yUFCMu1iQNhP432juPVDYdHE3Y4_HpdI75ijSkB0Wqlo6Q/s200/Context+Free+Art.jpg" alt="" id="BLOGGER_PHOTO_ID_5186835183351118802" border="0" /></a><i><a href="http://www.contextfreeart.org/index.html">Context Free</a> is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.</i><p>CFDG is a simple language for generating stunning images. With only a few lines you can describe abstract art, beautiful organic scenery, and many kinds of fractals. It's highly addictive!</p><p><a href="http://www.contextfreeart.org/">http://www.contextfreeart.org/</a><br /></p>                  <h2><br /></h2><p><span style="font-size:85%;">Alastair's Fractals <a href="http://alsfractals.blogspot.com/">Main Page</a>,<br /><a href="http://www.cafepress.com/alastair_hm">My Shop at CafePress</a>, <a href="http://www.zazzle.com/doodle_m*">My Shop at Zazzle</a> <a href="http://tinyurl.com/28ufx8">Sign My Guestbook</a><br /><a href="http://tinyurl.com/yofz2a"><img src="http://tinyurl.com/ysfcth" alt="In association with Zazzle.com" border="0" height="57" width="141" /></a></span></p><p>© Alastair Montgomery 2008</p>

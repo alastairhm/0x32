@@ -1,0 +1,8 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <article class="pa3 pa4-ns">
+    <div class="mw8 center">
+      {{- .Content -}}
+    </div>
+  </article>
+{{ end }}

@@ -1,0 +1,11 @@
+---
+title: "Nikon D50, try before you buy"
+date: 2009-09-16T07:24:00+00:00
+draft: true
+tags: ["blog-import", "dog", "lg-renoir", "nikon-d50", "photography", "picture", "sunrise", "urban"]
+categories: ['Creative']
+---
+
+> **Note:** 1 of this post's 11 links is now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
+<a href="http://www.flickr.com/photos/doodle_m/3924811273/" title="photo sharing"><img src="http://farm3.static.flickr.com/2427/3924811273_db2bb423d6_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br /><span style=" margin-top: 0px;font-size:0.9em;"><a href="http://www.flickr.com/photos/doodle_m/3924811273/">Nikon D50, try before you buy</a><br />Originally uploaded by <a href="http://www.flickr.com/people/doodle_m/">Alastair Montgomery</a></span> <p>My friend Adrian has kindly let me try before I buy on his Nikon D50.<br /><br />He's doing me a cracking deal with two lens since he's bought himself a new D3000.<br /><br />Taken with my LG Renoir</p><br />Here's a couple of my first shots with it.<br /><a href="http://www.flickr.com/photos/doodle_m/3924923887/" title="York Science Park by Alastair Montgomery, on Flickr"><img src="http://farm4.static.flickr.com/3490/3924923887_bf6cb40e9f.jpg" width="500" height="292" alt="York Science Park" /></a><br /><a href="http://www.flickr.com/photos/doodle_m/3924177770/" title="Wilson the Dog by Alastair Montgomery, on Flickr"><img src="http://farm3.static.flickr.com/2641/3924177770_e4eb713f25.jpg" width="500" height="469" alt="Wilson the Dog" /></a><br /><a href="http://www.flickr.com/photos/doodle_m/3925816370/" title="York Science Park 2 by Alastair Montgomery, on Flickr"><img src="http://farm4.static.flickr.com/3264/3925816370_cd6ca2ccc7.jpg" width="500" height="333" alt="York Science Park 2" /></a><br /><a href="http://www.flickr.com/photos/doodle_m/3926013060/" title="York Science Park Decay by Alastair Montgomery, on Flickr"><img src="http://farm4.static.flickr.com/3505/3926013060_cc8fc4e986.jpg" width="500" height="325" alt="York Science Park Decay" /></a>

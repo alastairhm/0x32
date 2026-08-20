@@ -1,0 +1,9 @@
+---
+title: "On the Moor"
+date: 2006-07-25T10:16:00+00:00
+draft: true
+tags: ["blog-import", "photography", "picture"]
+categories: ['Creative']
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/485/2499/1600/Dry_Stone_Wall_on_the_moors_by_sicklittlemonkey.jpg"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/200/Dry_Stone_Wall_on_the_moors_by_sicklittlemonkey.jpg" alt="" border="0" /></a><br /><a href="http://www.deviantart.com/view/36183162/">http://www.deviantart.com/view/36183162/</a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/485/2499/1600/Moor_View_2_by_sicklittlemonkey.jpg"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/200/Moor_View_2_by_sicklittlemonkey.jpg" alt="" border="0" /></a><br /><a href="http://www.deviantart.com/view/36242988/">http://www.deviantart.com/view/36242988/</a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/485/2499/1600/Moor_View_by_sicklittlemonkey.jpg"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/200/Moor_View_by_sicklittlemonkey.jpg" alt="" border="0" /></a><br /><a href="http://www.deviantart.com/view/36190632/">http://www.deviantart.com/view/36190632/</a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/485/2499/1600/Lonely_Road_by_sicklittlemonkey.jpg"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/200/Lonely_Road_by_sicklittlemonkey.jpg" alt="" border="0" /></a><br /><a href="http://www.deviantart.com/view/36832788/">http://www.deviantart.com/view/36832788/</a>

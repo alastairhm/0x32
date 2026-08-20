@@ -1,0 +1,11 @@
+---
+title: "Thirsk Market"
+date: 2010-04-01T11:33:00+00:00
+draft: true
+tags: ["blog-import", "nikon-d50", "photography", "picture", "street", "uk"]
+categories: ['Creative']
+---
+
+> **Note:** 8 of this post's 15 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
+<p><span style="font-size:85%;">Some street photography of Thirsk market.</span></p><a href="http://www.flickr.com/photos/doodle_m/4474428910/" title="Thisrk Market 1 Pigs Ears by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4061/4474428910_da5da5c620.jpg" width="500" height="333" alt="Thisrk Market 1 Pigs Ears" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/4473654037/" title="Thisrk Market 2 by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4064/4473654037_16b33556bd.jpg" width="500" height="333" alt="Thisrk Market 2" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/4473655719/" title="Thisrk Market 3 by Alastair Montgomery, on Flickr"><img src="http://farm3.static.flickr.com/2752/4473655719_5a8d4827e0.jpg" width="333" height="500" alt="Thisrk Market 3" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/4474435316/" title="Thisrk Market 4 by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4070/4474435316_e4d064d683.jpg" width="500" height="354" alt="Thisrk Market 4" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/4474437308/" title="Thisrk Market 5 by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4071/4474437308_2c00925d73.jpg" width="333" height="500" alt="Thisrk Market 5" /></a><br /><br /><p><span style="font-size:85%;">At least no one approached me to stopped taking pictures under "terror laws".</span></p><p><span style="font-size:85%;">Alastair Montgomery's Photography<br /><a href="http://doodlem.blogspot.com/">Main Page</a>,<br /><a href="http://www.zazzle.com/doodle_m*">My Shop at Zazzle</a> <a href="http://tinyurl.com/28ufx8">Sign My Guestbook</a><br /><a href="http://www.twitter.com/alastair_hm" border="0"><img src="http://i186.photobucket.com/albums/x259/alastair_hm/twitter4.png" /></a></span></p>

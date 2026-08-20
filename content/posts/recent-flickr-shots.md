@@ -1,0 +1,11 @@
+---
+title: "Recent Flickr Shots"
+date: 2010-10-15T12:15:00+00:00
+draft: true
+tags: ["blog-import", "htc-desire", "landscape", "nikon-d50", "photography", "picture"]
+categories: ['Creative']
+---
+
+> **Note:** 7 of this post's 14 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
+<a href="http://www.flickr.com/photos/doodle_m/5070917079/" title="Bikes, boots and barkers by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4090/5070917079_68d93defb2.jpg" width="333" height="500" alt="Bikes, boots and barkers" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/5071519524/" title="Mod Mirrors by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4106/5071519524_1a719a706e.jpg" width="333" height="500" alt="Mod Mirrors" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/5038795088/" title="Red Sky At Night by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4145/5038795088_fe4862f8b0.jpg" width="500" height="304" alt="Red Sky At Night" /></a><br /><br /><a href="http://www.flickr.com/photos/doodle_m/5071356820/" title="On The Beach by Alastair Montgomery, on Flickr"><img src="http://farm5.static.flickr.com/4144/5071356820_c764bb229d.jpg" width="500" height="226" alt="On The Beach" /></a><br /><br /><p style="text-align: center;"><span style="font-size:85%;"><b>Alastair Montgomery's Photography</b></span></p><p style="text-align: center;"><span style="font-size:85%;"><a href="http://doodlem.blogspot.com/">Main Page</a> <a href="http://www.zazzle.com/doodle_m*">My Shop at Zazzle</a> <a href="http://sicklittlemonkey.deviantart.com/gallery/">DeviantArt Account</a> <a href="http://www.redbubble.com/people/Alastair">Red Bubble Account</a></span></p><p style="text-align: center;"><span style="font-size:85%;"><a href="http://www.redbubble.com/people/Alastair"></a><a href="http://www.zazzle.com/?rf=238269554763928881"><img src="http://i186.photobucket.com/albums/x259/alastair_hm/imagehost/home_10.gif" width="141" height="57" alt="In association with Zazzle.com" /></a></span></p>

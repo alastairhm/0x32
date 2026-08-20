@@ -1,0 +1,9 @@
+---
+title: "Pictures from York"
+date: 2006-06-08T11:53:00+00:00
+draft: true
+tags: ["blog-import", "cityscape", "photography", "picture", "uk"]
+categories: ['Creative']
+---
+
+A few pictures from a recent trip to York.<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.deviantart.com/view/34460975/"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/320/Shambles_in_York_2_by_sicklittlemonkey.jpg" alt="" border="0" /></a><br /><a href="http://www.deviantart.com/view/34460975/">http://www.deviantart.com/view/34460975/</a><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.deviantart.com/view/34460680/"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/320/Buildings_in_York_by_sicklittlemonkey.jpg" alt="" border="0" /></a><a href="http://www.deviantart.com/view/34460680/"><br />http://www.deviantart.com/view/34460680/</a><a href="http://www.deviantart.com/view/34427394/"><br /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.deviantart.com/view/34427394/"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/320/Shambles_in_York_by_sicklittlemonkey.jpg" alt="" border="0" /></a><a href="http://www.deviantart.com/view/34427394/"><br />http://www.deviantart.com/view/34427394/</a><a href="http://www.deviantart.com/view/34427250/"><br /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.deviantart.com/view/34427250/"><img style="cursor: pointer;" src="http://photos1.blogger.com/blogger/485/2499/320/Clifford__s_Tower_York_by_sicklittlemonkey.jpg" alt="" border="0" /></a><a href="http://www.deviantart.com/view/34427250/"><br />http://www.deviantart.com/view/34427250/</a>

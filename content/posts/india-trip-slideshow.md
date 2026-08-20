@@ -1,0 +1,11 @@
+---
+title: "India Trip Slideshow"
+date: 2010-11-23T12:52:00+00:00
+draft: true
+tags: ["animal", "blog-import", "india", "nikon-d50", "photography"]
+categories: ['Creative']
+---
+
+> **Note:** 3 of this post's 7 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
+<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fdoodle_m%2Fsets%2F72157625321903331%2Fshow%2F&page_show_back_url=%2Fphotos%2Fdoodle_m%2Fsets%2F72157625321903331%2F&set_id=72157625321903331&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fdoodle_m%2Fsets%2F72157625321903331%2Fshow%2F&page_show_back_url=%2Fphotos%2Fdoodle_m%2Fsets%2F72157625321903331%2F&set_id=72157625321903331&jump_to=" width="400" height="300"></embed></object><br /><br />Slideshow from my trip to India<br /><br /><br /><p style="text-align: center;"><span style="font-size:85%;"><b>Alastair Montgomery's Photography</b></span></p><p style="text-align: center;"><span style="font-size:85%;"><a href="http://doodlem.blogspot.com/">Main Page</a> <a href="http://www.zazzle.com/doodle_m*">My Shop at Zazzle</a> <a href="http://sicklittlemonkey.deviantart.com/gallery/">DeviantArt Account</a> <a href="http://www.redbubble.com/people/Alastair">Red Bubble Account</a></span></p><p style="text-align: center;"><span style="font-size:85%;"><a href="http://www.redbubble.com/people/Alastair"></a><a href="http://www.zazzle.com/?rf=238269554763928881"><img src="http://i186.photobucket.com/albums/x259/alastair_hm/imagehost/home_10.gif" width="141" height="57" alt="In association with Zazzle.com" /></a></span></p>

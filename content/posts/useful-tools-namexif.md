@@ -1,0 +1,11 @@
+---
+title: "Useful tools, Namexif"
+date: 2008-01-17T14:47:00+00:00
+draft: true
+tags: ["blog-import", "links", "photography", "software"]
+categories: ['Creative']
+---
+
+> **Note:** 4 of this post's 9 links are now broken — mostly deleted or made-private Flickr photos, dead Flickr `farmN` subdomains, and defunct feed-syndication infrastructure. Left as originally published.
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH8ov2GPpWHQHPD_h8WaqJNP69CmbQX1F3JYGtoHNDPfqZ917PK5Bi3ZX2HTCwH1xkSzWTjVnvbiji8XA4kRVuFvUOUZsy4P0hE6zWpvEpKtpmlv_3sZ1_LB5Y4Y9rquD71OpI/s1600-h/Namexif%E2%84%A2+%28Rename+EXIF+Photos%29.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH8ov2GPpWHQHPD_h8WaqJNP69CmbQX1F3JYGtoHNDPfqZ917PK5Bi3ZX2HTCwH1xkSzWTjVnvbiji8XA4kRVuFvUOUZsy4P0hE6zWpvEpKtpmlv_3sZ1_LB5Y4Y9rquD71OpI/s200/Namexif%E2%84%A2+%28Rename+EXIF+Photos%29.jpg" alt="" id="BLOGGER_PHOTO_ID_5156457469413392354" border="0" /></a>Namexif™ is a tool to automatically rename photos with the date they were shot.<br />Digital cameras have their own clock and record the date to each photos with a precision of a second. Since the date and time is recorded for each photos (provided it is an EXIF compliant digital camera), Namexif™ is able to rename these photos according to the date.<br /># Doing so will: make chronological order same as alphabetical one,<br /># set a unique name to your photos<br /><a href="http://www.digicamsoft.com/softnamexif.html">http://www.digicamsoft.com/softnamexif.html</a><br /><br /><p><span style="font-size:85%;">Alastair Montgomery's Photography<br /><a href="http://doodlem.blogspot.com/">Main Page</a>,<br /><a href="http://www.cafepress.com/alastair_hm">My Shop at CafePress</a>, <a href="http://www.zazzle.com/doodle_m*">My Shop at Zazzle</a> <a href="http://tinyurl.com/2t573w">Sign My Guestbook</a><br /><a href="http://tinyurl.com/yofz2a"><img src="http://tinyurl.com/ysfcth" alt="In association with Zazzle.com" border="0" height="57" width="141" /></a></span></p>

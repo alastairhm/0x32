@@ -6,6 +6,8 @@ tags: ["blog-import", "docker", "geek", "lighttpd", "php"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 7 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Here is a low resource Lighttpd with PHP Docker image running on Alpine Linux, only ~37MB image.<br />
 <br />

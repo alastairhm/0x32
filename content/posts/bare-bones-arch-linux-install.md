@@ -6,6 +6,8 @@ tags: ["blog-import", "geek", "linux"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 5 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Something to do at lunchtime to get you more familiar with Linux, create a barebones<a href="https://www.archlinux.org/" target="_blank"> Arch Linux</a> VM. Taken from this article at <a href="http://lifehacker.com/5680453/build-a-killer-customized-arch-linux-installation-and-learn-all-about-linux-in-the-process" target="_blank">Lifehacker </a>I've compressed it into the following steps.<br />
 <br />

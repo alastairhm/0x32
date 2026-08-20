@@ -6,6 +6,8 @@ tags: ["android", "blog-import", "geek"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 3 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <script src="http://widgets.paper.li/javascripts/init.js" type="text/javascript"></script><br />
 <script>
   Paperli.PaperWidget.Show({

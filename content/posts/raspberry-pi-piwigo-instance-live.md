@@ -6,6 +6,8 @@ tags: ["blog-import", "geek", "piwigo", "raspberry-pi"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 7 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 I've finally got my Piwigo instance running on my Raspberry Pi live to the internet <a href="http://alastairhm.no-ip.org/piwigo/">http://alastairhm.no-ip.org/piwigo/</a><br />
 <br />

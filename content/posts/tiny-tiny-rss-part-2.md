@@ -6,6 +6,8 @@ tags: ["blog-import", "geek", "raspberry-pi", "rss", "theme", "tiny-tiny-rss"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 7 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Installed the clean looking <a href="https://github.com/asyncopation/ttrss-theme-chalk" target="_blank">Chalk Theme</a> on my <a href="http://tt-rss.org/redmine/projects/tt-rss/wiki" target="_blank">Tiny Tiny RSS server</a>&nbsp;running on my <a href="http://www.raspberrypi.org/" target="_blank">Raspberry Pi</a>.<br />
 <br />

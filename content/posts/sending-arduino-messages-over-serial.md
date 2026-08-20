@@ -6,6 +6,8 @@ tags: ["arduino", "blog-import", "geek", "lcd", "ruby", "sainsmart", "twitter"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 6 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: left;">
 <span style="background-color: white;"><span style="color: #333333; font-family: arial, sans-serif; font-size: 13px; line-height: 17px;">Video of sending a message to the Arduino over the serial port which then gets scrolled on a SainSmart LCD shield.</span></span></div>

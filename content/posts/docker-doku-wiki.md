@@ -6,6 +6,8 @@ tags: ["blog-import", "docker", "doku", "geek", "lighttpd", "wiki"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 13 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Created a small footprint (less than 50mb) Docker image running the <a href="https://www.dokuwiki.org/dokuwiki#" target="_blank">Doku Wiki</a> on <a href="https://www.lighttpd.net/" target="_blank">Lighttpd</a> under <a href="http://alpinelinux.org/" target="_blank">Alpine Linux</a>.<br />
 <br />

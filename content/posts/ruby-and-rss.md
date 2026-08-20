@@ -6,6 +6,8 @@ tags: ["blog-import", "geek", "programming", "rss", "ruby"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 4 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">Started looking into access RSS from Ruby discovered it pretty much already built in as described in this article <a href="http://www.developer.com/services/article.php/3733171/Consuming-RSS-Feeds-with-Ruby.htm">Consuming RSS Feeds with Ruby</a>, full docs are available in the <a href="http://www.ruby-doc.org/stdlib/libdoc/rss/rdoc/index.html">Ruby Standard Library</a>.<br />
 <br />
 Accessing an RSS Feed is as simple as the following code snippet.<br />

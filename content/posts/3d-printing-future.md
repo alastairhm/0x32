@@ -6,6 +6,8 @@ tags: ["3d-printing", "blog-import", "geek", "video"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 7 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="line-height: 0px; padding-bottom: 2px;">
 <a href="http://pinterest.com/pin/29273466299000502/" target="_blank"><img border="0" height="360" src="http://media-cache-ec6.pinterest.com/upload/29273466299000502_IZgiW3zv_c.jpg" width="600" /></a></div>

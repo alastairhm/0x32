@@ -6,6 +6,8 @@ tags: ["blog-import", "docker", "docker-compose", "geek", "ghost", "mysql"]
 categories: ['Geek']
 ---
 
+> **Note:** 2 of this post's 8 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <br />
 <article class="markdown-body entry-content" itemprop="text"><b>Docker Compose Tutorial</b><br />

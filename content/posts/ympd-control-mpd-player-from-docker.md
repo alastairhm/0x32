@@ -6,6 +6,8 @@ tags: ["blog-import", "docker", "geek", "mp3", "mpd", "music", "radio"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 5 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 After setting up a Streaming radio instance of MPD/Icecast2 running in a <a href="https://hub.docker.com/r/alastairhm/docker-icecast/" target="_blank">Docker image</a>&nbsp;I was looking for a nice front end to control it.<br />
 <br />

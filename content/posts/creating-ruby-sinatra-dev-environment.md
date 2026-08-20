@@ -6,6 +6,8 @@ tags: ["blog-import", "dev", "geek", "puppet", "ruby", "vagrant"]
 categories: ['Geek']
 ---
 
+> **Note:** 1 of this post's 8 links are now broken — mostly dead 2008–2013 feed-syndication infrastructure (FeedBurner, Gawker, AOL's old blog network, Pheedo, Yahoo Pipes). Left as originally published.
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 To work my way through the book <a href="http://www.amazon.com/Cloning-Internet-Applications-Chang-Sheong/dp/1849511063">Cloning Internet Applications with Ruby</a> I've created a development environment using Vagrant and Puppet.<br /><br />You will need the following installed;<br /><br />VirtualBox VM <a href="https://www.virtualbox.org/">https://www.virtualbox.org/</a><br />
 Vagrant <a href="http://www.vagrantup.com/">http://www.vagrantup.com/</a><br /><br />These pages are also helpful<br />

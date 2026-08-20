@@ -1,7 +1,7 @@
 ---
 title: "Evolvotron"
 date: 2009-11-09T15:30:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

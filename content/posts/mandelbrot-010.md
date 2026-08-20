@@ -1,7 +1,7 @@
 ---
 title: "Mandelbrot 010"
 date: 2009-09-05T14:44:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images", "gnofract-4d"]
 categories: ['Creative']
 ---

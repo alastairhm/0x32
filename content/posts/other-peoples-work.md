@@ -1,7 +1,7 @@
 ---
 title: "Other peoples work"
 date: 2009-05-12T17:00:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "external", "fractal", "other-peoples-work"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Ultrafractal"
 date: 2008-04-04T09:13:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "external", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

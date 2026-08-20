@@ -1,7 +1,7 @@
 ---
 title: "Mandelbrot and Lambda Fractals"
 date: 2009-11-18T06:00:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images", "gnofract-4d"]
 categories: ['Creative']
 ---

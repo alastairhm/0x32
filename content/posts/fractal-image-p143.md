@@ -1,7 +1,7 @@
 ---
 title: "Fractal Image, p14_3"
 date: 2008-04-07T14:30:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

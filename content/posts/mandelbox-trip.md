@@ -1,7 +1,7 @@
 ---
 title: "Mandelbox trip"
 date: 2010-09-28T11:46:00+01:00
-draft: true
+draft: false
 tags: ["animation", "blogger-import", "external", "fractal", "fractal-video"]
 categories: ['Creative']
 ---

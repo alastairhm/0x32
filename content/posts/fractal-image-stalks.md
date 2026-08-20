@@ -1,7 +1,7 @@
 ---
 title: "Fractal image, stalks"
 date: 2008-11-25T10:07:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

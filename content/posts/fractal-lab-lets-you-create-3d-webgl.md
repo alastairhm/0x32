@@ -1,7 +1,7 @@
 ---
 title: "Fractal Lab lets you create 3D WebGL fractals that you can explore"
 date: 2011-03-09T12:00:00+00:00
-draft: true
+draft: false
 tags: ["animation", "blogger-import", "external", "fractal", "software"]
 categories: ['Creative']
 ---

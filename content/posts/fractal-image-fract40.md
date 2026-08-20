@@ -1,7 +1,7 @@
 ---
 title: "Fractal Image, fract40"
 date: 2008-04-14T15:22:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

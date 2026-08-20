@@ -1,7 +1,7 @@
 ---
 title: "Context Free Fractal Trees"
 date: 2009-11-19T06:00:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "context-free", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

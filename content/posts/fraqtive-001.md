@@ -1,7 +1,7 @@
 ---
 title: "Fraqtive 001"
 date: 2009-05-07T16:19:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

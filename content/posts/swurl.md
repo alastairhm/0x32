@@ -1,7 +1,7 @@
 ---
 title: "Swurl"
 date: 2008-07-04T11:11:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "links"]
 categories: ['Creative']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Fractal Art"
 date: 2016-05-10T21:45:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-art", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---

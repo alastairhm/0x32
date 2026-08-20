@@ -1,7 +1,7 @@
 ---
 title: "Fractal Zoom Test short video"
 date: 2009-05-18T15:41:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-video", "gnofract-4d"]
 categories: ['Creative']
 ---

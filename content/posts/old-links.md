@@ -1,7 +1,7 @@
 ---
 title: "Old Links"
 date: 2008-03-26T14:21:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "links"]
 categories: ['Creative']
 ---

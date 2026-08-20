@@ -1,7 +1,7 @@
 ---
 title: "Trees and Psilocybes"
 date: 2017-02-08T21:12:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-image", "ifttt", "trees-and-psilocybes"]
 categories: ['Creative']
 ---

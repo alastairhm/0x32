@@ -1,7 +1,7 @@
 ---
 title: "Mandelbrot004 Big"
 date: 2009-05-14T14:59:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-images", "gnofract-4d"]
 categories: ['Creative']
 ---

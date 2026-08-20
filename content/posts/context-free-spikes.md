@@ -1,7 +1,7 @@
 ---
 title: "Context Free Spikes"
 date: 2009-11-20T11:51:00+00:00
-draft: true
+draft: false
 tags: ["blogger-import", "context-free", "fractal", "fractal-images"]
 categories: ['Creative']
 ---

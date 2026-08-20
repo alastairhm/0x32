@@ -1,7 +1,7 @@
 ---
 title: "Everything About Fra"
 date: 2017-10-19T21:37:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "everything-about-fra", "fractal", "fractal-image", "ifttt"]
 categories: ['Creative']
 ---

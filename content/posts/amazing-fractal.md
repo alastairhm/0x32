@@ -1,7 +1,7 @@
 ---
 title: "Amazing Fractal &#39;flo"
 date: 2014-05-10T11:52:00+01:00
-draft: true
+draft: false
 tags: ["blogger-import", "fractal", "fractal-image", "fractals", "ifttt"]
 categories: ['Creative']
 ---

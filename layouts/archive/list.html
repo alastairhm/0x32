@@ -1,0 +1,38 @@
+{{/*
+  layouts/archive/list.html
+
+  Archive page (/archive/) listing every post grouped by year, then by
+  month, newest first. Overrides the theme default so it gets the site
+  header/footer/styling instead of the theme's bare list template.
+*/}}
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <article class="pa3 pa4-ns">
+    <div class="mw8 center f4 lh-copy nested-copy-line-height nested-links mid-gray">
+      {{ with .Content }}
+        <div class="mb4">{{ . }}</div>
+      {{ end }}
+
+      {{ $posts := where site.RegularPages "Section" "posts" }}
+      {{ range $posts.GroupByDate "2006" }}
+        <section class="mb4">
+          <h2 class="f2 fw6 mid-gray bb b--black-10 pb2 mb3">{{ .Key }}</h2>
+          {{ range .Pages.GroupByDate "01" }}
+            {{ $monthLabel := "" }}
+            {{ with .Pages }}{{ $monthLabel = (index . 0).Date.Format "January" }}{{ end }}
+            <h3 class="f4 fw6 mid-gray mt3 mb2">{{ $monthLabel }}</h3>
+            <ul class="list pl0 mb3">
+              {{ range .Pages }}
+                <li class="mb1">
+                  <span class="mid-gray f6">{{ .Date.Format "02" }}</span>
+                  &mdash;
+                  <a class="link underline-hover" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </section>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

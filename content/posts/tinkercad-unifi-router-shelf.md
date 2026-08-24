@@ -4,6 +4,7 @@ date: 2026-08-24T12:00:00+01:00
 draft: false
 tags: ['3d-printing','bambu-lab','hardware','maker','tinkercad','cad','unifi']
 categories: ['Making']
+featured_image: "/tinkercad-unifi-router-shelf.png"
 ---
 
 Following on from [designing my own shelves and stands]({{< ref "bambu-a1-mini-prints-so-far.md" >}}) for prints off the [A1 Mini]({{< ref "bambu-lab-a1-mini.md" >}}), I've finally sat down and learned some proper CAD rather than just cobbling shapes together — first project is [TinkerCAD](https://www.tinkercad.com/), and the thing I picked to design is a shelf to hold my Unifi WiFi router.

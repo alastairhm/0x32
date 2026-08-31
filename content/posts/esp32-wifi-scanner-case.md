@@ -7,7 +7,7 @@ categories: ['Making']
 featured_image: "https://live.staticflickr.com/65535/55497437054_5760bccc0d_c.jpg"
 ---
 
-After [designing my first shelf in TinkerCAD]({{< ref "tinkercad-unifi-router-shelf.md" >}}), I wanted a project that actually needed a proper enclosure rather than a mounting bracket. I'd been building a small self-contained WiFi scanner — a bare ESP32 dev board wired up to a screen and a rechargeable battery — and it had been living on my desk as a loose tangle of board, wires and cells. Time to give it a case.
+After [designing my first shelf in TinkerCAD]({{< ref "tinkercad-unifi-router-shelf.md" >}}), I wanted a project that actually needed a proper enclosure rather than a mounting bracket. I'd been building a small self-contained WiFi scanner around [this cheap ESP32 dev board](https://www.aliexpress.com/item/1005005970553639.html) — an ESP32 module with a built-in 1.14 inch LCD — paired with a small rechargeable battery, and it had been living on my desk as a loose tangle of board, wires and cells. Time to give it a case.
 
 I started the same way I would with pen and paper before ever opening TinkerCAD — sketching out roughly where the board, screen and battery needed to sit, and where the case would need cutouts for the screen, buttons and USB port.
 

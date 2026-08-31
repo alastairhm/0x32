@@ -16,6 +16,8 @@ I started the same way I would with pen and paper before ever opening TinkerCAD 
            "https://www.flickr.com/photos/doodle_m/55497415338"
            "https://live.staticflickr.com/65535/55497415338_3d385feaea_z.jpg" >}}
 
+The finished design is up on TinkerCAD if you want to poke around the model yourself: [ESP32 Case](https://www.tinkercad.com/things/fRhZlIy82JC-esp32-case).
+
 Unlike the router shelf, this one actually has to fit around real components with real tolerances, so there was a lot more back-and-forth than my first design — printing, test-fitting the board and battery, then going back into TinkerCAD to nudge dimensions and cutouts before printing again. That's the bit I hadn't expected to enjoy as much as I did: reworking parts on the back of getting something physical in my hands, rather than just guessing dimensions upfront and hoping for the best.
 
 {{< flickr "ESP32 case sitting on design sketches"
@@ -31,3 +33,5 @@ The one fit issue I didn't fully solve in the model itself: the board had a litt
            "https://live.staticflickr.com/65535/55497374728_81211eac03_z.jpg" >}}
 
 Printed on the [A1 Mini]({{< ref "bambu-lab-a1-mini.md" >}}) as usual, and good enough for a first attempt at an enclosure with actual electronics inside rather than just a static bracket. Next one will have the board mounts built in properly so I don't need the spacer at all.
+
+I've also uploaded the print files to MakerWorld: [Case for ESP32 Board with 1.9 Inch Screen](https://makerworld.com/en/models/3239273-case-for-esp32-board-with-1-9-inch-screen#profileId-3669923), in case it's useful to anyone else with the same board.

@@ -1,0 +1,33 @@
+---
+title: "Designing and Printing a Case for My ESP32 WiFi Scanner"
+date: 2026-08-31T12:00:00+01:00
+draft: false
+tags: ['3d-printing','bambu-lab','hardware','maker','tinkercad','cad','esp32','electronics']
+categories: ['Making']
+featured_image: "https://live.staticflickr.com/65535/55497437054_5760bccc0d_c.jpg"
+---
+
+After [designing my first shelf in TinkerCAD]({{< ref "tinkercad-unifi-router-shelf.md" >}}), I wanted a project that actually needed a proper enclosure rather than a mounting bracket. I'd been building a small self-contained WiFi scanner — a bare ESP32 dev board wired up to a screen and a rechargeable battery — and it had been living on my desk as a loose tangle of board, wires and cells. Time to give it a case.
+
+I started the same way I would with pen and paper before ever opening TinkerCAD — sketching out roughly where the board, screen and battery needed to sit, and where the case would need cutouts for the screen, buttons and USB port.
+
+{{< flickr "ESP32 Case Tinkercad"
+           "The case body taking shape in TinkerCAD, worked out from the paper sketches."
+           "https://www.flickr.com/photos/doodle_m/55497415338"
+           "https://live.staticflickr.com/65535/55497415338_3d385feaea_z.jpg" >}}
+
+Unlike the router shelf, this one actually has to fit around real components with real tolerances, so there was a lot more back-and-forth than my first design — printing, test-fitting the board and battery, then going back into TinkerCAD to nudge dimensions and cutouts before printing again. That's the bit I hadn't expected to enjoy as much as I did: reworking parts on the back of getting something physical in my hands, rather than just guessing dimensions upfront and hoping for the best.
+
+{{< flickr "ESP32 case sitting on design sketches"
+           "The printed case next to the original paper sketches it grew out of."
+           "https://www.flickr.com/photos/doodle_m/55497437054"
+           "https://live.staticflickr.com/65535/55497437054_5760bccc0d_z.jpg" >}}
+
+The one fit issue I didn't fully solve in the model itself: the board had a little too much freedom to shift around inside the case once everything was wired in. Rather than go back and redesign the internal mounts again, I printed a small spacer to wedge it in place and hold it flat against the base.
+
+{{< flickr "ESP32 Case internal"
+           "The spacer used to hold the board in the right place inside the case."
+           "https://www.flickr.com/photos/doodle_m/55497374728"
+           "https://live.staticflickr.com/65535/55497374728_81211eac03_z.jpg" >}}
+
+Printed on the [A1 Mini]({{< ref "bambu-lab-a1-mini.md" >}}) as usual, and good enough for a first attempt at an enclosure with actual electronics inside rather than just a static bracket. Next one will have the board mounts built in properly so I don't need the spacer at all.

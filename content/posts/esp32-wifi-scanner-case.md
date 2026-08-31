@@ -32,6 +32,6 @@ The one fit issue I didn't fully solve in the model itself: the board had a litt
            "https://www.flickr.com/photos/doodle_m/55497374728"
            "https://live.staticflickr.com/65535/55497374728_81211eac03_z.jpg" >}}
 
-Printed on the [A1 Mini]({{< ref "bambu-lab-a1-mini.md" >}}) as usual, and good enough for a first attempt at an enclosure with actual electronics inside rather than just a static bracket. Next one will have the board mounts built in properly so I don't need the spacer at all.
+Printed on the [A1 Mini]({{< ref "bambu-lab-a1-mini.md" >}}) as usual, and good enough for a first attempt at an enclosure with actual electronics inside rather than just a static bracket. The lid on this version is just a press fit, which is fine for now but not something I'd trust long-term once it's being opened and closed regularly to charge the battery. Next revision will have the board mounts built in properly so I don't need the spacer, plus a proper way to secure the lid so it's still easily removable — either a couple of small screws into printed bosses, or embedded magnets for a cleaner look with no visible fixings.
 
 I've also uploaded the print files to MakerWorld: [Case for ESP32 Board with 1.9 Inch Screen](https://makerworld.com/en/models/3239273-case-for-esp32-board-with-1-9-inch-screen#profileId-3669923), in case it's useful to anyone else with the same board.

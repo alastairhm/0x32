@@ -25,10 +25,15 @@ Unlike the router shelf, this one actually has to fit around real components wit
            "https://www.flickr.com/photos/doodle_m/55497437054"
            "https://live.staticflickr.com/65535/55497437054_5760bccc0d_z.jpg" >}}
 
-The one fit issue I didn't fully solve in the model itself: the board had a little too much freedom to shift around inside the case once everything was wired in. Rather than go back and redesign the internal mounts again, I printed a small spacer to wedge it in place and hold it flat against the base.
+The one fit issue I didn't fully solve in the model itself: the board had a little too much freedom to shift around inside the case once everything was wired in. Rather than go back and redesign the internal mounts again, I printed a small spacer to wedge it in place and hold it flat against the base. It took a few tries to get right — printing a couple of variations before landing on the version on the left that actually held the board snugly.
+
+{{< flickr "ESP32 Box spacer designs"
+           "Trying out different spacer designs for the box. The left hand one is the final model."
+           "https://www.flickr.com/photos/doodle_m/55497269321"
+           "https://live.staticflickr.com/65535/55497269321_8bbf5e5b94_z.jpg" >}}
 
 {{< flickr "ESP32 Case internal"
-           "The spacer used to hold the board in the right place inside the case."
+           "The final spacer fitted, holding the board flat and in place inside the case."
            "https://www.flickr.com/photos/doodle_m/55497374728"
            "https://live.staticflickr.com/65535/55497374728_81211eac03_z.jpg" >}}
 

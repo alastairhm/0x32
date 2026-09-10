@@ -18,6 +18,6 @@ jobs:
       - name: Build and deploy
         uses: alastairhm/deploy-hugo-to-s3-action@main
         with:
-          hugo-version: 0.139.0
+          hugo-version: 0.166.0
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

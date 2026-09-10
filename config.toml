@@ -1,5 +1,5 @@
 baseURL = "https://blog.0x32.co.uk/"
-languageCode = "en-us"
+locale = "en-us"
 title = "0x32++"
 theme = ["ananke"]
 
@@ -17,6 +17,10 @@ pagerSize = 10
    rss = "https://blog.0x32.co.uk/index.xml"
    featured_image = "Electron.jpg"
    goatcounter = "0x32"
+
+[params.ananke]
+  show_categories = true
+  copy_code = true
 
 [params.ananke.social.share]
 networks = [

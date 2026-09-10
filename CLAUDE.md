@@ -35,7 +35,7 @@ There is no test suite, linter, or package manager in this repo — it's static 
 - `themes/ananke` — vendored theme (git submodule, do not edit in place; submodule points at `theNewDynamic/gohugo-theme-ananke`).
 - `layouts/` — site-specific overrides layered on top of the theme:
   - `layouts/shortcodes/` — custom shortcodes (`flickr`, `flickralbum`, `lbry`) used inline in post markdown for embedding Flickr photos/albums and LBRY videos.
-  - `layouts/taxonomy/tag.html` — override for the tag taxonomy listing page.
+  - `layouts/tags/term.html` — override for the tag taxonomy listing page.
 - `static/` — images and static assets referenced directly by posts (e.g. `![alt](/logo.png)`).
 - `config.toml` — Hugo site config: theme selection, social network params under `[params.ananke.social.*]`, taxonomies (`categories`, `tags`), and the `[deployment]` block (S3 target `s3://blog.0x32.co.uk`, cache-control/gzip matchers per file type). `markup.goldmark.renderer.unsafe = true` allows raw HTML in markdown content.
 - `Dockerfile` — multi-stage build: builds the site with `ghcr.io/alastairhm/docker-hugo:main`, then serves `public/` via `ghcr.io/alastairhm/alpine-lighttpd:latest`.

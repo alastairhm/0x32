@@ -1,5 +1,5 @@
 baseURL = "https://blog.0x32.co.uk/"
-languageCode = "en-us"
+locale = "en-us"
 title = "0x32++"
 theme = ["ananke"]
 

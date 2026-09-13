@@ -41,6 +41,11 @@ jobs:
             exit 0
           fi
 
+          # A push/merge can add more than one post (e.g. a squash of several
+          # post branches). Only toot once per merge, for the latest post by
+          # its front-matter date.
+          latest_file=""
+          latest_date=""
           while IFS= read -r file; do
             [ -z "${file}" ] && continue
 
@@ -49,20 +54,31 @@ jobs:
               continue
             fi
 
-            title=$(grep -m1 '^title:' "${file}" | sed -E 's/^title: *"?//; s/"? *$//')
-            slug=$(basename "${file}" .md)
-            # First non-blank, non-shortcode line of the post body is used as
-            # a brief description.
-            desc=$(awk '/^---$/{c++; next} c==2 && NF && $0 !~ /^\{\{</{print; exit}' "${file}")
-            url="${BASE_URL}/posts/${slug}/"
-
-            status=$(printf '%s\n\n%s\n\n%s' "${title}" "${desc}" "${url}")
-
-            echo "Posting to Mastodon: ${title} (${url})"
-
-            curl -sf -X POST "${MASTODON_INSTANCE}/api/v1/statuses" \
-              -H "Authorization: Bearer ${MAST_TOKEN}" \
-              --data-urlencode "status=${status}" \
-              --data-urlencode "visibility=public" \
-              -o /dev/null
+            post_date=$(grep -m1 '^date:' "${file}" | sed -E 's/^date: *//')
+            if [ -z "${latest_date}" ] || [[ "${post_date}" > "${latest_date}" ]]; then
+              latest_date="${post_date}"
+              latest_file="${file}"
+            fi
           done <<< "${added_files}"
+
+          if [ -z "${latest_file}" ]; then
+            echo "No non-draft posts to announce."
+            exit 0
+          fi
+
+          title=$(grep -m1 '^title:' "${latest_file}" | sed -E 's/^title: *"?//; s/"? *$//')
+          slug=$(basename "${latest_file}" .md)
+          # First non-blank, non-shortcode line of the post body is used as
+          # a brief description.
+          desc=$(awk '/^---$/{c++; next} c==2 && NF && $0 !~ /^\{\{</{print; exit}' "${latest_file}")
+          url="${BASE_URL}/posts/${slug}/"
+
+          status=$(printf '%s\n\n%s\n\n%s' "${title}" "${desc}" "${url}")
+
+          echo "Posting to Mastodon: ${title} (${url})"
+
+          curl -sf -X POST "${MASTODON_INSTANCE}/api/v1/statuses" \
+            -H "Authorization: Bearer ${MAST_TOKEN}" \
+            --data-urlencode "status=${status}" \
+            --data-urlencode "visibility=public" \
+            -o /dev/null

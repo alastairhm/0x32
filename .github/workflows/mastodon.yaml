@@ -1,0 +1,68 @@
+name: Post New Posts to Mastodon
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'content/posts/**.md'
+
+jobs:
+  toot:
+    name: Toot new posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out master
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find and post new posts
+        env:
+          MASTODON_INSTANCE: https://mastodon.me.uk
+          MAST_TOKEN: ${{ secrets.MAST_TOKEN }}
+          BASE_URL: https://blog.0x32.co.uk
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+
+          # Fall back to diffing against the parent commit if the "before" SHA
+          # isn't reachable (e.g. first push, force-push, or a zero SHA).
+          if git cat-file -e "${BEFORE_SHA}^{commit}" 2>/dev/null; then
+            base="${BEFORE_SHA}"
+          else
+            base="${AFTER_SHA}^"
+          fi
+
+          added_files=$(git diff --name-status --diff-filter=A "${base}" "${AFTER_SHA}" -- 'content/posts/*.md' | cut -f2)
+
+          if [ -z "${added_files}" ]; then
+            echo "No new posts in this push."
+            exit 0
+          fi
+
+          while IFS= read -r file; do
+            [ -z "${file}" ] && continue
+
+            if grep -q '^draft: true' "${file}"; then
+              echo "Skipping draft: ${file}"
+              continue
+            fi
+
+            title=$(grep -m1 '^title:' "${file}" | sed -E 's/^title: *"?//; s/"? *$//')
+            slug=$(basename "${file}" .md)
+            # First non-blank, non-shortcode line of the post body is used as
+            # a brief description.
+            desc=$(awk '/^---$/{c++; next} c==2 && NF && $0 !~ /^\{\{</{print; exit}' "${file}")
+            url="${BASE_URL}/posts/${slug}/"
+
+            status=$(printf '%s\n\n%s\n\n%s' "${title}" "${desc}" "${url}")
+
+            echo "Posting to Mastodon: ${title} (${url})"
+
+            curl -sf -X POST "${MASTODON_INSTANCE}/api/v1/statuses" \
+              -H "Authorization: Bearer ${MAST_TOKEN}" \
+              --data-urlencode "status=${status}" \
+              --data-urlencode "visibility=public" \
+              -o /dev/null
+          done <<< "${added_files}"

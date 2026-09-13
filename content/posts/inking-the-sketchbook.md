@@ -9,6 +9,8 @@ featured_image: "https://live.staticflickr.com/65535/55525627033_6e20dd6fbe_c.jp
 
 Finally got round to inking the sketches in one of my sketchbooks.
 
+I really need to draw more, but it's hard finding the time with all my other hobbies and work.
+
 {{< flickr "Rough Seas"
            "Rough Seas"
            "https://www.flickr.com/photos/doodle_m/55525627033/"

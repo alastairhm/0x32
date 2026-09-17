@@ -1,6 +1,6 @@
 ---
 title: "Latest Prints: A Fidget Cube and an SVG-Generated Truchet Tile"
-date: 2026-09-17T12:00:00+01:00
+date: 2026-09-17T09:00:00+01:00
 draft: false
 tags: ['3d-printing','bambu-lab','hardware','maker']
 categories: ['Making']

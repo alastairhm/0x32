@@ -1,0 +1,11 @@
+User-agent: *
+{{/* robotstxt.org - if we are in production, allow access, else deny */ -}}
+{{ if hugo.IsProduction -}}
+Allow: /
+{{/* Individual tag term pages are thin/near-duplicate and excluded from the
+     sitemap (see [[cascade]] in config.toml) - keep crawl budget off them too. */}}
+Disallow: /tags/*/
+Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}
+{{ else -}}
+Disallow: /
+{{ end -}}

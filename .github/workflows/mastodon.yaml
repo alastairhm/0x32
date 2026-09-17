@@ -73,7 +73,28 @@ jobs:
           desc=$(awk '/^---$/{c++; next} c==2 && NF && $0 !~ /^\{\{</{print; exit}' "${latest_file}")
           url="${BASE_URL}/posts/${slug}/"
 
-          status=$(printf '%s\n\n%s\n\n%s' "${title}" "${desc}" "${url}")
+          # Turn the post's front-matter tags (falling back to categories)
+          # into Mastodon hashtags, e.g. tags: ['3d-printing','maker'] -> #3dprinting #maker
+          tags_line=$(grep -m1 '^tags:' "${latest_file}" | sed -E "s/^tags: *\[//; s/\][[:space:]]*\$//")
+          if [ -z "${tags_line}" ]; then
+            tags_line=$(grep -m1 '^categories:' "${latest_file}" | sed -E "s/^categories: *\[//; s/\][[:space:]]*\$//")
+          fi
+
+          hashtags=""
+          IFS=',' read -ra tag_arr <<< "${tags_line}"
+          for t in "${tag_arr[@]}"; do
+            clean=$(echo "${t}" | tr -d "'\" " | tr -cd '[:alnum:]_')
+            [ -z "${clean}" ] && continue
+            hashtags="${hashtags} #${clean}"
+          done
+          hashtags="${hashtags# }"
+
+          if [ -z "${hashtags}" ]; then
+            echo "No tags or categories found on ${latest_file}; refusing to post without a hashtag." >&2
+            exit 1
+          fi
+
+          status=$(printf '%s\n\n%s\n\n%s\n\n%s' "${title}" "${desc}" "${url}" "${hashtags}")
 
           echo "Posting to Mastodon: ${title} (${url})"
 

@@ -1,0 +1,54 @@
+name: Check Post Dates
+
+on:
+  pull_request:
+    branches: [ master ]
+    paths:
+      - 'content/posts/**.md'
+
+jobs:
+  check-future-dates:
+    name: Warn on future-dated posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PR branch
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Warn on non-draft posts dated in the future
+        run: |
+          set -euo pipefail
+
+          # Deploys only run on push/PR/workflow_dispatch - there's no
+          # scheduled trigger - so a future-dated post won't go live on its
+          # own once its date passes. It needs another push (or a manual
+          # workflow_dispatch) after that time. Warn here so that's a choice,
+          # not a surprise.
+          base_sha=$(git merge-base "origin/${GITHUB_BASE_REF}" HEAD)
+          changed_files=$(git diff --name-only --diff-filter=AM "${base_sha}" HEAD -- 'content/posts/*.md')
+
+          now_epoch=$(date -u +%s)
+          found_future=0
+
+          while IFS= read -r file; do
+            [ -z "${file}" ] && continue
+
+            if grep -q '^draft: true' "${file}"; then
+              continue
+            fi
+
+            post_date=$(grep -m1 '^date:' "${file}" | sed -E 's/^date: *//')
+            [ -z "${post_date}" ] && continue
+
+            post_epoch=$(date -u -d "${post_date}" +%s 2>/dev/null) || continue
+
+            if [ "${post_epoch}" -gt "${now_epoch}" ]; then
+              found_future=1
+              echo "::warning file=${file}::Post is dated in the future (${post_date}). Deploy workflows only run on push/PR, not on a schedule, so this post will NOT go live automatically once that date passes - it needs another push or a manual workflow_dispatch after publish time. Backdate it if you want it live as soon as this PR merges."
+            fi
+          done <<< "${changed_files}"
+
+          if [ "${found_future}" -eq 0 ]; then
+            echo "No future-dated posts found."
+          fi

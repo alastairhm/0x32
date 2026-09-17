@@ -61,6 +61,35 @@ profilelink = "https://blog.0x32.co.uk/index.xml"
   category = "categories"
   tag = "tags"
 
+# Hugo's default [related] config scores on "keywords" (unused here) and "tags"
+# against a threshold of 80, which this site's tag-only front matter can never
+# reach - so the theme's built-in related-posts sidebar was rendering nothing.
+# Score on tags and categories instead, with a threshold that actually surfaces
+# matches.
+[related]
+  threshold = 20
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 50
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+# Individual tag term pages (2000+, many with a single post) are thin,
+# near-duplicate content that isn't worth indexing - keep them out of the
+# sitemap. The /tags/ index and /categories/ (only ~17, curated) still list.
+[[cascade]]
+  [cascade.target]
+    kind = "term"
+    path = "/tags/**"
+  [cascade.sitemap]
+    disable = true
+
 [deployment]
 order = [".jpg$", ".gif$"]
 

@@ -20,4 +20,9 @@ Putting it on hardware this old felt like a reasonable stress test. If a tiling,
 
 Once it was up, the laptop actually felt more usable than it had in years. Hyprland's tiling means no wrestling with sluggish window compositing, and the reduced overhead compared to a heavier desktop environment goes a long way on older, weaker hardware. It's not going to turn a decade-old machine into something snappy, but it strips away enough of the fat that what performance is left actually gets used.
 
+{{< flickr "Omarchy Linux"
+           "Omarchy Linux running on the old laptop"
+           "https://www.flickr.com/photos/doodle_m/55539553835"
+           "https://live.staticflickr.com/65535/55539553835_90788fa792_z.jpg" >}}
+
 Worth a try if you've got old hardware kicking around and fancy giving it a second life rather than a trip to the recycling centre.

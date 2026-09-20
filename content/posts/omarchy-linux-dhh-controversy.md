@@ -6,7 +6,9 @@ tags: ['linux','omarchy','hyprland','arch-linux','distro']
 categories: ['Geek']
 ---
 
-A quick follow-up to my [previous post on Omarchy]({{< ref "omarchy-linux-on-an-old-laptop.md" >}}). Since writing that, a few people on Mastodon pointed me at something I'd completely missed: the controversy around DHH, Omarchy's creator, and his views. If you haven't seen it, this article lays it out well: [The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem).
+A few people on Mastodon pointed me at something about Omarchy I'd completely missed: real controversy around its creator, DHH, and his views.
+
+This is a follow-up to my [previous post on Omarchy]({{< ref "omarchy-linux-on-an-old-laptop.md" >}}). If you haven't seen the background, this article lays it out well: [The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem).
 
 I'll be honest, this had totally bypassed me. I was looking at Omarchy purely through the lens of "is this a good tiling window manager setup," and hadn't clocked the wider context around the person behind it. That's on me, and it's a decent reminder that it's worth stepping outside our news bubbles every so often and looking at the bigger picture, not just the interesting tech side of something.
 

@@ -5,6 +5,11 @@ on:
     branches: [ master ]
     paths:
       - 'content/posts/**.md'
+  workflow_dispatch:
+    inputs:
+      post_file:
+        description: 'Path to a specific post to toot (e.g. content/posts/foo.md), bypassing new-file detection'
+        required: false
 
 jobs:
   toot:
@@ -23,47 +28,60 @@ jobs:
           BASE_URL: https://blog.0x32.co.uk
           BEFORE_SHA: ${{ github.event.before }}
           AFTER_SHA: ${{ github.sha }}
+          POST_FILE: ${{ github.event.inputs.post_file }}
         run: |
           set -euo pipefail
 
-          # Fall back to diffing against the parent commit if the "before" SHA
-          # isn't reachable (e.g. first push, force-push, or a zero SHA).
-          if git cat-file -e "${BEFORE_SHA}^{commit}" 2>/dev/null; then
-            base="${BEFORE_SHA}"
+          if [ -n "${POST_FILE:-}" ]; then
+            latest_file="${POST_FILE}"
+            if [ ! -f "${latest_file}" ]; then
+              echo "Given post_file does not exist: ${latest_file}" >&2
+              exit 1
+            fi
+            if grep -q '^draft: true' "${latest_file}"; then
+              echo "Refusing to post a draft: ${latest_file}" >&2
+              exit 1
+            fi
           else
-            base="${AFTER_SHA}^"
-          fi
-
-          added_files=$(git diff --name-status --diff-filter=A "${base}" "${AFTER_SHA}" -- 'content/posts/*.md' | cut -f2)
-
-          if [ -z "${added_files}" ]; then
-            echo "No new posts in this push."
-            exit 0
-          fi
-
-          # A push/merge can add more than one post (e.g. a squash of several
-          # post branches). Only toot once per merge, for the latest post by
-          # its front-matter date.
-          latest_file=""
-          latest_date=""
-          while IFS= read -r file; do
-            [ -z "${file}" ] && continue
-
-            if grep -q '^draft: true' "${file}"; then
-              echo "Skipping draft: ${file}"
-              continue
+            # Fall back to diffing against the parent commit if the "before" SHA
+            # isn't reachable (e.g. first push, force-push, or a zero SHA).
+            if git cat-file -e "${BEFORE_SHA}^{commit}" 2>/dev/null; then
+              base="${BEFORE_SHA}"
+            else
+              base="${AFTER_SHA}^"
             fi
 
-            post_date=$(grep -m1 '^date:' "${file}" | sed -E 's/^date: *//')
-            if [ -z "${latest_date}" ] || [[ "${post_date}" > "${latest_date}" ]]; then
-              latest_date="${post_date}"
-              latest_file="${file}"
-            fi
-          done <<< "${added_files}"
+            added_files=$(git diff --name-status --diff-filter=A "${base}" "${AFTER_SHA}" -- 'content/posts/*.md' | cut -f2)
 
-          if [ -z "${latest_file}" ]; then
-            echo "No non-draft posts to announce."
-            exit 0
+            if [ -z "${added_files}" ]; then
+              echo "No new posts in this push."
+              exit 0
+            fi
+
+            # A push/merge can add more than one post (e.g. a squash of several
+            # post branches). Only toot once per merge, for the latest post by
+            # its front-matter date.
+            latest_file=""
+            latest_date=""
+            while IFS= read -r file; do
+              [ -z "${file}" ] && continue
+
+              if grep -q '^draft: true' "${file}"; then
+                echo "Skipping draft: ${file}"
+                continue
+              fi
+
+              post_date=$(grep -m1 '^date:' "${file}" | sed -E 's/^date: *//')
+              if [ -z "${latest_date}" ] || [[ "${post_date}" > "${latest_date}" ]]; then
+                latest_date="${post_date}"
+                latest_file="${file}"
+              fi
+            done <<< "${added_files}"
+
+            if [ -z "${latest_file}" ]; then
+              echo "No non-draft posts to announce."
+              exit 0
+            fi
           fi
 
           title=$(grep -m1 '^title:' "${latest_file}" | sed -E 's/^title: *"?//; s/"? *$//')

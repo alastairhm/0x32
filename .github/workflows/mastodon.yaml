@@ -92,9 +92,12 @@ jobs:
 
           title=$(grep -m1 '^title:' "${latest_file}" | sed -E 's/^title: *"?//; s/"? *$//')
           slug=$(basename "${latest_file}" .md)
-          # First non-blank, non-shortcode line of the post body is used as
-          # a brief description.
-          desc=$(awk '/^---$/{c++; next} c==2 && NF && $0 !~ /^\{\{</{print; exit}' "${latest_file}")
+          # First non-blank line of the post body, skipping any line that
+          # contains a shortcode, is used as a brief description. Markdown
+          # links/emphasis/code spans are stripped since Mastodon doesn't
+          # render them and they'd otherwise show up as raw syntax.
+          desc=$(awk '/^---$/{c++; next} c==2 && NF && $0 !~ /\{\{</{print; exit}' "${latest_file}")
+          desc=$(printf '%s' "${desc}" | sed -E 's/\[([^]]*)\]\([^)]*\)/\1/g; s/\*\*([^*]+)\*\*/\1/g; s/\*([^*]+)\*/\1/g; s/`([^`]+)`/\1/g')
           url="${BASE_URL}/posts/${slug}/"
 
           # Turn the post's front-matter tags (falling back to categories)

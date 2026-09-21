@@ -1,10 +1,9 @@
 name: Post New Posts to Mastodon
 
 on:
-  push:
-    branches: [ master ]
-    paths:
-      - 'content/posts/**.md'
+  workflow_run:
+    workflows: [ "Hugo Build and Deploy to S3" ]
+    types: [ completed ]
   workflow_dispatch:
     inputs:
       post_file:
@@ -15,11 +14,18 @@ jobs:
   toot:
     name: Toot new posts
     runs-on: ubuntu-latest
+    # Wait for the S3 deploy to actually finish (and succeed) before announcing,
+    # so the toot's link isn't live before the site is. Only fires for the S3
+    # workflow's master-branch runs, not its pull_request build-check runs.
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'master')
     steps:
       - name: Check out master
         uses: actions/checkout@v7
         with:
           fetch-depth: 0
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - name: Find and post new posts
         env:
@@ -27,7 +33,7 @@ jobs:
           MAST_TOKEN: ${{ secrets.MAST_TOKEN }}
           BASE_URL: https://blog.0x32.co.uk
           BEFORE_SHA: ${{ github.event.before }}
-          AFTER_SHA: ${{ github.sha }}
+          AFTER_SHA: ${{ github.event.workflow_run.head_sha || github.sha }}
           POST_FILE: ${{ github.event.inputs.post_file }}
         run: |
           set -euo pipefail

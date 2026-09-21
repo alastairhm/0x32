@@ -9,7 +9,7 @@ featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"
 
 Follow-up to [The Politics I Never Noticed Were There]({{< ref "the-politics-i-never-noticed-were-there.md" >}}) — this one's the practical half. After all the reading about Omarchy's baggage, I landed on the least dramatic option available: a plain Arch install, built up by hand, with someone else's dotfiles layered on top rather than baked in.
 
-The machine is an old Lenovo laptop that's been kicking around doing not much — Intel i5-4300M, 16GB RAM, and (crucially) an SSD I fitted before starting, which turned out to remove basically every hardware worry from the list. The dotfiles are [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) — the community-maintained continuation of the well-regarded JaKooLit dotfiles, handed off cleanly in early 2026.
+The machine is an old Lenovo laptop that's been kicking around doing not much — Intel i5-4300M, 16GB RAM, and (crucially) an SSD I fitted before starting, which turned out to remove basically every hardware worry from the list. I'm laying down [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) — the community-maintained continuation of the well-regarded JaKooLit dotfiles, handed off cleanly in early 2026 — via its companion installer, [LinuxBeginnings/Arch-Hyprland](https://github.com/LinuxBeginnings/Arch-Hyprland).
 
 ## The plan, step by step
 
@@ -25,7 +25,7 @@ Roughly 2–2.5 hours of actual hands-on time, going in with the SSD already in 
 8. **Login manager.** `sddm`, or skip it entirely and launch from a TTY. ~10–15 min.
 9. **Checkpoint reboot.** Confirm a bare, un-decorated Hyprland session actually boots before touching any dotfiles — cheap insurance against debugging two things at once. ~5 min.
 10. **Dotfiles prerequisites.** Waybar, rofi/wofi, a terminal emulator, a notification daemon, fonts — whatever the LinuxBeginnings README says it expects. ~15–20 min.
-11. **Run the install script.** Clone the repo, run `Distro-Hyprland.sh`, let it do its thing. ~10–15 min, mostly hands-off.
+11. **Run the install script.** Clone the [Arch-Hyprland](https://github.com/LinuxBeginnings/Arch-Hyprland) repo, run `install.sh`, let it do its thing. ~10–15 min, mostly hands-off.
 12. **Reboot and fix whatever broke.** Keybinds, waybar modules, wallpaper theming (wallust) — this is the one step with real variance, anywhere from 20 minutes to an hour depending on how cleanly it all lands.
 
 ## Why the long way round

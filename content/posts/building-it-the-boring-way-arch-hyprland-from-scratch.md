@@ -1,7 +1,7 @@
 ---
 title: "Building It the Boring Way: Arch + Hyprland From Scratch"
-date: 2026-09-21T21:00:00+01:00
-draft: true
+date: 2026-09-21T21:43:05+01:00
+draft: false
 tags: ['linux','arch','hyprland','how-to']
 categories: ['Geek']
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"

@@ -1,9 +1,10 @@
 ---
 title: "Arch + Hyprland: Results So Far"
-date: 2026-09-21T21:27:10+01:00
-draft: true
+date: 2026-09-22T08:00:10+01:00
+draft: false
 tags: ['linux','arch','hyprland','archbtw','laptop']
 categories: ['Geek']
+featured_image: "https://live.staticflickr.com/65535/55542039423_2b7624e059_z.jpg"
 ---
 
 Follow-up to [Building It the Boring Way: Arch + Hyprland From Scratch]({{< ref "building-it-the-boring-way-arch-hyprland-from-scratch.md" >}}) — turned out easier than I thought, once I got past one annoying snag right at the start.

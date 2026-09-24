@@ -21,7 +21,7 @@ hugo                 # build static site into public/
 hugo server -D       # local dev server with drafts, live reload
 make build-blog       # hugo (build)
 make deploy-blog       # hugo deploy (pushes to S3 target defined in config.toml)
-make build-docker      # build blog, then docker build -t 0x32 .
+make build-docker      # build blog, then docker/podman build -t 0x32 . (docker preferred; override with CONTAINER_ENGINE=podman)
 make run-docker        # build-docker, then run it on localhost:8000
 ```
 

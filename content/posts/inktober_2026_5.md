@@ -19,7 +19,7 @@ At 02:14 ship time, they ran out.
 
 It was a hard knock, felt through the deck plates, then the alarm. Something small and fast hit the port nacelle housing and went through the outer skin. The scope shows a vapour trail where it came in. We're venting coolant from the damage.
 
-Chief's on her way down with a patch kit and a very short temper. The cactus fell off its shelf. It's fine.
+Chief's on his way down with a patch kit and a very short temper. The cactus fell off its shelf. It's fine.
 
 The odds didn't change. We just stopped getting lucky. Four days to the first burn, and I'd rather not do it on a leaking nacelle.
 

@@ -23,6 +23,8 @@ Chief's on his way down with a patch kit and a very short temper. The cactus fel
 
 The odds didn't change. We just stopped getting lucky. Four days to the first burn, and I'd rather not do it on a leaking nacelle.
 
+Fineliner, brush pen and ink wash.
+
 
 {{< flickr "At 02:14 ship time, they ran out."
            "Inktober 2026 5 The Smack"

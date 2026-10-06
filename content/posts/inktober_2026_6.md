@@ -25,6 +25,8 @@ The crew call it the OGRE because it's ugly, loud, and it keeps us alive.
 
 Note for the next shift: keep the hammer where you can reach it.
 
+Ink fineliner and ink wash.
+
 
 {{< flickr "The crew call it the OGRE because it's ugly, loud, and it keeps us alive."
            "Inktober 2026 6 The OGRE"

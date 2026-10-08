@@ -21,6 +21,8 @@ I'm knee-deep in it again, clamping and swearing. Somebody has to deal with the 
 
 Space plumber. Not glamorous. Just necessary.
 
+Fineliner and ink wash.
+
 
 {{< flickr "Space plumber. Not glamorous. Just necessary."
            "Inktober 2026 7 Stinky"

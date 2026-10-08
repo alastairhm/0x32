@@ -1,5 +1,5 @@
 ---
-title: "Inktober 2026 7"
+title: "Inktober 2026 8"
 date: 2026-10-08T08:30:00+01:00
 draft: false
 tags: ['doodle','inktober','art','blog','hugo']
@@ -7,9 +7,9 @@ categories: ['Creative']
 featured_image: "https://live.staticflickr.com/65535/55576961040_1293954368_c.jpg"
 ---
 
-Inktober 2026 7, Stinky
+Inktober 2026 8, Stinky
 
-Engineer's log, Day 7
+Engineer's log, Day 8
 
 Stinky. Always stinky.
 
@@ -25,6 +25,6 @@ Fineliner and ink wash.
 
 
 {{< flickr "Space plumber. Not glamorous. Just necessary."
-           "Inktober 2026 7 Stinky"
+           "Inktober 2026 8 Stinky"
            "https://www.flickr.com/photos/doodle_m/55576961040"
            "https://live.staticflickr.com/65535/55576961040_1293954368_c.jpg" >}}

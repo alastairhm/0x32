@@ -7,6 +7,14 @@ on:
     branches: [ master ]
   workflow_dispatch: {}
 
+# hugo deploy syncs the bucket to its own build, deleting anything it doesn't
+# know about. Two overlapping master deploys (e.g. PRs merged seconds apart)
+# can let the older build delete the newer post, so run them one at a time.
+# PR build checks get their own group (their ref differs) and never queue here.
+concurrency:
+  group: s3-deploy-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     name: Build and Deploy

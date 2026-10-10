@@ -8,6 +8,11 @@ on:
     - master
   workflow_dispatch: {}
 
+# Serialize pushes to the GitHub Pages mirror so an older build can't land last.
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest

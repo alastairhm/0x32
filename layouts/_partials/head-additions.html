@@ -3,3 +3,13 @@
     <script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   {{ end }}
 {{ end }}
+
+{{/* Hugo's built-in opengraph/twitter templates only read `images`, but posts
+     use `featured_image`. Emit it so link previews (Mastodon, etc.) get a
+     thumbnail. */}}
+{{ if and .IsPage (not .Params.images) }}
+  {{ with .Params.featured_image }}
+    <meta property="og:image" content="{{ . | absURL }}">
+    <meta name="twitter:image" content="{{ . | absURL }}">
+  {{ end }}
+{{ end }}

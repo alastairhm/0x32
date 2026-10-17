@@ -10,3 +10,6 @@ CLAUDE.local.md
 
 # Blogger takeout export (source data for imports, not site content)
 takeout/
+
+.venv/
+

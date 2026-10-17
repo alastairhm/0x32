@@ -13,14 +13,16 @@ Captain's log, Day 17
 
 The engineer hasn't slept. Neither have I.
 
-A sealed bulkhead won't hold that thing for long, so the engineer has been building. Gas tanks strapped to the back, a welding torch in one hand, and a cutting arm of rivets, pipe and jagged steel bolted to the other.
+We have to get rid of the thing. A sealed bulkhead won't hold it for long.
 
-Half welder, half weapon. The engineer calls it a contraption. I call it the only plan we have.
+So the engineer built something: welding mask, oxy-acetylene tanks and torch, deck plating riveted into armour, and a cargo claw for an arm. A contraption. Protection. Hopefully safe.
 
-The torch is lit. The bulkhead is opening.
+Somebody has to wear it.
+
+We're drawing straws...
 
 
-{{< flickr "Half welder, half weapon."
+{{< flickr "A contraption. Protection. Hopefully safe."
            "Inktober 2026 17 Contraption"
            "https://www.flickr.com/photos/doodle_m/55594134775"
            "https://live.staticflickr.com/65535/55594134775_303e6019e5_c.jpg" >}}

@@ -4,6 +4,7 @@ date: 2026-10-22T10:00:00+01:00
 draft: false
 tags: ['tech','docker','php','alpine','lighttpd','security','githubactions']
 categories: ['Technical']
+featured_image: "php-logo.png"
 ---
 
 If you use my [alpine-lighttpd-php](https://github.com/alastairhm/alpine-lighttpd-php) Docker image, please pull `:latest` again and recreate your container. The image now runs **PHP 8.4.27**, which fixes the php2shell vulnerabilities.
@@ -16,9 +17,14 @@ docker pull ghcr.io/alastairhm/alpine-lighttpd-php:latest
 
 ## What is php2shell?
 
-php2shell is the name for two PHP vulnerabilities, **CVE-2026-109618** and **CVE-2026-109619**. Both are critical, and both allow remote code execution with no authentication. Anyone who can send a request to a PHP page could run their own code on the server. The fixes are in the latest PHP point releases, which for the 8.4 branch is 8.4.27.
+php2shell is the name for two PHP vulnerabilities, **CVE-2026-109618** and **CVE-2026-109619**. Both are critical, and both allow remote code execution with no authentication. PHP published a [security advisory](https://www.php.net/archive/2026.php#2026-10-21-5) on 21 October, alongside fixed releases 8.5.12, 8.4.27, 8.3.36 and 8.2.35.
 
-You can reduce the risk by setting `session.upload_progress.enabled = 0`, but the PHP team says no setting fully closes the hole. The real fix is to upgrade.
+- **CVE-2026-109618, RCE via OOM corruption.** An out-of-memory error can interrupt PHP while internal request data is only partly set up. Request cleanup can then treat that invalid data as valid.
+- **CVE-2026-109619, RCE via stale global state.** Some request-owned internal state can survive after its memory has been freed. A later request handled by the same worker can use that stale state before normal setup resets it.
+
+The advisory says every PHP installation that serves web requests is at risk, including PHP-FPM, Apache `mod_php`, FrankenPHP, LiteSpeed and **php-cgi**, which is what this image uses. PHP 8.1 and older don't get fixes from the PHP project.
+
+The advisory lists some ways to reduce exposure if you can't update straight away. They include setting `session.upload_progress.enabled=0` for CVE-2026-109619, and setting `memory_limit` and `post_max_size` carefully for CVE-2026-109618. These settings only block specific attack paths. As the PHP team puts it, "there are no complete mitigations, updating is the only safe choice."
 
 ## How I found out
 

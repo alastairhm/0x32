@@ -1,6 +1,6 @@
 ---
 title: "Inktober 2026: The Full Story"
-date: 2026-10-31T10:30:00+00:00
+date: 2026-11-02T08:00:00+00:00
 draft: false
 tags: ['doodle','inktober','art','blog','hugo']
 categories: ['Creative']

@@ -7,7 +7,7 @@ categories: ['Technical']
 featured_image: "/bbc-mandelbrot/mandel3.png"
 ---
 
-At the end of [the last fractal post]({{< ref "fractal-zoom-video-script.md" >}}) I joked about leaving the BBC Micro on overnight for a single picture. So this time I went back to where it started for me: BBC BASIC in MODE 2. I had Claude drive the MacBeeb emulator and type the programs in at the `>` prompt, with the emulator window open so I could watch it go, one key at a time, the way I used to copy listings out of magazines.
+At the end of [the last fractal post]({{< ref "fractal-zoom-video-script.md" >}}) I joked about leaving the BBC Micro on overnight for a single picture. So this time I went back to where it started for me: BBC BASIC in MODE 2. I had Claude drive the [MacBeeb](https://github.com/acorn-playground/macbeeb) emulator and type the programs in at the `>` prompt, with the emulator window open so I could watch it go, one key at a time, the way I used to copy listings out of magazines.
 
 There are three programs, and they're now in the `bbc/` folder of my [fractals](https://github.com/alastairhm/fractals) repo, as plain listings and on a DFS disc image.
 
@@ -73,7 +73,7 @@ One snag along the way: `SAVE "MANDEL"` worked inside the emulator, but it never
 
 ## Trying it yourself
 
-Grab `bbc/mandel.ssd` from the [repo](https://github.com/alastairhm/fractals/tree/main/bbc) and load it into drive 0 of any BBC emulator, such as [jsbeeb](https://bbc.xania.org/) in your browser. Then:
+Grab `bbc/mandel.ssd` from the [repo](https://github.com/alastairhm/fractals/tree/main/bbc) and load it into drive 0 of any BBC emulator, such as [MacBeeb](https://github.com/acorn-playground/macbeeb), which I used for all of this, or [jsbeeb](https://bbc.xania.org/) in your browser. Then:
 
 ```basic
 CHAIN "MANDEL"

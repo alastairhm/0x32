@@ -45,7 +45,7 @@ There is no test suite, linter, or package manager in this repo — it's static 
 Two independent, parallel deploy paths triggered on push to `master`:
 
 - `.github/workflows/main.yml` — builds with `reuixiy/hugo-deploy` (no pinned Hugo version) and pushes the built site to the `build` branch of the separate `alastairhm/alastairhm.github.io` repo (GitHub Pages mirror).
-- `.github/workflows/s3.yaml` — builds with `alastairhm/deploy-hugo-to-s3-action` (pinned Hugo `0.166.0`) and deploys directly to S3 (`blog.0x32.co.uk`), which serves the primary site via CloudFront. Also runs on pull requests targeting `master` (build-only check, no deploy credentials needed for that to matter).
+- `.github/workflows/s3.yaml` — builds with `alastairhm/deploy-hugo-to-s3-action` (pinned Hugo `0.166.0`) and deploys directly to S3 (`blog.0x32.co.uk`), which serves the primary site via CloudFront. Also runs on pull requests targeting `master`, where `skip-deployment` limits it to a build check; only runs on `master` deploy. After a successful `master` deploy, `mastodon.yaml` and `bluesky.yaml` automatically announce any newly added post.
 
 `hugo deploy` (via `make deploy-blog`) performs the same S3 deploy locally using the `[deployment]` config in `config.toml`, and requires AWS credentials in the environment.
 
